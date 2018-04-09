@@ -1,0 +1,133 @@
+lfdn,v_347
+41,Testing
+48,Test procedures
+76,Same as Maintainability above
+79,Non functional requirements chapter at the end of each concerned story
+81,quantified textual requirements
+106,quantified textual requirement
+118,non-quantified textual requirements
+119,MTBF
+120,using non-quantified textual requirements
+126,Analysis
+144, using quantified textual requirements
+147,textual
+150, using quantified textual requirements and following specific guidelines and standards
+162,using quantified textual requirements
+163,Quantified textual requirements using an technical requirements intake document for solution architecture
+165,using semi-quantified textual requirements ( shall-statements )
+170,document
+178,non functional requirements
+182,Specific guidelines standard or practice
+183,Textul
+197,Plain text
+199,Quatitatively. Mil style Reliability Analysis.
+203,"availability, fault tolerance"
+205,Require architect's approval of interfaces
+230,Quantified textual requirements
+278,using quantified textual requirements
+291, using quantified textual requirements
+292,"xFMEA, reliability studies, risk reviews"
+297,Textual requirements
+317,(The same)
+332,textual
+334,Diagrams and quantified textual requirements
+349,textual requirements
+359,Using customer's request
+372,quantified textual requirements
+377,Textual requirements with supporting tables of numeric standards.
+384,quantified textual requirements
+412,Textual and calculation spread sheet 
+420,do not know
+427,Quantified textual requirements 
+437,quantified textual requirements 
+442,quantified textual requirements
+444,Structured List of Requirements
+446,non-quantified textual requirements
+479,natural language (sentence patterns)
+482,Non quantified textual requirements 
+506,"using quantified textual requirements, diagrams, following any specific guideline, standard or practice."
+511,using quantified textual requirements
+525,using internal guide lines
+569,Text
+570,Quantified textual requirements
+586,"Guideline, policy and practise"
+626,Quality scenarios
+637,non-quantified textual requirements
+676,"quantified textual requirements, diagrams, following customer guideline"
+684,Swim lanes
+722,Textual
+728,text
+742,"Text in requirements doc which becomes part of third party contract, so eg.  tolerance (number and time of outages etc) will be documented by type of outage, time of day and elapsed time"
+750,Textual requirements and diagrams
+754,Standards and parameters documented in wiki or shared repository
+758,Test scenarios
+785,following some guidelines
+818,non-quantified textual requirements
+839,Available as per existing corporate standards
+849,Acceptance Criteria
+898,availability
+912,"Usually standard requirements, based on experience"
+916,not measurable
+924,Load Tests Results
+929,any documentation with textual description of the requirement vision document.
+937,non-quantified textual requirements
+945,Using measurable  textual requirements
+952,before and after transformation
+968,With document specifying the required settings and mechanisms to be implemented
+985,Quantified textual requirements
+997,text with mentions of quantification
+1006,text documents
+1008,Text
+1010,standards
+1011,"text, tables, lists"
+1012,quantified textual requirements
+1021,the system must have resilience
+1031,structured list of requirements
+1066,quantified text requirements
+1076,"What type of application server, fault tracing methods, Logs"
+1091,Diagrams and texts
+1097,not measurable using textual requirements
+1118,The same.
+1126,specific topic in the main project document
+1140,"recoverability, availability"
+1141,using quantified textual requirements
+1159,AVAILABILITY
+1161,"Quality indicators with # of technical incidents, plus  non functional."
+1204,Review of requirements from client and written in doc
+1207,documentation in internal wiki
+1239,quantified textual requirements
+1279,Textual
+1290,Specifications
+1291,using non-quantified textual requirements
+1327,system specification in chapter non-functional requirements
+1343,TESTing
+1344,errors loggin with state management
+1349,Contract and SLA's
+1353,Success rate in unit tests and functional tests
+1355,"IN CASE OF FAILURES, THE PRODUCT CAN RECOVER ITSELF"
+1384,screenshots
+1402,Textual
+1406,With safety requirements
+1423,AVAILABILITY
+1424,madurity
+1428,textual according to a tempalte
+1466,User story/incident/backlog tracking tool
+1560,"Availabilty, Recoverability"
+1618,This our covered in our Design Documents often using text based requirements
+1633,natural language description in excel files
+1650,"Use cases, informal text"
+1651,Review against reliability guidelines
+1663,must meet standard reliability threshold (datawarehouse project) eg. recoverability
+1742,quantified textual requirements
+1751,Nonquantified textual req
+1753,"Diagrams, tables and textual requirements including performance levels, fault tolerances"
+1761,Design charts
+1791,a
+1805,using non-quantified textual requirements
+1820,Text
+1831,measurable textual requirements
+1840,non-quantified textual requirements
+1844,fault tolerance
+1911,textual requirements
+1933,in memos
+1969,"We document these generally in terms of a base level of reliability that is acceptable to the problem.  (i.e. if reliability falls below the stated minimum, it is considered to be a failure)"

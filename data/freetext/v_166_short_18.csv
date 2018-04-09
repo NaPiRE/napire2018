@@ -1,0 +1,19 @@
+lfdn,v_166
+147,"We update the requirements, but not the official requirements documentation."
+167,"We perform changes on the system description in each iteration. Tool support is key here (baselining and baseline compare, suspect links, workflow states reflecting chanages, etc.)"
+180,Change request for change in scope
+249,"I don't implement until all requirements are finalized, hybrid waterfall, incremental, and iterative build "
+258,"we upate until officially handed over to external development. After that we either create new requirements or add notes to exsiting ones, clarifying them."
+355,"for software, we use SCRUM Teams "
+377,Changes requests for Waterfall projects - ideally in a Requirements Management system like BluePrint - update the Product Backlog for Agile projects
+437,change management addenda are made but the previously accepted specification is unchanged
+479,"The idea is to use change requests, but there is no concept yet."
+786,I have not dealt with that issue.
+856,"We use git and we create an issue of improvement over there, but we do not update the original document. However, in the application we can view the original document and the changes made through the project."
+909,"We update our product backlog and as the item is being prioritized, its requirements are explored and its specification is updated"
+912,"Our process is a bit less formal, so we most often update during test, and very rarely in UAT, and reconfirm with the business as we go.  Usually a necessary requirement which has been missed is obvious.  The exception is scope change."
+1097,By updating the analysis document
+1289,We update the impacted requirement but relate them to a change item describing the change. We snapshot every release in documentation. 
+1542,"We create new user stories or bugs (depending) to address the changes, but do not update our previous requirements"
+1899,Do not know
+1962,We review the project backlog

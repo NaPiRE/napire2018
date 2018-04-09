@@ -1,0 +1,70 @@
+lfdn,v_348
+58,textual (templates)
+79,Non functional requirements chapter at the end of each concerned story
+81,non-quantified textual requirements & specific standards
+118,non-quantified textual requirements
+119,SIL
+120,using quantified textual requirements
+126,Analysis
+147,textual
+149,"using non-quantified textual requirements, using quantified textual requirements"
+150,following specific guidelines and standards
+165,using semi-quantified textual requirements ( shall-statements ) in reference to safety rules
+170,spread sheet
+182,Specific guidelines standard or practice
+183,"Textual, diagrams, standard"
+199,Tagged Requirements get extra attention.  Mil style Safety Analysis.
+203,freedom of risk
+221,risk
+230,I don't really deal with this 
+278,using non-quantified textual requirements
+291, using quantified textual requirements
+292,HARA
+297,Textual requirements
+304,Error scenarios
+332,textual
+355,different IT systems
+420,backup plans
+427,Quantified textual requirements 
+444,State machine and structured list of requirements
+446,non-quantified textual requirements
+479,natural language (sentence patterns) + semi-formal or formal models (ISO 26262)
+511,using non-quantified textual requirements
+569,Text
+570,"Reference to applicable international standards, quantified textual requirements"
+663,Natural Language / Informal Text
+750,Textual requirements and diagrams
+785,following some guidelines
+795,Avoidance of clinical risk appears in plenty of our user stories ( so that I can be sure I'm providing the appropriate treatment  etc.)
+818,non-quantified textual requirements
+879,risk integrations
+912,"This usually forms part of the risk assessment and mitigation analysis at the beginning of the project, revised at stage gates"
+952,before and after transformation
+984,Risk Analysis
+985,Quantified textual requirements
+1008,Text
+1014,text
+1021,The system must be able to identify a hardware self-heating thus connecting the cooling area.
+1031,structured list of requirements
+1064,quantified textual requirements
+1066,quantified text requirements generated from Hazard Analysis and Safety Related Application Conditions of the products
+1091,Diagrams and texts
+1098,Natural language / informal (plain) text
+1141,using quantified textual requirements
+1204,Review of requirements from client and written in doc
+1239,non-quantified textual requirements
+1290,Specifications
+1291,using non-quantified textual requirements
+1327,-
+1354,"we do not document, due to the reduction of documentation"
+1402,Textual
+1406,Explicit fields in doors with links to safety documentation
+1417,DOES NOT APPLY
+1423,DISASTER REDUCTION
+1424,DISASTER REDUCTION
+1482,DOCUMENTATION OF ERRORS
+1620,We are currently working on refining this.
+1669,"COMMUNICATION, NATURAL LANGUAGE"
+1723,NO RISK TO HEALTH
+1761,architecture digram
+1820,Text

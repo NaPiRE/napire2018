@@ -1,0 +1,301 @@
+lfdn,v_284
+35,lack of experience in software develoment; lack of experience in digital companies (4.0)
+41,This simply makes the process of creating the software harder. It is overcome via proper communication.
+58,no information flow
+76,Education process in place; reiteration of focus
+81,Customer-providers relationship
+91,unclear requirements
+93,time-consuming in elicitation and explanation; unnecessary changes/work
+106,Schedule overrun
+119,missing features
+120,Risk of overconstraining design
+126,Risk for the dev
+129,Missed requirements
+141,discover issues only during User Acceptance Testing
+144,this may cause us to be unable to deliver the desired solution; may cause significant delays in delivering something; may have to provide a different solution if the initially desired one is not possible
+146,Spend to much time on the wrong things
+147,Rework
+149,inefficient
+150,Delays in schedule and scope changes
+160,incomplete or wring details
+163,lots of rework to clarify what previous business analyst did resulting in significant project delays and not delivering an acceptable product to customer
+165,"delays, budget overruns, sometimes reduction of deliverable performance (rarely)"
+166,disorganization
+167,mediocre solution
+168,People often underestimate how much time a task requires.
+179,hidden requirements
+182,Difficulty in completing bathe project 
+188,Delays in development; Demotivation in Dev Team
+199,Support for skipped development steps.  Backfilling later.
+203,I was not sure about that.
+205,no one notices or cares
+208,overrunning budget; losing stakeholders acceptance
+213,Incorrect requirements. 
+215,"unsatisfied customers, delayed acceptance of solution"
+217,unclear requirements
+231,Potentially not conforming to stakeholder needs
+239,Time and effort spent in unneeded features
+249,Doing same work multiple times
+259,misunderstand
+263,many change requests; late testing; long evelopment cycles
+267,Lossless in information 
+268,Too much projects for one stakeholder
+278,Lack of understanding between project members
+283,hard to carry our precise performance testing
+291,Not sure that we are doing the right things
+297,Bad quality and reliability
+304,missing acceptance criteria; difficult starting point
+310,downtimes
+313,Developers do not have a big picture overview of the whole project and end up focusing on one sprint at a time.  This means features are sometimes implemented which are later found to be incompatible with a new feature. 
+330,"management of expectations, delays, costs"
+355,time critical 
+359,Lack of personnel with domain knowledge
+364,project takes twice as long as previously planned; budget increases; everybody is annoyed
+370,redo of development
+377,Perception from customer that delivery is not on track or not enough is being delivered
+384,increased time for clarification resulting in delay of delivery of new features; delay in documenting requirements thereby increasing the risk of deviations between sofwatre and requirements
+387,Increase of effort in testing;bad motivation of test team.
+393,less resources for real business value
+416,some quality issues
+420,stops in project because of late decisions
+425,Customer does not get what he need in time.
+427,Quality issues could go undetected
+437,rework
+442,delay in decision making
+444,low morale in team
+446,delivery impact
+453,redoing things
+461,customer dissatisfaction; development team dissatisfaction because is not clear what to do
+467,re work; double work; misunderstandings
+468,Incorrect implementations that do not meet the specified requirements.
+479,Glossary
+482,Less efficiency and productivity 
+485,poor code quality 
+489,bad customer acceptance
+511,Stress
+512,"unclear direction for team, time wasted "
+518,The work has to be rushed
+523,Delays in development time
+525,some functions will not be implemented; cost is higher
+534,Any
+539,problems in designing
+549,Delivered results may not be 100% what is required leading to repeat development
+570,wasted time
+573,Prolonged timescales to understa nd business needs
+586,poblems in deploys
+626,Lack of domain understanding
+637,Hard to find where from the requirement originated.
+640,confusion; reduction in client trust
+649,poor moral in team
+661,The project is extended
+663,Implication to project quality and project cost
+676,development problems arise
+694,overall project delays ; some times even conflict between team members
+710,risk of not building the right product
+719,It is not known where the error occurred
+722,"Lot of rework, thus missing deadlines"
+723,stop;stray
+729,"In some cases it led to present two different solutions (with prototypes), so that the user may select (what the user had requested, and what the team of project considered that could be the best solution)"
+740,Estimation error; re work
+742,Potential for conflict if not handled carefully 
+754,ye
+758,Guessing and having a vague idea about what they need
+768,incomplete requirements; sliding of timeline
+786,The customer has too much to work on at once.
+819,ambiguous information
+830,Invalid solution.
+847,A lot of re-work to understand how to either meet or to remove those requirements
+849,lack of focus on what the company can provide value
+851,Initial elicitation failures (first iteration cycles)
+856,"It does not have a phase transfer of knowledge, just to try something new and if this new need old features we have to investigate and talk to the team, but some details always go unnoticed resulting in rework"
+864,Rework after development
+865,Rework
+868,rework
+870,Product out of specification
+876,the system takes  time to go into production
+879,Rework.
+880,Rework.
+901,Delivery failed; rework
+909,imprecision in the identification and specification of requirements
+910,Difficulty in correcting problems
+912,"Rushed, stressed project staff, without the ability to think through outcomes before delivering."
+916,Product with low quality
+917,Rework
+921,Impact on development
+923,deteriorated relationship with the customer
+924,rework
+928,Low quality in the generated requirements and rework at all stages of the production process.
+929,Errors in the treatment of identified needs
+930,demands design and development rework
+933,final product insufficient and unsatisfactory.
+945,"software delivery with features that do not meet the goal, characterization of development team with inability to perform their work"
+947,false/incomplete things are implemented
+952,requirements/scope not define
+956,NP
+958,Deadline for service demands are compromised
+959,"staff overload, fatigue,  etc ..."
+984,Lack of innovative product features
+985,Waste of time researching the subject
+987,more time required
+990,Instability in the information flow
+997,costs of hardware to improve performance
+1006,Delay in eliciting requirements
+1010,Missing/skipping process steps
+1011,delayed completion of project;repeated re-development of certain modules
+1012,"Missing features, bad Useability"
+1014,less communication
+1017,more investigation required by development team
+1021,functional and structural errors
+1031,"if not defined, no testable, so they may contain errors"
+1033,The lack of internal synergies to the team generates a sense of hard work and little income or lack of recognition of the customer
+1039,New activities included in sprints
+1051,Unsatisfactory product
+1055,it has impact on architectural decisions
+1064,Project delays
+1065,More discussions with stakeholders are required
+1066,"chaos on the project, schedule delays, cost overrun"
+1069,identifying cultural background earlier  
+1070,"conflicts, discussions, delay"
+1076,Have to explain frequently the methods used
+1079,Rework
+1080,inefficient solutions and that are not used.
+1082,Implies no commitment
+1091,project does not progress
+1097,system modules have compatibility issues
+1100,Rework
+1101,process failures
+1105,Reusing test
+1111,rework and errors
+1114,Rework
+1118,The same above
+1122,Conflict with the various teams on the expectation of each deliverable
+1124,Excessive gaps and high cost of adaptation of the new solution to be equal to the previous process.
+1126,Product delivered without the necessary or different from the expected quality; Unsatisfied customer; Increased project development costs;
+1139,misunderstandings
+1141,rework in later development phase
+1159,failures IN THE PROJECT
+1161,AUTOMATED PROCESS IDEALIZATION
+1163,Demotivation
+1168,FAILURE TO COMPLY WITH THE REQUESTED
+1171,Increased development errors
+1187,Requirements shelved
+1194,Greater effort in code coverage tests with automáticasñ Major incident resolution times and updating test cases
+1204,Costly reset to align
+1207,functionality implemented does not meet the expectations
+1224,Distrust in technicians
+1229,a different product from what the customer requires is developed
+1238,"the development stage is started without clear requirements (for having devoted less time than necessary) and we noticed definition errors in advanced stages of the process, which is much more costly to correct."
+1239,lost time due to endless discussions (often after implementation) and rework
+1266,"Change or loss of the contract by not achieving  its clauses, by the customers"
+1279,Similar to weak knowledge of customer domain
+1283,"Incomplete, not fully satisfactory product"
+1288,working in the wrong direction
+1289,Acceptance in the end because workarounds are needed
+1290,Longer Development and Testing
+1291,Danger of defects because of misunderstandings
+1296,Creates hard to achieve goals
+1316,implementation estimates are not accurate
+1327,Lack of quality.
+1331,constant design changes and impacts in developing and testing
+1339,difficult COORDINATION AND FRUSTRATED or unproductive meetings
+1341,LACK OF DOCUMENTATION
+1343,CUSTOMER do not understand the SYSTEM
+1347,restricted innovation
+1349,PROBLEMS BETWEEN THE manager AND the CUSTOMER
+1350,THE SOFTWARE DOES NOT MEET REQUIREMENTS
+1351,SOFTWARE not 100% working
+1352,USERS dissatisfaction
+1353,DIFFICULT TO DELIVER PROJECTS
+1354,LOSS OF KNOWLEDGE OF the PROJECT OBJECTIVE
+1355,PRODUCT DEVELOPED not conforming the NEEDS
+1356,REQUIREMENTS not CLEAR and BUSINESS rules not ESTABLISHED
+1357,PROJECT COST INCREASE
+1358,INCOMPLETE DOMAIN IN THE APPLICATION FIELD
+1359,MALFUNCTIONS
+1360,MALFUNCTIONS
+1402,Marketing not understanding what provides customer value vs. something that look sexy but is confusing to the customer
+1403,overtimes; stress; 
+1406,Misunderstandings
+1411,inefficient collaboration
+1413,UNAVAILABILITY
+1415,Miscommunication
+1416,bad scope ESTIMATion
+1417,INCOMPLETE RESULTS
+1419,LACK OF TRUST
+1423,LACK OF COMMUNICATION AND RELATIONSHIP
+1424,LACK OF SUPPLEMENTS
+1426,increased communications effort
+1433,INADEQUATE PROJECT SCOPE
+1435,PRODUCTS WITH DIFFERENT CAPABILITIES
+1441,waste of effort
+1454,TEAM lack of motivation
+1455,LACK OF DOCUMENTATION
+1457,CHANGE CONTROL
+1458,NO GOOD COMMUNICATION
+1459,They HAVE TO MAKE the same functionality SEVERAL TIMES UNTIL it works
+1462,COMPANY DISPUTES generate disagreement
+1466,"Time lost and frustration gained across the team as we work to get clear, shared requirements."
+1467,implemented wrong behaviours and require rework
+1482,SOFTWARE does NOT meet requisites
+1483,DELAYED TIMELINE
+1486,Distracted team with lack of focus
+1526,Rework
+1542,"A bad image of the IT Team, perceived often as too slow, not performant, or a blocker, or incompetent, etc"
+1560,project implementation delays while trying to understand needs at later phases
+1617,"Slip of delivery dates, overtimes, overwork of a team"
+1620,Impacts business by not delivering on promises. 
+1621,"Bad requirements, no prioritization, moving goal posts"
+1624,wastage on throw away projects
+1650,Time
+1651,Stakeholder confusion over co-ordination of project dependencies and project timings
+1663,time lost explaining the original intention to the customer
+1668,LACK OF DETAIL OR EXCESSIVE FUNCTIONALITY
+1669,NEGATIVES TO THE DEVELOPMENT upgrades
+1670,Lack of detail
+1675,Incorrectly implemented features
+1676,usually me stopping the team from spending too much time on a (usually small) task
+1690,SYSTEM OR PROJECT WITH serious failures or shortcomings
+1695,unable to reuse the WORK PERFORMED.
+1697,Code not as good as it may be.
+1698,NO CLEAR undestandig of what the CUSTOMER WANTS
+1703,INCOMPLETE PRODUCT
+1705,failures IN THE APPLICATION DEVELOPMENT
+1717,MORE RESOURCES USED FOR THE CUSTOMER
+1718,software which solves the wrong problems; customer dissatisfaction; longer meetings
+1723,Impatience of the CUSTOMER
+1727,USERS WITHOUT KNOWLEDGE
+1733,> Development time
+1741,Angry stakeholders
+1742,busted timeschedules
+1744,Same
+1753,Unable to deliver expected functionality and performance in the given time - delays of the project.
+1756,"Usually leads to time wasted clarifying what looks like a weird or inconsistent requirement, but it can lead to implementing the wrong requirements (potential delays and additional costs)"
+1759,misunderstandings in implementation
+1761,Need to close customer dialog 
+1763,"Poorly documented features, that are missing tests"
+1791,df
+1804,Rework
+1805,difficult to analyze customer's requirements
+1810,Unexpected delays in schedule
+1812,delay and rework
+1820,Extra hours
+1828,difficulty in clarification of requirements
+1840,The outcome will be of bad quality and this will go to maintenance and cost alot
+1842,Implementation of a project that is not exactly what the customer wants; poor use of the software by the customer - for not answering all your needs; It can be good because it puts the sw earlier in the hands of users to obtain feedback
+1844,generates lack of understanding
+1849,Low quality deliverable; incomplete requirements
+1894,Time spent on stakeholder management; downtime in requirements discussion
+1896,Customer feedback is sometimes dismissed
+1909,Lack of methodology; Poor use of resources; demotivation
+1911,Feature not implemented
+1917,the same as above
+1918,Difficulty in finding consensus on a plan.
+1923,Less time for analysis and validation
+1932,"failures in development, which leads to an increased effort; potential unnecessary interactions with the customer"
+1933,challenges in the actual deployment
+1941,Same as above
+1961,time wasted
+1962,little innovative products;
+1963,x
+1965,extra effort
+1969,The system doesn't do what it needs to do.

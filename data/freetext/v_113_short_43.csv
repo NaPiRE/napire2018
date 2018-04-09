@@ -1,0 +1,44 @@
+lfdn,v_113
+48,Regression/formal tests
+146,close contact with testers
+160,in a feedback phase with the customers
+165,verification (known as check) and validation (know as approval) of the functional/engineering specifications acting as a requirements register
+249,Does the requirement match the visual cue
+258,informal reviews by team members (which are not in the RE-Role and have no RE-certificate but are the end users so the stake holders) and they must undertand what is ordered. Then we do workshops with the developers.
+291,"Prototyping, sketches"
+292,Metric reviews
+317,Get feedback from stakeholders including suppliers
+332,verification & validation review by selected stakeholders
+355,according A-SPICE (Level 2)
+370,desk check review made via mail
+479,"Rules for attributes and sentence patterns (e.g. active, always name the actor, ...)"
+485,with meetings
+694,Acceptance Criteria on User Stories
+710,There's formal step where a technical analyst verifies the requirements.
+729,"Wireframes and prototypes presentations to the direct users of the counterpart, and the counterpart team which was involved in the requirement elicitation"
+753,it is validated directly with the customer
+758,Testing
+865,Verified and validated with the customer
+909,Use prototypes as validation technique requirements
+912,"We often workshop the second requirements draft, and if agreement is unclear, we might challenge the issue with examples to better understand where the edges of the requirement are"
+917,Test with the customer
+918,Validation of the requirements with the client
+930,Customer review
+980,Workshop 
+1014,"customer, integration tests"
+1055,Using escenarios performed by the user in a production environment
+1070,Testing
+1139,manual check
+1411,Review by developer and product manager
+1457,PROTOTYPing
+1466,Consultation with subject matter expert(s)
+1477,Testing groups
+1542,"Acceptance by the PO, then Sprint reviews with the stakeholders (if the requirements are not validated, it is usually very painful to roll the commits back)"
+1650,dedicated QA
+1663,test
+1753,"Selected parts of the requirements (acceptance requirements), are presented (incl. walkthough) to customers at delivery meetings"
+1755,No verification
+1842,"Demos, accepting meetings, and also through usability testing"
+1911,Demos of implemented requirement
+1928,I don't
+1962,Quality tests with outsiders QA Labs

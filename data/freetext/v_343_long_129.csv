@@ -1,0 +1,130 @@
+lfdn,v_343
+106,non-quantified textual requirement
+115,Typically quantified textual requirements
+144," using quantified textual requirements, interface models"
+147,textual
+150, using non-quantified textual requirements
+162,using quantified textual requirements
+178,non functional requirements
+179,Natural language
+182,Specific guidelines standard or practice
+183,Textual
+188,non-quantified textual requirements
+197,Plain text
+203,"co-existence, interoperability"
+208,non-quantified textual
+230,Diagrams
+231,"textual requirements, use-cases, user stories"
+267,Non qualified textual requirements 
+278,using non-quantified textual requirements
+291, using quantified textual requirements
+292,"Interface Control documents, typically database document that drive SW and test tools"
+310,quantified textual requirements
+317,"Quantified textual requirements, often with open target. Guide and template from Requirements SL-07"
+330,Quantified textual requirements 
+332,"textual, io-lists"
+334,Diagrams and quantified textual requirements
+349,textual requirements
+384,quantified textual requirements
+412,Textual conformancy statements with standards and automated tests of that conformancy
+437,Quantified textual requirements 
+446,non-quantified textual requirements
+453,textual requirements
+461,Natural language
+506,"using quantified textual requirements, diagrams, following any specific guideline, standard or practice."
+511,using non-quantified textual requirements
+548,OK
+560,Textual & diagrams 
+569,Text
+570,Mix of quantified and non-quantified textual requirements
+573,system architecture diagrams
+586,"Guideline, policy and practise"
+626,Quality scenarios
+661,textual requirements
+663,Natural Language / Informal Text
+676,"quantified textual requirements, diagrams, following some customer guideline"
+694,In Statement of Work (contract) + User Stories descriptions and acceptance criteria
+710,Detailed explanation (text and diagrams) of the interactions needed with other systems.
+729,non-quantified textual requirements 
+735,measurable textual requirements
+750,Textual requirements and diagrams
+754,Guidelines
+758,User stories
+768,use case
+774,natural language 
+785,following some guideline
+825,quantified textual requirements and diagrams
+831,All Quantified measures
+839,State that project work must be compatible with existing corporate information systems and security requirements
+845,text
+851,"textual requirements, guidelines"
+856,it is explicit in the technical proposal which is designed as a requirements document.
+857,unmeasurable textual
+868,measurable using textual requirements
+870,Multiplataform
+879,coexistence
+880,Text and diagrams
+909,unmeasurable textual requirements
+912,This is usually done with diagrams and business rules
+923,Deployment Plan recording the ecosystem wherein the solution is inserted
+929,any documentation with textual description of the requirement vision document.
+945,Using unmeasurable requirements textual
+952,time of transformation. 
+968,With document that specifies the platforms to be used
+984,"Quantified Text, Standards"
+985,quantified textual requirements 
+1011,"text, referenced to technical specifications, rules (e.g. interface changes)"
+1021,Hardware compatibility and software existing in the company
+1039,using textual requirements based on the restrictions set by the customer
+1051,Non-quantified textual requirements
+1055,quality attribute scenario
+1082,measurable textual requirements
+1091,Diagrams and texts
+1111,textual
+1122,"Compatibilized data and structure to standard tools, ability to integrate with other products"
+1124,Described the requirements that need.
+1126,specific topic in the main project document
+1140,interoperability
+1141,using quantified textual requirements
+1188,unmeasurable textual requirements
+1189,non-quantified textual requirements 
+1204,Review of client IT environment requires and written in doc
+1283,"Non-quantified textual requirements, guidelines and standards"
+1296,Text
+1321,Explicitly
+1327,Solution concept of infrastructure
+1329,text
+1349,Stablished in the contract
+1350,INTERACT WITH OTHER SOFTWARE AND HARDWARE
+1355,Communication between team and users
+1357,recieving functional technical documents
+1360,Documented in contract
+1402,"Textual, test plans"
+1423,Coexistence
+1424,interoperability
+1428,textual according to a tempalte
+1435,Review of Enterprise Systems and their integration
+1441,non-quantified textual requirements
+1460,Natural language
+1462,Contract
+1467,Textual
+1482,WRITTEN DOCUMENTATION OF PERCENTAGE OF COMPATIBILITY.
+1484,#VALUE!
+1560,"interoperability, backward compatable"
+1624,Api docs using swagger and also on confluence
+1650,"Use cases, informal text"
+1651,Review against architectural guidelines
+1676,"we document all these requirements on Confluence, on a page or space specific to what we're building."
+1699,It is very necessary
+1703,White box testing is pefformed to check compatibility in the information
+1717,Documentation provided by customer (functional technical)
+1718,non-quantified textual requirements
+1744,Plain text
+1753,"Textual requirements specifying backwards compatibility between system components (specific electronics, network trafic performance engines, API software, host and OS)"
+1791,a
+1804,Guidelines
+1820,Text
+1911,textual requirements
+1917,in coordination with the cliente.
+1923,textual requirements for interoperability between systems
+1929,Text

@@ -1,0 +1,174 @@
+lfdn,v_349
+48,Test procedures (checklist)
+76,"Same as above plus business rules use case diagrams and process flows, non-qualified detailed requirement "
+79,In the story text
+91,textual
+106,quantified textual requirement
+126,Analysis
+141,Adhere to the established corporate guidelines
+144, using quantified textual requirements
+147,textual
+149,"using non-quantified textual requirements, using quantified textual requirements"
+150, using quantified textual requirements and following specific guidelines and standards
+162,standards
+163,"Quantified textual requirements using an technical requirements intake document for solution architecture, Data Classification Document, Risk Profile, Security Profile, Identity Assessment Analysis"
+178,"non functional requirements, references to give specs"
+179,Natural language
+182,Specific guidelines standard or practice
+197,Plain text
+205,Depend on others in the organization
+208,"non-quantified textual, following compliance guideline"
+221,integrity
+239,Non-quantified textual requirements
+263,Plain Text
+278,using non-quantified textual requirements
+283,following industry standards
+291, using quantified textual requirements
+292,TARA
+304,"Legal issues, in natural language description"
+310,"quantified textual requirements, diagrams"
+317,(The same)
+330,Quantified textual requirements
+332,textual
+334,Diagrams and quantified textual requirements
+349,textual requirements
+355,specialized IT system
+372,non-quantified textual requirements
+377,Textual requirements with supporting tables of roles and entitlements
+378,following standards
+384,quantified textual requirements
+387,"authenticy, confidentially"
+416,following any specific guideline
+420,information security analysis as part of project documentation
+427,Quantified textual requirements 
+437,"following a guideline, standard, or specific practice"
+442,quantified textual requirements
+446,non-quantified textual requirements
+453,"Roles, permissions"
+461,"natural language activity diagram, standards"
+475,roles and profiles
+479,natural language (sentence patterns)
+482,Non quantified textual 
+502,Quantified textual requirements
+506,"using quantified textual requirements, diagrams, following any specific guideline, standard or practice."
+511,using non-quantified textual requirements
+524,Textual Requirements following standards
+560,Textual
+569,Text
+570,Following company guidelines on cyber security
+572,no specific method used
+586,"Guideline, policy and practise"
+626,Quality scenarios
+663,Natural Language / Informal Text
+676,"quantified requirements textual, diagrams, following some customer guideline"
+683,IEEE 830
+722,Textual
+723,confidentiality
+728,textual requirements
+742,Threat modelling
+750,Textual requirements and diagrams
+754,Standards and parameters documented in wiki or shared repository
+768,use case
+774,natural language 
+785,following some guidelines
+818,quantified textual requirements following any specific standard 
+819,Including change logs and audit logs
+825,quantified textual requirements and diagrams
+830,"Specific NFRs for security of the data stored in the solution, auditing of access & updates, end-user authentication and authorisation requirements"
+839,Must be delivered inside a secure container as per existing corporate standards and authenticate against corporate system
+845,text
+851,"Standards and recommendations, textual requirements"
+856,it becomes explicit in the technical proposal which is designed as a requirements document.
+857,non-measurable textual
+864,textual common language and state machine
+889,diagrams
+898,authenticity and integrity
+912,"Usually managed by external specialists, unless there is an obvious risk, which is directly handled at project level"
+916,not measurable
+923,safety guidelines included in the non-functional requirements document
+924,Security Tests Results
+929,Casual documentation with textual description of the requirement in a vision document.
+945,Using measurable textual requirements 
+952,before and after transformation
+960,We are placing the data in share portal accessible to only right receipients 
+968,With a document that specifies the security mechanisms being deployed 
+984,Risk Analysis
+985,Quantified textual requirements
+987,Natural Language
+997,Referring to corporate standards
+1006,text documents
+1008,Text
+1011,"text, diagrams, guides"
+1021,Only specific users may have authorized access to the system. Restricted access authorization of the organizational sector
+1039,using diagrams
+1051,Non-quantified textual requirements
+1064,quantified textual requirements
+1065,Atlassian Jira
+1066,quantified text requirements
+1076,"Backup, user access control, permissions levels, security methods"
+1079,defined authentication standards and rules in the global project
+1091,Diagrams and texts
+1097,using non-measurable textual requirements
+1098,Natural language / informal (plain) text
+1100,natural language
+1111,textual
+1118,The same.
+1124,Need described in the requirements.
+1126,specific topic in the main project document
+1141,using quantified textual requirements
+1161,All authentication must be based on active directory.
+1188,unmeasurable textual requirements
+1189,"non-quantified textual requirements, using quantified textual requirements"
+1204,Review of requirements from client and written in doc
+1239,non-quantified textual requirements
+1266,"Encryption, and token generation token per specific customer hired by the same groups."
+1289,Non functinal requirements on process capabilties and use case
+1291,using quantified textual requirements
+1327,system specification in chapter non-functional requirements
+1331,Textual descriptions
+1349,Confidentiality agreement
+1350,RESTRICT ACCESS
+1353,DETAIL OF FUNCTIONALITY of the security MODULE AS WELL AS THE USE OF secure PROTOCOLS
+1355,HAVING THE NECESSARY AGREEMENTS
+1359,In the contract
+1360,In the contract using confidentiality agreement
+1402,"Textual, test plans"
+1403,textual requirement
+1406,Explicit fields in doors with links to security documentation
+1411,"non-quantified textual requirements, sequence diagrams, component diagrams"
+1416,AUTHENTICATION AND INFORMATION security
+1423,AUTHENTICITY
+1424,integrity
+1426,standards and norms
+1428,textual according to a tempalte
+1435,USER ROLES
+1457,EXPOSURE AND CONSUMPTION of secure resources
+1458,"BECAUSE OF THE CONFIDENTIALITY OF END USERS, IT MUST BE secure"
+1462,CONTRACT AND AGREEMENTS
+1466,User story/incident/backlog tracking tool
+1618,This our covered in our Design Documents often using text based requirements
+1650,"Interface specs, informal text"
+1651,Review against security guidelines
+1663,must meet usual bank standard (my project is in a bank)
+1675,Informally in a wiki
+1676,"we document all these requirements on Confluence, on a page or space specific to what we're building."
+1695,"INTEGRITY, CONFIDENTIALITY"
+1705,"CONFIDENTIALITY, INTEGRITY, ACCOUNTABILITY"
+1727,reserved DATA AND INFORMATION
+1741,confidentiality
+1742,quantified textual requirements
+1744,Plain text
+1751,Nonquantified textual req
+1756,"authentication/authorization mechanism (e.g. Active Directory, Kerberos), need for encrypting data (e.g. databases, connections)"
+1759,non-quantified textual requirements
+1761,National standards 
+1767,Quantified textual requirement
+1810,A standard checklist
+1812,non-quantified textual requirement
+1820,Text
+1831,measurable textual requirements
+1840,non-quantified textual requirements
+1844,"authenticity, confidentiality, integrity"
+1859,diagrams
+1911,textual requirements
+1917,Specific client guidelines

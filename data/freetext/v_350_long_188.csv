@@ -1,0 +1,189 @@
+lfdn,v_350
+41,Customer reports on prototypes
+48,Using a tool (PTC Integrity)
+75,user story
+76,"Use case diagrams, textual requirements,use cases, business rules"
+79,Non functional requirements chapter at the end of each concerned story
+81,non-quantified textual requirements
+91,textual
+93,textual
+106,quantified textual and visual requirements
+120,using non-quantified textual requirements
+144," using quantified textual requirements, prototypes, storyboards"
+146,Use cases and user storytelling
+147,textual
+149,user interface specification
+150, using quantified textual requirements
+162,guideline compatibility
+163,"Referral to NYS Standards for accessibility, languages, Supplemental Specification, User Interface Specification, mockups"
+178,company standards incl specs for handicapped people  
+179,Natural language
+182,Specific guidelines standard or practice
+188,non-quantified textual requirements
+197,Plain text
+203,"accessibility, user interface aesthetics"
+205,User acceptance testing
+208,"non-quantified textual, diagrams"
+213,As a textual requirements in document or a system Jira.
+215,Styleguide Guidelines with exact layouting guidlines
+217,textual
+230,I don't really deal with this 
+231,"textual requirements, use-cases, user stories"
+239,Non-quantified textual requirements
+267,Non qualified textual requirements 
+278,using non-quantified textual requirements
+291, using quantified textual requirements
+292,"Stakeholder analysis, Senario and use case analysis"
+297,Textual requirements
+310,non-quantified textual requirements
+317,(The same)
+332,textual
+341,textual requirements
+349,textual requirements
+355,JAMA
+359,Using customer's request
+370,textual requirements in our template used
+372,non-quantified textual requirements
+384,quantified textual requirements
+393,screen mockups
+437,"following a guideline, standard, or specific practice"
+442,quantified textual requirements
+446,non-quantified textual requirements
+453,Esthetic
+461,natural language and standards
+468,"In the user stories, as acceptance tests. The client will not accept a delivery if the product does not meet the specified non-functional requirements."
+482,Non quantified textual 
+502,Quantified textual requirements
+506,"using quantified textual requirements, diagrams, following any specific guideline, standard or practice."
+511,using non-quantified textual requirements
+524,"With sketches of the user interface, following standards, usability testing"
+548,OK
+549,"Text based, comments from System Designer"
+560,Textual & diagrams 
+569,Text
+570,"Company guidelines, quantified and non-quantified textual requirements"
+573,"screenshots from prototypes, simplicity of use"
+586,"Diagrams, Guideline, policy and practise"
+626,Quality scenarios
+637,non-quantified textual requirements
+661,User Testing. Functional design prototypes
+683,Use case diagrams
+694,In Statement of Work (contract) + User Stories descriptions and acceptance criteria
+710,We document the Accessibility norm to be used.
+719,Textual requirements
+722,Textual
+723,operability
+728,Diagrams
+735,measurable textual requirements
+742,high fidelity prototype (We also engage with designers)
+750,Textual requirements and diagrams
+754,Standards and parameters documented in wiki or shared repository
+758,Sketches
+768,use case
+774,"natural language, screen shoot"
+785,following some guidelines
+830,GUI Style Guide which includes accessibility requirements that apply to all end user UIs
+839,"Must be usable on mobile devices and accessible to all pilot users, feedback taken during and at conclusion of pilot to refine usability requirements"
+845,text
+851,textual requirements and test evolution by prototyping
+864,common textual language and  navigation diagrams
+868,using measurable textual requirements
+876,through the flow of screens developed by the design and the specs for development
+879,operability
+894,Operational system verification
+912,These are usually initially picked up from interviews and validated either at workshops or by group email to stakeholders.
+916,not measurable
+926,acceptance criteria described in the User story
+928,Prototyping of interfaces.
+929,Casual documentation with textual description of the requirement in a vision document.
+930,screen prototypes 
+945,Using unmeasurable textual requirements 
+952,before and after transformation
+968,With interface specification document
+984,"Mockups, User Stories"
+985,Quantified textual requirements
+997,Natural language
+1006,text documents and graphics
+1008,"Text, Mockups"
+1010,standards
+1011,"guides, mockups, diagrams, textual description"
+1013,"Diagrams, User Stories"
+1035,plain text
+1051,Non-quantified textual requirements
+1055,non-quantified textual requirements
+1062,using prototype
+1065,Atlassian Jira
+1066,quantified text requirements
+1076,"User Interface, evaluate knowledge levels of each user"
+1079,interface standards and sequencing attributes and actions
+1082,measurable textual requirements and interface prototyping
+1118,The same.
+1126,specific topic in the main project document
+1139,following Microsoft CRM standard
+1141,using quantified textual requirements
+1161,A non-trained user should be able to run the processes correctly.
+1165,BASED ON JACOB NIELSEN's heuristics 
+1188,unmeasurable textual requirements
+1189,"non-quantified textual requirements, using quantified textual requirements"
+1255,"Layout, prototype and Excel worksheet to record KPIs and after implementation make the measurement"
+1275,prototyping
+1279,Textual with anecdotal evidence from customers
+1283,"Non-quantified textual requirements, diagrams"
+1289,Requirements on the UI Components Wireframe and Server Sde Services
+1291,using non-quantified textual requirements
+1296,Text
+1316,using non-quantified textual requirements
+1327,system specification in chapter non-functional requirements
+1329,mockup
+1340,Friendly interface
+1341, it is not documented
+1347,mockups
+1349,Prototypes  UX report
+1355,prototyping
+1357,USER MANUALS
+1384,screenshots
+1402,"Textual, test plans, user testing"
+1423,PROTECTION against user errors
+1428,textual according to a tempalte
+1435,JOINT REVIEW AND USER TESTing
+1441,styleguide
+1457,look and feel DOCUMENTED by THE USER
+1462,PROTOTYPing
+1466,User story/incident/backlog tracking tool
+1467,Textual
+1477,Text information
+1486,wireframes and flowcharts
+1618,This our covered in our UX Design Documents often using text based requirements and sketches
+1620,Primarily informally through customer feedback
+1621,Sketches
+1650,Prototypes
+1663,preferred to be reusable in next phases (we have 4 or 5 phases in this project)
+1675,Informally in a wiki
+1676,"we document all these requirements on Confluence, on a page or space specific to what we're building."
+1688,text and diagrams
+1690,PROTECTION against user errors
+1695,"Esthetic, OPERABILITY"
+1697,Sketches and user input
+1698,Esthetic of the USER INTERFACE
+1703,USER satisfaction
+1705,"Error protection, ACCESSIBILITY"
+1717,USER MANUALS
+1718,"diagrams, videos"
+1741,User intervace aesthetics
+1742,quantified textual requirements
+1756,"overall site layout, a few mock-ups to define some patterns, some styling documentation (e.g. CSS documentation)"
+1759,non-quantified textual requirements
+1761,architecture digram
+1767,Quantified textual requirement
+1804,Diagrams
+1805,prototypes / screen shots
+1810,Group review of UI mockups
+1820,Text
+1831,usability testing and non measurable textual requirements
+1844,operability
+1894,"Diagrams user story, mockups, complementary text"
+1917,"Prototype, scketh"
+1923,"Mockups, textual requirements"
+1932,textual requirements
+1957,UI - guidelines
+1962,Usability requirements are made in mocksups

@@ -1,0 +1,23 @@
+lfdn,v_96
+82,"Work sketches, for billing "
+160,natural language in phrase templates
+163,"Supplemental specifications, document specifications, case property specifications, Context Diagram, ERD/Conceptual Data Model, User Interface Specification"
+165,Semi structured list of requirements
+167,We capture requirements on different levels in different forms.
+208,formal text (using the Sophist template for specifying RQ's in text)
+213,Data model
+249,Any and all techniques and methods
+258,formal plain text as Requirements Templates (Satzschablonen)
+291,Any means to clearafy what has to be realized.
+317,Task descriptions. Look like use cases but don't specify a dialog. Specify what the users want to achive. The supplier specifies how his system supports the users. 
+332,SysML Requirements Models
+479,Sentence templates with regard to the SOPHIST Group
+626,Story mapping
+857,"A short text (like User Stories) recorded in a software tool (Redmine, gitlab)"
+912,"Varies, depending on the project and user bias.  Often reviewing the tests is a useful way to finalise requirements"
+958,ACCEPTANCE CRITERIA
+1033,Specification by example with BDD
+1223,mental models
+1441,Process diagrams via swim lanes
+1633,User Stories are used to collaborate among the team but they are not included in official specification
+1928,I don't

@@ -1,0 +1,17 @@
+lfdn,v_164
+76,Use cases are the base for development of uat cases
+82,We need to test some electrical equipments
+249,Does testing result in the desired effect
+317,We check that each requirement is met. Each requirement has a reference to the parts of the test script that tests it.
+332,"Acceptance Test Driven Development, by involving testers during creation of reqs"
+355,we have completely outsourced all testing activities
+837,"UAT, BAT"
+912,"Sometimes free testing shows up variations, changes or additions to requirements.  "
+1055,deriving escenarios (BDD)
+1194,"testing is part of the development, not a separate step."
+1354,"WHILE THE SCRUM is performed, testing is performed"
+1486,"We're early in a lean startup mode, so we're just prototyping to test different hypothesis with customers"
+1542,"The QA team is not co-located, they mainly do functional manual testing according to the agreed testing scenarios and coverage with the PO, however many technical aspects (e.g. DB records, events triggered, etc) cannot be really tested by them"
+1633,testers create formal test cases based on written specification documents
+1899,Do not know
+1928,I don't

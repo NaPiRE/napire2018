@@ -1,0 +1,345 @@
+lfdn,v_278
+30,We sometimes implement extra functions in research projects.
+41,"It is difficult to measure usability without lots of beta testing, which we do not have the means to do at this time"
+48,Causes assumptions of what should be implemented because too vague
+58,business as usual; always worked this way
+76,Lack of corporate maturity in defining its vision
+81,Providers solution with focus on specific customer rather than system-wide requirements
+82,It effects to close on project on time. 
+91,distributed locations (customer/project team)
+93,lack of knowledge; general dissatisfaction
+97,Project members participate while doing their daily business. 
+106,Business operations
+114,lack of information about writing requirements on system and sw level
+119,customer unaware of design issues
+120,Geographic ; contract
+126,Lack of product dev knowledge
+129,Business used different terms to mean the same thing
+141,business practices; employee transfers; employee terminations
+144,"many times a solution has been selected before we are engaged (though it may not be the best solution for the problem), and then we are constrained by this"
+146,bad communication 
+147,Project goal is unclear
+149,"It is easyer to discuss solutions (how), instead of the needs (what)"
+150,Not enough time was allocated to requirements review with the vendor and solution design 
+160,they don't see the effort
+163,Project lead is absent at best; only communicates once per week if that
+165,lack of concerns of project stakeholders w.r.t. good project management practices
+167,Leadership
+168,People in this project have research backgrounds with little practical experience.
+170,not enough documentation
+178,given by external loosy documented system
+179,There are special processes within customer needs
+182,Not having a disciplined approach 
+188,Lack from Product Owner to answer important questions that would clarify Requirements.
+199,People who do not believe in process try to find ways around the process 
+203,Answer same with the above
+205,academic freedom; lack of accountability; no ROI analysis required
+208,"too many customers, located distributed and doing cockfights behind the scenes."
+210,He / She lacks time to complete many tasks
+213,Business use different terms in process and those are different from terms used in solutions
+215,"different parties involved, separated team locations"
+217,lack of domain knowledge
+230,"Many times, requirements are ported from previous projects and sometimes, the requirements cannot be traced to features or statement of work. Many times, it turns out the requirement is an internal quality the product should have. "
+231,Inexperienced team members in RE
+239,There is overall not enough time and value for requirements in the company 
+249,School projects have deadline in order to get grade
+258,due to time needed for discussion which needs to be payed we try to fromulate requirements deeply 
+259,Requirement mismatch
+263,corrupt processes; resistance to change
+267,Not enough communication 
+268,Too much unspecified requirements
+278,"lack of trust relationship,  lack of communication capability of the project leader, lack of domain knowledge"
+283,uncertainty of of what should be developed and tested - or how it should function.
+291,Lack of vision
+295,Changing phases of supported programme
+297,Missing tools
+304,staff turnover; communication  lazyness ; missing glossar
+310,budget not high enough for sufficient time
+313,Software developers sometimes insert a function they think is useful but which the customer does not want.  Very difficult in requirements to anticipate and specify everything that the product must NOT do.
+330,"Each person on the team has a role, experience and knowledge regarding the business"
+341,End customers use a non-technical terminology in another language
+355,"Customer want to implement new functions, last not least it is critical because we have not enough team members"
+359,There is no person exchanging appropriate information with customers.
+364,bad planning; not enough money for the project (time is money); can be done by the way
+365,keeping up with the industry; being competitive 
+370,no deeper knowledge on the systems used
+377,Competing business priorities resulting in project changes
+378,customer unwilling to specify a certain expectation
+384,customer expects new application to work like 25 year old legacy system; cannot adjust to different technology;
+387,Complexity of requirements is too high
+393,fixed timelines before requirements analysis
+416,New developers/testers
+420,there is very myuch focus on rules and regulations (laws) which are complicated
+425,Customer does not get what he need.
+427,Customer’s knowledge in this area is not good 
+437,lack of applied techniques
+442,the regulator; the competitive pressure has an impact in the solution's update
+444,Wrong specification.
+446,inefficient work and unecessary coorination efforts
+453,It comes to my mind on the fly
+461,"management policies, budget"
+467,The client changes objectives and requirements due to the change in his/her context
+468,Customer always wants everything done as soon as possible. They do not understand the technical difficulty of solving the problems.
+479,Terminology
+482,Dependency between many requirements 
+485,The tendency in requirements specification is to think that who collects the information has the same knowledge as who writes it.
+489,not enough time
+506,not define requirement in detail
+511,customer does not allocate enought resources (time)
+512,not educated enough into the process and therefore does not understand the importance of commitment
+518,Sometimes people forget to mention some requirements from the client
+523,Lack of an analyst and a poorly written document
+524,The specification is not performed with this characteristic in mind
+525,the customer takes for granted that all function reqs are known
+545,culture
+549,Features often come from a range of customers/people and sometimes we don't get all the info we need or are badly communicated
+570,"lack of easy accessable, common definitions"
+572,traceability is siloed
+573,Lack of analysis skills does not sufficiently support requirements gathering
+586,"not having all attending meetings, missing out on communication in different ways to different audinces"
+626,Inmature industry
+637,A delayed project that had to deliver.
+640,Extra effort required to implement features that the client simply did not request
+649,legacy applications
+661,inadequate coordinator
+663,No Ideas of goals in terms of strategy; Missing or imcomplete strategy
+676,Follow-up minutes are not made
+684,The work dosent move forward
+694,documentation poorly written ; incomplete documentation
+710,poor communication of the product owner with the customer
+719,To assume an interpretation as correct; do not validate the information
+722,Bad management
+723,Stakeholders' will are different
+729,Interlocutory users are not correctly assigned in some cases for requirements elicitation
+735,time management with other projects
+740,Little customer dedication
+742,Organisational change
+758,Context switching between products
+768,underestimated effort and project timeline
+774,Product owner over promised 
+786,Difficult to work as a team.
+795,Overpromised delivery dates/scopes ; Poor leadership within our company ; inability to say No
+819,Client does not want to get rid of old systems
+825,Project leads changed throughout the project; Lead distracted by other work; Lack of understanding of the work done by BAs and why important
+830,"project had a tight timeframe, strong interdependencies on BA deliverables and handover"
+847,Stakeholders wanting to design solutions rather than specify problems 
+849,Hostile Customer - high-ranking security officer
+851,The customer wants more as he/she knows what the system is capable of doing
+856,"legislation changes, priorities change with the change of government"
+864,Poor documentation by the development team
+865,Lack of planning; Changing Managers
+868,"lack of time, lack of experience"
+870,unprepared Business Analyst 
+876,the customer takes long to track project
+879,Stakeholders with limited focus on the solution.
+880,Inconsistent customer development process
+894,Rework
+896,Little experience in the requested business 
+900,Incomplete in the sense of not meeting in full the business goals
+901,"Customer usually is unavailable, slow to respond"
+909,bit twiddler profile. Can not understand the real importance of requirements engineering in projects
+910,Staff training in the elicitation and writing of requirements
+912,"Rarely have appropriate access to the Architecture, or time to learn the domain details before having to deliver"
+916,features Implementation  without requirements elicitation
+917,"insufficient time for gathering requirements, insufficient customer time, lack of customer commitment for approval of requirements / versions of the system"
+918,Often the customer does not allocate time to requirements gathering and validation .
+921,Lack of time and a process directed to keep well specified and detailed requirements
+923,customer has trouble reporting the need - customer ignorance about the real need
+924,team concern; team organization
+928,Business team with low business knowledge; Lack of experience in the position; There is no documentation of the previous version of the products that are in the technology migration process.
+929,Lack of priority in resource allocation
+930,The need it is not specified
+932,"When we are halfway, a more important priority emerges"
+933,Customer does not know exactly what he wants.
+945,Lack of effective validation by the suppliers of the requirements
+947,customers always want a solution yesterday
+952,not provide information which  they have 
+956,NP
+958,"Customer does not know what he wants, but he already wants the system to be adequate."
+959,We do not use tools to maintain the traceability matrix
+968,The requests are usually timeless and come together
+984,Missing tool support
+985,First time working together
+987,more time required
+990,Change of best practices during the project
+997,It is an evolution of an existing product
+1006,The customer does not detail what he really wants
+1010,imporper use of tools
+1011,Incomplete project preparation on the customer side.
+1012,Incompatible changes are made and revoked due to compatibility issues.
+1014,costs
+1017,weak documentation or badly organized/accessible documentation
+1021,botched analysis
+1031,Underestimation of time-consuming tasks
+1033,"Agile is about collectiveness, the team must use the proper techniques to establish this communication and the client must have representatives with time for it"
+1039,misunderstanding due to the problem domain
+1051,Insufficient coordination
+1055,users not used to highly automated solutions
+1062,customers do not participate
+1064,Lack of requirement engineering competence:Lack of project management competence
+1065,Lack of RE Tool
+1066,concurrent engineering of implementation in parallel with requirements development
+1069,communication 
+1070,Feature pressure of top management
+1076,Both parties making decisions
+1079,Relationship between customer managers and end users of the customer
+1080,There is no change management
+1082,It is not always possible to have a close and continuous contact with customer needs
+1091,Problems in requirements gathering
+1097,Attachment to the legacy system
+1100,Difficult to engage the customer in the project
+1101,little customer commitment / engagement
+1105,Users want everything
+1111,Deadlines are normally imposed
+1114,Many requests / little resources.
+1118,Different levels of knowledge in the field
+1122,"The customer has no functional sense of the desired requirements, and has only concepts of the needs, taking into account the insufficient time, it becomes a big problem"
+1124,Lack of know-how on how to perform the requirements description and resistance to change.
+1126,Key User does not master the subject or is not prepared to participate in the Requirements Engineering process
+1139,There are little time to elicit requirements
+1141,missing domain know how
+1159,HIDDEN REQUIREMENTS
+1161,EXPERT USER IS NOT WELL TRAINED
+1163,Programming before stating the problem
+1167,Requirements without control of changes are accepted
+1168,Customer does not express their needs in detail
+1171,Lack of knowledge about the business logic
+1187,There are too many heterogeneous customers
+1189,"Lack of a ""common dictionary"""
+1194,It is very difficult to determine the impact of a change or improvement made on one or more elements of complex systems a priori.
+1204,Client not staffed to handle the technical project
+1207,meaning of the things gets vague
+1221,Unplanned requirements elicitation meetings
+1224,Lack of cooperation from the client
+1225,That the system does everything
+1229,The team does not generate communication's dynamics
+1238,Different autonomous teams that do not share learnings
+1239,time pressure
+1262,Lack of Project Communication plan
+1266,Not all business processes have sufficient maturity to implement projects based on safety and operation standards
+1275,Organization
+1279,We are a commercial software company so it can be difficult to fully understand the customer domain
+1283,"Lack of time, lack of knowledge"
+1288,information comes to late
+1289,IT orgnaisations with demand manager are the counterpart. Business  resp have not enough time allocated. 
+1290,Change of Businesscase
+1291,Lacking visibility in partner business
+1296,Software specialist not domain experts
+1316,in deep knowledge about product and it's usage
+1321,We do not know how the product is used by the customer 
+1327,"Customer very often specifies to many requirements insted of think lean, start with a simple system and extend it when having more experiences."
+1331,"Attachment to the previous solution, inability to share knowledge, personal inability"
+1339,Lack of management commitment
+1340,Poor communication
+1341,The customer has another career
+1343,Miscommunication between team leader and customer
+1344,Little knowledge of the process
+1347,Solutions must take into account the product as a whole; the customer experience should be the best possible; you can not limit the customer scenarios
+1349,Conflicting requirements between who have been in charge of the process
+1350,Bad relationship between team members
+1351,Technical language used by the two parties
+1352,Lack of adequate communication
+1353,The customer has very short time limits
+1354,Poor communication
+1355,They are not completely defined due to contradictions and lack of communication
+1356,The client hides information
+1357,Poor time planning
+1358,Technical feasibility and technology are not taken into account
+1359,The requirements are continuously changed by the client
+1360,The client changes his opinion
+1384,The person in charge of the client's side does not understand what the users were wishing to correct
+1402,Communication and problem analysis skill sets weak in sales/marketing
+1403,incomplete project specification and/or goals
+1406,Many projects / tasks
+1411,lecagy components with business logic which is not yet fully understood
+1413,Customer has another profession
+1415,The client does not know about the development
+1416,Lack of understanding
+1417,Lack of good relationships between the team
+1419,Terminological problems
+1422,Weak knowledge between the client and the leader
+1423,Technical validation of requirements
+1424,Maintenance towards the client
+1426,"requirements are formulated by customer, who has little or no experience"
+1433,Bad work's organization
+1435,Incomplete requirements
+1441,too much workload
+1449,misunderstanding; timing problem
+1454,Poor relationship between client and project leader
+1455,Switching Goals
+1457,Lack of customer knowledge in the solution
+1458,The requirements are raised from a non-technical point of view and many of them can not be achieved
+1459,Lack of communication between the project and the customer
+1460,Lack of experience in web applications
+1462,Customer does not clearly shows what he/she needs
+1466,Senior management doesn't understand or value the process and work required for top quality.
+1467,insufficient discussion on how requirement should be solved
+1482,Bad relationship between project members
+1483,Fear of losing status / position
+1484,Problems caused by unknown application terms
+1485,Weak access over the application domain
+1486,Funding
+1526,Weak domain knowledge
+1542,"If there is any feedback being captured e.g. through customer service, this information is not know by the project team"
+1560,insufficient training in proper requirements illicitation and documentation
+1617,Project sponsor and project requestor have different demands and are overloaded 
+1618,This results in having the same discussions discussing pros and cons of solutions
+1620,We have a lot of turnover at our company so sometimes having project leads take ownership is an institutional challenge.
+1621,Specifying requirements with  it should work like this product 
+1624,radical changes need changes done in smaller increments with POCs there have been instances where the projects were scrapped
+1650,The interface between them
+1651,Lack of understanding of the challenges within the problem domain ie. its more complicated than appears
+1663,offshore team members don't understand english well enough/lost in translation/tried to save face
+1668,Difficult to verbalize
+1669,Ambiguous REQUIREMENTS INCONSISTENT
+1670,Difficult to express
+1675,General flux of startup-phase business
+1676,"our customers (eg developers) want something  now , which forces us to timebox other tasks and come back at a later time."
+1690,The customer wants all changes immediately
+1695,Lack of direct availability or time.
+1697,The software has many teams envolved and sometimes all the parts don't document the changes well
+1698,Poor support
+1699,The tem is responsible for collecting requirements
+1703,Improper elicitation causes too many unexpected changes
+1705,Lack of knowledge by the user
+1717,Improper analysis
+1718,Incomplete knowledge of the customer and the best way to solve the problem; Complexity of the software solution makes it challenging to consider all aspects of what needs to be changed
+1723,Lack of budget
+1727,Lack of equipments
+1741,Assumptions of same knowledge
+1742,forgotten/noneexisting communication regarding project related information or changes
+1744,Same
+1753,Different technical knowledge of the domain (very experienced engineers talking to non technical stakeholders)
+1755,Same as above
+1756,"Different backgrounds and mindsets, not perfect understandinig of the solution domain"
+1759,informal nature of the project
+1761,Things take time 
+1762,Changing the plan because financial difficulties
+1767,Customer is not fully aware of what they want neither is project team
+1791,as
+1804,Hardware Specification and External Suppliers
+1805,Customer not used to formalize requirements
+1810,Inability for technical experts to talk directly with customers
+1812,not specified well
+1820,poor specification
+1828,lack of technical knowlede when writing the requirements
+1831,Lack of knowledge or specificity
+1840,The regulations is changing and intrepreted differently depending on who is reading it
+1842,The project team worked little with similar systems to those they were trying to implement
+1844,Little customer availability
+1849,Unclear user stories
+1894,"Multiple projects happening and fighting for priorities, funding, technical resources. etc."
+1896,"Free for all requirement specification (i.e, everyone is allowed to suggest features);"
+1909,Lack of methodology
+1911,Lack of notion between the requirement and the technical solution
+1917,insufficient documentation/briefing 
+1918,Lack of resources.
+1923,Many stakeholders involved; The customer does not analyze the high level requirements
+1932,knowledge and experience gaps about writing requirements; non-recognition of the importance of the requirements
+1933,challenges in the actual deployment
+1941,Lack of time
+1961,lack of communication
+1962,Sometimes the team members are new and unfamiliar with business concepts;
+1963,x
+1965,Implicit assumption that the technology provider knows all aspects of the client's business
+1969,Poor management within the team. I find most project managers are not technical so they are not competent to manage a technical team.
