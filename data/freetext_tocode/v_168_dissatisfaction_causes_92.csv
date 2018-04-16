@@ -1,0 +1,93 @@
+lfdn;v_168
+58;"Project culture focusses only on development, not on requirements and tests; no direct contact with users; no close collaboration within the project team"
+76;Corporate tool imposed on project has flaws and limitations that cause delays. Team is large and mostly made up of very junior analysts who have no prior experience of business analysis
+114;1. stakeholder requests from customer are specified already in a very detailed way  2. it's hard to specify the system behavior in an abstract way so there is enough room for breaking down SW requirements  3. ASPICE requests to satisfy all stakeholder requests on system level. Satisfying requirements on SW level is prohibit but will be done in our case (see point 1.)  4. communication between RE desciplines    
+115;It´s simply not done as it should be.  Acceptance of RE in the company - other than in the Software Department - is not existing
+118;focus is on development of hardware and software, RE and documentation is necessary evil.
+119;no breakdown or derivation of requirements. we use model based design, everything is done in matlab/simulink. requirements are lost or blurred.
+147;Lack of structure, lack of acknowledgement of necessity of a more structured approach.
+163;"1. No standards for requirement documentation; varies from project to project and analyst to analyst.   2. No common repository for requirements reuse  3. No consistent peer reviews, especially for consultant staff  4. Quality of BA is poor  5. Misogynistic technical/developer team who must always be right"
+166;The role of BA and therefore the type of work and responsibilities are not articulated
+168;In our project, we neglect documentation.
+180;Ambiguity around language of high level requirements  Absence of low level requirements  Isolation of reporting from requirements 
+188;Most of Products Owners give zero importance to the RE.
+197;I feel that the scope of the program and the nature of distributed teams - both change and business users - would be better aligned in an agile development methodology.  However, the current waterfall method is what we are stuck with.
+199;It is mostly a paperwork exercise, designed to provide the certification information required to make an ad-hock development look as if it followed a process.
+208;there is no conflict management/rq consolidation.  the stakeholder are not managed and we act in the  Hey Joe  practice :-(
+210;because many things that need to be done at code level are not clear enough and this raises doubts, rework or unexpected changes by incomplete requirements
+217;Developers assume user needs in many cases
+231;Lack of involvement, change management, formal verification
+258;1) It takes Long time before we can start to develop and see prototypes. Whenever we discuss Requirements, new ideas Pop up. So we never are able to get a Quote and have development start. Also getting prototypes is difficult cause we Need to place new orders for every Change. Therefore we try to specify much upfront which brings us back to beginning - we don't get ready to go cause we have new ideas.  2) Last Versions we got back were rather Buggy. And then discussions started on if the Requirements are good enough, whether we should Hand out test cases, when to find time to write test cases. And also why things were not working any longer which used to work and how we can put that in Requirements, that  the System functionality as is must be kept working ...  3) We have a tool  break. Internally we specify in System A. But the external developer can not (or only very painfully) Access that System. So we have a self built Integration to System B. This should copy the Requirements and Bugs form A to B. But it does it only partially (attachments for Requirements are not carried over), IDs are randomly created in B so order of requirements and Logical structure gets lost. For Bugs attachments are handed over, but on the back-Syncronisation from B to A Images in the descriptions are lost...  
+263;Not flexible enough  Too many or too less stakeholders involved  Accountability is not always clear
+268;Time overruns
+295;We have a lot of problems with requirements.
+297;Not proper re management tools and not proper re training of developers
+355;The problem, is that my customer was in the industrial business and now he conqueres the Automotive business, thats a difficult challenge
+359;The customer's request changes according to affiliation.
+378;User stories are used to document use cases and unstructured additional Information. Only the title is agile, not the actual Content.
+393;elicitation too much driven by legacy system  too little prioritization  
+446;We need to work closer to the customer more demoing and prototyping less writing documents
+461;In a project with frequent requested changes, it gets complicated to keep the documentation up to date. On the other hand, in the testing phase, many incidents are not always incidents, but they are changes. These changes are recorded as bugs but never get incorporated into the requirements documentation.
+467;We are beginning, and the area of requirements engineering is something the company has neglected so far. I believe that we can improve in many aspects, from assigning responsibles to do better when designing a process for eliciting requirements.
+468;We are not very disciplined. Sometimes we develop without even having the user stories yet. I believe that we should have a separated phase in the beginning of each iteration where we identify (and unambiguously define) the requirements to be met in the current iteration.
+489;Because our way of working does not deliver good results.
+496;No formal methods  Agile used as an excuse for lack of documentation  true iterative benefits are not realized  Function point / time seems to have reduced after introduction of Agile
+523;There is a lack of an analyst in the project. We received the document with the client's requirements and there is no one that subsequently identifies what the customer intends
+524;Because we still lack acceptance criteria, quantifying software quality properties to be verifiable, and make a better change management.
+545;We could do more and better requirements gathering.
+560;It is difficult to get to the root of the problem.
+572;as requirements are being defined as an after the fact exercise, build is happening after the and not necessarily as a result of.
+634;No requirements means doing code that can later be thrown away.
+637;I would have preferred working in amore agile way and keeping better track of the requirements back to the origin. I would like to have a better requirement catalogue of all requirements.
+661;Lack of communication within the team.  Lack of communication with the team that builds the used framework.
+719;Because I would like to have a more professional and standardized process
+740;We are not involving the end user who will use the system
+795;We're frequently building what we were asked to build (by a single customer) without doing enough to ensure it satisfies real world business requirements.
+819;Because there is no work process and all the issues are due to this
+845;Communication of requirements as documents rather than conversations with  external developers has had some negative consequences 
+847;Should be using more known agile techniques, aligning closely with test and rapidly prototyping. 
+887;Because the team is collaborative
+909;Increasingly, I have seen projects being conducted in a simplistic way, where the requirements engineering is not fully performed. Immersions in areas are becoming less prioritized, as well as the planning, in hours, to analyze the real needs of the client, analyzing the problems vs main cause, mapping and prioritization by business value vs complexity. I believe that the projects have an increasing number of people with more technical profiles (bit twiddler, hungry technology users without assessing their actual need). That's because a large part of these profiles do not have a great ability to abstract the requirements at different abstraction levels.
+910;Many written documents, wich are difficult to read and to verify their faithfulnes to the real needs
+916;An analysis of the needs was not carried out to ensure that the process that is being automated really is in accordance with the proposed solution and the company's strategic planning.
+917;There is no definition of a clear process. The client interferes with the project and there are often changes in the stakeholders, which leads to changes in the project due to the vision of the new stakeholders. Often it is not possible to continue with the planning because the client changes the requirements and it becomes necessary to meet mother demands or redo something at run time.
+928;Because it is very informal, without the time required for creating diagrams that would help us in the future maintenance process. We are not able to validate the requirements generated before starting the development process, thus generating a lot of rework. We are not able to implement a better control for the tests, nor to automatize them, due to the project deadline. For some products it is not possible to update the requirement when the change occurs. There is a high dependence on professionals who know how the product works to validate the last phase, which is the approval.
+930;The registration and tracking process is not friendly (consuming and rigid)
+933;Because we have the freedom to define, test and try out new technologies.
+1010;No testers involved in reviews.
+1012;There is no Changelog of the Requirements.
+1014;we have not a good concept for req. engineering
+1033;There is great customer and organization satisfaction, due to a consensus on a minimal and live record and documentation
+1064;I arrived late in the project, and many requirement engineering activities were not done. 
+1066;Project is proceeding with implementation concurrently at risk.  Very difficult to get the requirements  done .    Also, Customer hired a Consultant to act as their System Engineer, so we spend a lot of time satisfying the consultant, instead of building the system.
+1080;There is no governance nor traceability in the projects. The knowledge used in the solutions is lost and can not be reused.
+1105;Because the client does not control the requirements and each project is done in a different way
+1111;I would like the implementation of a more structured model.
+1114;Not all requirements engineering cycles are actually performed.
+1122;There is no time for a functional detailing aiming at quality, it is basically listing basic deliverables and their rules, without enough time to delve deeper into product quality.
+1124;Because the specification is performed by the supplier of the products, which eventually omit requirements that in the future will be presented as operating problems.
+1141;Project planning: time pressure and distributed responsibilities also on customer site
+1165;Because due to development time, they cannot be well implemented
+1223;lack of standards 
+1236;I would not like to use a bureaucratic framework like RUP and create extensive documents that will be outdated very fast, given that we do not have a person responsible for this activity. However, the current practice is way too loose, causing misunderstanding and rework.
+1288;only few detailed desciptions
+1290;Requirements defined Vers poor
+1291;The requirements have to be specified in a better way by the product managers in some cases and the whole process has to be reworked.
+1376;Because many different activities of requirements development are almost neglected
+1449;- bad in documentation  - less in comunication
+1466;We need greater focus on various aspects of product success (particularly UX), and a more proactive and broadly-reaching requirements gathering exercise.
+1486;Because I know we could do better, but's in the nature of early stage prototyping that we don't emphasize the need for formal documentations
+1542;There is really no process for that, the IT Deparment of the company wants to sell and communicate that they are using agile methods, however all the structures, communication, analysis, project plans, stakeholder management and so on are fully oriented towards the old waterfall structure, and therefore  changing to agile  has meant a reduction of the RE process, increase in the coordination of the requirements with dependencies, leading to several delays and problems with the E2E testing, ligther documentation and shorter times, constant changes in the requirements (which is better than change management of fully specified systems), but overall it is very ad-hoc and the team does not have the maturity to ask the relevant questions during the refinements, so it becomes often a story of the PO to tell the developers what to do, without finding really insights or questions or impediments that need to be solved before going to the implementation.
+1633;The profession of RE has evolved over more than a decade. It has started using waterfall model. The initial REs had a very technical viewpoint on system development. Nowadays there is a lot of information, which is deprecated because there are so many specification documents. In addition, the costs for RE (including the spec updates) are much higher than the costs for software development. It is really hard to change the viewpoints of the people working in the environment, although everybody is aware, that there msut be a change in terms of beeing more user-centered.
+1688;Too much information is in people's heads, gets lost when they leave. Also not enough validation is done before we hand things over to the customers
+1690;We need a better documentation for a better analysis. Not all requirements, especially after beginning a project, are needed or need change. 
+1718;Connection between requirements and customer reasons for those requirements are often unclear. Requirements are often communicate in an unclear manner and missing key details which are uncovered late in the process. Requirements are communicated in a fashion the prescribes the technical solution.
+1744;Because the productowner lack technical skills and doesnt really Care after a done deal.
+1755;Almost no requirements written. 
+1791;as
+1840;The interpretation of the legal requirements are changing and also the customer are changing so setting the scope and requirements are right now almost impossible. 
+1859;Because it is not performed as it should be. We do not have formalized or standardized RE.
+1909;Because there is no visible application of a requirements analysis in my project.
+1922;It is not well systematized. It is superficial. Development is requirements-centred. We do not know how to specify non-functional requirements, like performance, por example. We are afraid of change.
+1933;The final product / outcome is not in a level where expect it to be. 
+1961;Requirements are almost always too vague and ambiguous to action.   Often it is down to individual developers to painfully and slowly extract more information from of people outside of the project team. This can work, but the outcome can vary wildly, e.g. some developers are perfectly happy transforming ambiguous requirements into non-deterministic software.  Too much shoulder tapping on individual developers to make changes, often slipping under the radar without knowledge of the whole system.  Non functional requirements are never specified, until it is deemed too slow under heavy load in production.

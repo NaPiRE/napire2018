@@ -1,4 +1,4 @@
-lfdn;problem;reason
+lfdn;problem;response
 48;Communication flaws between the project and the customer;Customers often do not specify the requirements enough for developers to understand what needs to be changed/implemented
 58;Communication flaws between the project and the customer;mistrust
 91;Communication flaws between the project and the customer;distributed locations (customer/project team)

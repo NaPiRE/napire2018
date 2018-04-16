@@ -1,0 +1,196 @@
+lfdn;v_169
+30;Currently we can provide what customers requires but we do not know whether these are the best solutions or not.
+35;some specifications may got lost throught iterations
+41;We are still in the phase of gathering requirements. It is going well so far, but there are a few unclear points that I'd like to see clarified soon.
+75;Because it is working
+79;Everything is standardized and documented and discussed.
+84;Our developers start develop each user story without questions, all requirements are clear for them. 
+91;at the moment everything works finde
+106;Stakeholders were clear on their needs and there wasn't much changes
+120;Shared with main stakeholders
+129;Good participation and engagement from product owner and business stakeholders.
+144;It's lightweight, and gets just enough information needed to execute upon, at just the right time. It does not waste valuable time assuming that we can know everything about the project in advance. The nature of requirements written as user stories lends itself well to business participation by the product owner. Acceptance criteria in support of the user story likewise lend themselves well to the defining of test cases.
+160;There should be more non-functional requirements, but the customer often discusses about the need of that, becaus it costs a lot of money.    It's always hard to argue to spend so much time in the RE phase of the project.
+167;+ Enough freedom to get work done  + Good processes + tools make sure nothing falls through the cracks.  + Fast iterations and (almost) immediate customer feedback
+182;Goal is being met
+183;We have a good balance between textual requirements and models.   
+203;Basically the requirements engineering could be done according to the requirements management plan formally approved and accepted by the customer.
+205;We have full-time BAs who use templates and our stakeholders respect the rigor of the elicitation process
+215;good combination of text and visualization techniques  appropriat level of details
+249;I've used any and all techniques that I have learned in school and indy projects and feel the requirements match my visual presentation of the project
+278;Because business process analysis was executed to define the requirements. 
+291;The DevOps team has control over what is live (in production)
+304;We developed from a lose kind of desciption to a more detailed process and templates. And established quality criterias both for documenting and testing, still a lot to do to reach a state of  perfectness  but on a rather good way
+310;Because I planned it according to the information given in the exam materials of CPRE Foundation & Advanced Level.
+313;The processes in place allow me to ensure that the customer's requirements are both implemented and tested adequately.
+317;The SL-07 requirements are well suited for COTS-based solutions, since they don’t specify what the system shall do, but only what it will be used for.  Stakeholders can understand the requirements and explain what they miss.   The SL-07 way of writing requirements is around five times faster than traditional approaches.   The requirements are around 1/5 in lenghth.  We could trace the business goals to specific requirements, in that way ensuring that we cover the goals.   
+330;It allows me to swiftly bring tangible software requirements to continue iterating without devoting a great effort to document the requirements as these are prone to change.
+332;Because of our pre-investement, we have proven to reduce the risk of error, saving a lot of time. Relatively easy to manage customer expectations due to their involvement
+364;a detailed proceeding how to do what related to writing a good documentation  
+365;We use Pivotal Tracker as a backlog tool and keep all user stories in there. We do not keep documents of requirements or update anything.
+370;collaboration within some departments could be enhanced 
+372;The approach fit the capacities and needs of our customer.
+377;Requirements engineering is generally undertaken fairly effectively, whether that is through documenting details requirements as part of a Waterfall project or Epics and User Stories in an Agile project.  
+387;Because requirements specification take the view point of tester and developer into account.   However the quality depends on the analysts in the different Project.
+412;It is working very good. All stakeholders are happy with the way we handle requirements and it is now a built in  way of working  in the Project which every one follows and understands.
+416;Good teamwork and Test leader
+429;The requirements are mostly well though through and often well written.
+437;We have good results in time and quality Low demand for changes in user testing We achieved good stakeholder involvement
+482;We are able to understand the customer perspective with our requirement gathering process , in case of any doubts we ask for clarification immediately through email or on a weekely call 
+502;Everything goes smoothly and there is communication between all the teams. Everyone knows what's going on, and why we are doing what we are doing.
+506;it is useful
+511;I think we have found optimal level of granularity. 
+512;I feel like the method of trusting that the code is the requirements, and focusing on building the right thing and validating it iteratively, is giving the best experience for the user who will receive what they want, in order of priority, where changing something is no problem. The requirements are user stories which are functionality which belong to the entire team. This is how it should be. 
+518;At some point in the past, you were likely not fully satisfied with your project's requirements engineering. If anything, what happened to make you satisfied? 
+539;If requirements testing is satisfactory and the team sends it to the client, this rarely calls for malfunction
+541;Because the customer is satisfied
+548;It's OK, but can be better.
+549;Always room for improvement. Time constraints are always a feature e.g. need to begin development phase
+569;Process: very direct open communication with the stake holders (incl. users, project management, developers, system architect)  Documents: Very clear documents, good overview, using many sketches and graphics, detailed in the important areas. Another important aspect is that is does not take away the freedom of the developers to make good use of the development tools and frameworks. So the documents aim to support the development process, not to hinder it.  
+573;Requirements analysis and collection is not an exact science and is never perfect. I work from a number of base principles that recognise the dynamic nature of dealing with complex problems in a business facing project. this includes making a distinction between 'tame' (well-defined_ problems and 'wicked' (ambiguous) problems. Most issues you face in the real world fall into the latter category and require very well matured analysis and interpersonal skills. These hard difficult to find skills in IT.
+586;we work one step at the time, are using PRINCE2 for planning work in stages, controlling a stage and managing delivery in each stage. Looking at risks, change reviews etc 
+626;The requirements are a way to create a share understanding through collaboration.
+676;the objectives are met
+683;Because our systems today have no significant changes after giving the deliverable to the customer
+684;We have a good knowledge with pur customer and understand their needs
+694;Only get to the point of  satisfied  because I like the flexibility that Agile Methodologies give me to manage the deliverables and their documentation BUT   to make it work efficiently you need a lot of time with the same team that knows each other in advance + product owner + project which I did a couple of times BUT  the majority of times I work on new teams & customers with different level of knowledge and buy-in of the methodology agreed to use
+723;Because feedback is fast
+729;a very good job was done withint the allotted time.
+742;We have process constraints related to legacy system integration, so we utilize agile techniques when we can within a more traditional waterfall process. We are in the phase of delivery and UAT went very well. Production monitoring will allow us to determine if we have met our business goals, and that will retrospectively inform our notion of requirements quality.
+753;Because I consider to lack experience
+754;1. Complete elicitation in the requirement gathering, using vision boards, following lean workshops and using story mappings 
+758;User stories are a simple means for all members to have a common communication ground. They are easy to understand and everyone sees what is necessary.
+774;We have good customer relationship and good domain knowledge, which can give us clear product requirement in most of time. And we could build a prototype in a sort time to discuss with customers. 
+786;The requirements are thorough and easy to follow.
+825;It's thorough, well-documented and customer/end-user has been involved at every step. An SBA on the project team carries out informal reviews while a formal QA is conducted by an SBA from outside the project. Room for improvement would be to be more agile in terms of dealing with the actual developers.
+830;We used a tool to manage our requirements and re-use of common requirements across a variety of components of the solution. Applying updates derived from Change Request means that the documentation reflects the 'as built' solution and is the right tool for testers and ongoing support of the solution in the future.
+839;We are pragmatic and agile, working with customers to ensure feedback is taken into account.
+849;It should be less tied to the contract, and more Lean Startup
+851;Because we have had good results with these practices compared to bad experiences in the past.
+865;It meets our needs
+868;We work with innovative projects where evolution (existence of changes) is something normal. We do not avoid the existence of changes. Use prototyping and detailing requirements only when we are close to its development avoids rework and increases the speed client response.
+870;The way the software implementation is addressed gives us confidence in the product that is being developed
+879;We have been able to achieve the client expectations without a very long and tiresome documentation.
+896;We deliver products with the quality defined by the Institute, on time and with a satisfied client
+918;Because the results achieved so far are satisfactory, but some good practice from other teams also add value to our project.
+921;We do not have a lot of bureaucracy, which makes us more agile in the process.
+926;because we can develop the product from the documentation of requirements that we have and we can also validate its quality
+929;Satisfied with the agility and dynamics given to the projects by an agile identification and treatment of requirements.
+931;Because it is very dynamic and allows us flexibility.
+937;Requirement engineering is done with the people that are using this system in future. Direct Feedback how functionality should be in order to support the correct processes
+945;The requirements are well documented and are the acceptance by the internal client(s) involved is required. This fact brings a security for the software development, avoiding divergent interpretations on what should be produced.
+948;It works, does not impose a huge additional workload, did not encounter issues regarding requirements engineering in the past couple of project years
+952;Requirements engineering denotes both the process of specifying requirements by studying stakeholder needs and the process of systematically analyzing and refining those specifications.but its depends on customer and vendor relationship.
+956;NP
+960;.
+962;There may be process improvement areas.
+968;Until now, it works properly with the time that is available for this management.
+984;Formal process, formal roles, central common tool
+985;Because we spent a good time in the RE process besides using Lean startup noticing short-term results
+987;Happy  feedback from team and customers
+1006;I am not very satisfied, because there are still gaps in the collection of requirements
+1011;It is generally quite well structured and has worked to our satisfaction in many projects.
+1021;It serves the purposes of the project, and provides better visibility of what the system will become.
+1039;Because we use SCRUM and with the backlog setting we have a definition of the tasks to be performed
+1051;Overall good quality and good representation of system needs to meet stakeholders' expectations
+1055;Customer and users are highly involved on the product definition and elicitation. The system is tested at every sprint and every release is validated by the users
+1062;No real practice of requirement validation and requirement champagne
+1091;Because the result is very good, the satisfaction of our customer is a good indicator and the assertiveness indicator regarding business requirements are within the goal we set ourselves of achieve.
+1100;With a lean documentation, we get good rates of acceptance and rework.
+1118;Because we use a dynamic (aka agile) approach, frequently syncing the development with a new and clearer understanding of requirements.
+1126;Due to the success achieved in our last three large projects.
+1139;An agile process in close cooperation with the customer is much more effective than a traditional process.
+1140;because it works and is not of too much pain for all project members
+1161;PERFORM meetings with ALL INVOLVED AREAS, some contributions in requirements meetings, until COMPLY WITH ALL POINTS REQUIRED.
+1163;Because we use the correct techniques to elicit them, but I would like if it could be in a full agile project. I don't like to be updating the sprint backlog during the sprint because we never end the sprint with all the requirements completed.
+1164;Because it is performed in a quick manner and with satisfactory results
+1171;Because of the results obtained at the end of each iteration
+1172;Because the final product performs as desired
+1188;Because it fulfills the goals it proposes
+1189;Because it adequately contributes to the execution
+1194;We work with agile models. The changes are welcome (and necessary). We have automated traceability.
+1200;Being a small team is efficient and development was carried out
+1220;Because of the experience we maintain documentation of use cases, state ordinances and have opted for an interpreted language like PHP to generate simulations that have made requirements elicitation simple
+1222;because we cover most of the functional requirements of the system
+1227;It has been widely discussed in software engineering
+1228;meets the company definition
+1229;The customer knows that we are building software that does what he wants in an efficient manner.
+1255;With each interaction, we are improving and especially the team is adhering to this need for evolution of our product and hence its success in all aspects.
+1266;Because of my project is based on Brazilian and international safety and operation rules, which make it easier to obtain requirements.
+1283;It allows to rapidly transition to conceptual modelling, code generation and rapid prototyping
+1289;Becasue all team members are documenting using same rules. Also developers are educated in reading the information in right way. Best practice usng word like shall and must is also established. Requirements with releated features are driving the implementation tasks
+1296;It is lightweight but effective enough
+1316;Our systems engineering model for our SW products includes purified requirements which are automatically transferred to the test management system (silk central)
+1327;We are satisfied or very satisfied in our projects. We are working in waterfall and agile methodology. We have a company process, which has to be used and we train our staff in RE.
+1331;Because our requirements come from an existing system. We were able to cover the current system and still identify new requirements to improve the system. The knowledge of the business is with the client, on our side we have the questions. Thus, new requirements and / or changes in requirements arise from needs identified throughout the project or that have been ignored by the client at the beginning of the project.
+1339;BECAUSE it covers customer needs and contract clauses
+1343;The final result was the expected by OUR CLIENTS and they got the expected product, ACCOMPANIED BY HIGH DEGREE OF SATISFACTION
+1344;Because through detailed documentation I obtaniened good results and applying REQUIREMENTS ENGINEERING HAS ALLOWED ME TO COMPLY WITH FEATURES REQUIRed by the CUSTOMER
+1348;I am satisfied BECAUSE WE can GET in a better way the REQUIREMENTS proposed BY THE CUSTOMER by proper communication
+1350;They TAKE INTO ACCOUNT ALL the aspects RELATED TO REQUIREMENTS ASKed by THE CUSTOMER FOR its company.
+1351;BECAUSE THE PROJECT MANAGER Socialize with EACH OF the COLLEAGUES in THAT WAY EACH will apply them CORRECTLY IN EACH PROJECT AREAS.
+1353;PROBLEMS EXIST IN SOME PROJECTS BUT THEY ARE OFTEN solvable WITH change management
+1354;It gives you the opportunity to quickly change something that is right or wrong. Pivoting CHANGES quickly in the discourse. We can change the project scope.
+1356;because of socializing teammembers and THE CUSTOMER APPLies this IN his AREAS
+1357;An absolut elciitation OF REQUIREMENTS is completed, SO YOU GET A PROPER AND EFFICIENT PLANNING. REQUIREMENTS ARE OBTAINED DIRECTLY FROM THE SOURCE
+1358;OBJECTIVES are met applying METHODS AND PRINCIPLES CONTAINED IN SOFTWARE ENGINEERING
+1384;at the stage of analysis, carried out by the responsible with the customer, a detailed specification is generated contemplating business rules, development is simplified with a clear undestending of the objectives.
+1398;Because thanks to the forms we have clear goals and estimated time quite realistic
+1402;Highly skilled team members with personal buy-in to project goals, experience requirements specialists on team
+1406;Project works and is on track, but improvements concerning earlier requirements engineering could be implemented
+1411;requirements clarification, prioritization and alignment of priorities with stakeholders works good  Concept of using both Jira/Confluence allows both flexibility and the necessary level of documentation.
+1413;I DO NOT HAVE PROBLEMS WITH PRODUCT DEVELOPMENT
+1416;80% satisfaction
+1423;He is interested in MY PERSONAL expectation and REQUIREMENTS ENGINEERING experience
+1424;BECAUSE the RESEARCH is oriented towards MY requirements engineering PROBLEMS
+1426;Almost every project member has a say in requirements engineering, so conflicts can be adressed and cleared early.
+1433; A GOOD BUSINESS ANALYST AND he has AT LEAST WEEKLY MEETING WITH THE CUSTOMER.
+1441;It works well in sense of completness.
+1457;because REQUIREMENTS helps DEFINING the PROJECT SCOPE and estimate the SCHEDULES TO BE ABLE TO DELIVER CUSTOMER
+1458;CHoOSE SATISFIED becasue he initially HELD MEETINGS IDEAS TO gather REQUIREMENTS ideas WHICH MAY BE USED TO to start the project.
+1467;It is flexible enough but yet able to manage the requirements churns.
+1474;It's done in a planned manner
+1484;Without TIMELY changes. UNAMBIGUOUS requirements elicited. requirements elicited CORRECTLY
+1485;REQUIREMENTS CLEARLY elicited WITHOUT AMBIGUOUity without timely changes
+1526;customers are happy
+1618;We are constantly refining and iterating on this process which ensures we have a good flow of communication.
+1620;From a business perspective requirements engineering is driven heavily by customer interaction. This method seems to work well for the business. 
+1624;We have been following this process for more than couple of years and have been fairly hitting our timelines most of the times
+1645;because we do often mini-meetings with the client face to face to confirm that requirement is what he wants and once implemented we show directely to get a very quick feedback
+1650;Everyone has ownership and contributes critically. Requirements/specification get created very close to their implementation so are able to be fluid.
+1651;There are areas for improvement around adjusting the agreed architecture to be broken down into in smaller releasable components of software. We are working on changing the think of big release and a lot more smaller interactions that may involve refactor existing software. The focus is getting the software into customers hands to get real feedback. In test this using wireframes to ensure that we validate a solution before committing engineering resource.
+1663;"the Business Analysts gathering the requirements are quite dependable and knowledgeable; they take responsibility and ownership of the work."
+1667;Ease of interaction and use.
+1668;BECAUSE IT IS A STARTING POINT FOR planning ACTIVITIES, basically in time and costs estimation.
+1669;BECAUSE YOU PROPER elicit REQUIREMENTS AT INITIAL STAGES, which allows UPDATING REQUIREMENTS withouth problems.
+1670;STARTING POINT FOR ACTIVITIES
+1675;It provides a good level of guidance without being prescriptive, we can adjust the requirements as the project evolves.
+1676;my team works on a lot of small projects and tasks, so we implemented very agile methods so we can plan and deliver on requests. So far the process seems to be going fine.
+1695;HIGH DEGREE OF SATISFACTION of the CUSTOMERS and the team.
+1697;They are not very strict and agile, but they give the hability to newcomers get along with the project and revisiting the requirements much easier. Also they make sure the client ideias are in line with the developments, and the all that are envolved in the development can be distributed.
+1699;because the different PROCEDURES we use to FIND and get the REQUIREMENTS 
+1703;we HAVE NOT HAD problems in the software BASELINE
+1705;the VALUE ADDED in the correct REQUIREMENTS elicitation is to maintain active communication with our clients, meeting deadlines and HIGH PERFORMANCE techniques.
+1715;Because you have a good handle on requirements gathering.
+1717;THE NEEDS OF THE CLIENT / USER are known AND BASED ON THAT DEVELOPMENTS are made
+1723;THE RESULTS ACHIEVED WITH PROJECTS ARE the EXPECTED, BUT we CAN IMPROVE them MORE
+1727;because of the RESULTS
+1741;Stakeholders are happy
+1742;We have a good relation with the customer and the requirements and backlog are living items during the project and changes are communicated, prioritized and decided by product owner
+1753;Our requirement handling (and other processes) are a result from many years of agile working in the project. Our requirement handling (and other processes), are therefore refined continously in each sprint (at sprint retrospective), and is therefore quite effective now. We are able to specify, communicate and test our requirements continously, automatically and to our customers satisfaction, which we feel is satisfying.
+1756;Yes. It's not perfect but it works.
+1759;It's a small and informal project, so an informal backlog works well
+1761;We do small iterations and prototyping, this lower the risk and cost 
+1812;The requirements are captured early and are considered flexible thus changeable except where it is agreed to be a major change - appraoch works well
+1820;The only downside is the amount of bureaucracy
+1842;"I chose the option ""satisfied"" and not ""very satisfied"" as the question indicates. I am satisfied because the documentation / management of requirements is done in a very light, allowing the team to not waste too much time with the requirements and spend more time implementing"
+1844;Because there is a methodology that is followed by all, which allows the parties to have a better understanding.
+1849;We have good relationships with the end-users and we validate our deliverables with them at each sprint review.
+1861;Our project is customer facing and is metrics driven, all features are tested and decision to ship them is driven by growing metrics.
+1894;It has produced good results, at an interesting pace.
+1917;We believe there is always space to improve.
+1918;The features are well documented and estimated and always up-to-date. It is possible to trace from the source to the implementation details
+1941;It works well and we have not had problems
+1957;It enables us to plan
+1963;x
+1969;As an experienced consultant, I have the luxury of being able to choose my projects carefully.  When I start a project I clearly state what I believe to be the minimum level of requirements engineering and specification.  If the customer exceeds my expectations, no problem.  If it does not, I work hard to convince them to improve their requirements elicitation processes and I put a lot of energy into helping them.  If after a reasonable period (usually a few months) they haven't made movement in a positive direction, I leave the project.  In my experience, the key cause of project failure is poorly defined requirements.  I no longer  need the experience  so I do not stay with projects that have a low probability of success.
