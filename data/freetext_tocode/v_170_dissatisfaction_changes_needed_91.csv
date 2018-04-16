@@ -1,92 +1,92 @@
-lfdn;v_170
-58;frustration & expensive correction cycles & political discussions
-76;Delays and frustration for team members
-114;stakeholder request and system, SW requirement have the same content
-115;Change request of customers until the very end of each project, which have to be fulfilled because Sales and Project Management tells us so.
-118;errors are found too late, unmotivated requirement engineer
-119;awkward development process - longer time to develop, more rework.
-147;A lot of rework, incorrect customer expectations, uncertainty, etc.
-163;Frustration, product delivered does not meet customer needs and is often over budget and late if delivered at all. 
-166;Both customer and development team frustrated
-168;Team members often feel confused and don't know what to do.
-180;Requirements not being met  Dissatisfaction with the quality of system  Lack in (reporting) data capture
-188;Delays in delivery of the project because the developers do not fully understand the things that are requested by the Product Owner.
-197;Slow to market and usually not what the customer wants.  This then requires the same long term iteration to correct or re-develop the requirements to be fit for purpose.
-199;Lots of extra cost without the benefit of the process.  That is there is very little advantage in filling in the paperwork to match software developed without the benefit of a mature process.  The paperwork bends to match the software rather than the software benefiting from the development process.  This is generally more costly than following the process from the beginning and provides very little positive influence on the final product.
-208;two many iterations, overrun the proposed timeframe, contradictory and inconsistend requirements, unsatisfied stakeholders
-210;a lot of work, sometimes based on assumptions
-217;System are not used for a long period before they neglect it
-231;Risk of not conforming to stakeholder needs
-258;1) we're trying to move to a concept where we allocate Budget for a year by rule of thumb. Then we try to specify small  increments  (a set of Features that together make sense and add a new Option.) and document them well. Have them implemented, check them and put them live. Then - if Budget is left - we'll try to address the next  increment .  2) We started with RE and me as an RE added to the Team after the first experience. Now we're disussing of making the (regression and new Feature validation) tests availble for the external development Team. Test Management adivised us earlier that this could be not a good idea cause once you Hand them over, discussions over  you Need to accept what we delivered  may occure and it would be more difficult to argue - well yes the tests are green - but still something is not as it should be and that is...  3) We're upgrading System A and it is supposed to have a working Integration with System B in its new Version. And also System A's new Version should have a prober working web-Login. So once we provide that the external development Team hopefully can log in from their Workstations to System A and check the Requirements, test cases and bugs...
-263;Delay and difficult stakeholder relationship as devlopment is not always going into the right direction -> waste of time and resources
-268;Teams are not getting things done
-295;The project is not successful.
-297;A not reliable and not functionally satisfactory product
-355;We are not sure, if we are in time and if we have implemented everything according A-SPICE Level 2
-359;Sharing information by modeling
-393;system rather implements a better version of status quo instead of real innovation
-446;Requirements are missed and not kept in sync with actuak requirments
-461;misunderstandings with the client are generated, incomplete or poorly designed features.
-467;Re work, bad project scope control and therefore problems in time, quality, or costs thereof. In addition to customer dissatisfaction and possible failure of the project.
-468;Improperly elicited requirements may lead to software that does not meet the customer needs. Therefore, it is critical that requirements are properly specified and validated by the client.
-489;Bad software, low customer acceptance
-496;Delayed projects  User Needs not Met completely  Full value of project intent not realized - remaining backlog  leads to workarounds and shadow IT  Project runs out of money buy only MVP is deployed
-523;Different interpretations lead to the product to be developed in the wrong way
-524;The systems do not fully meet the needs of users. Frequent corrections or updates are required. Objectives of the organization are not met
-545;We will set up a knowledge Exchange, that following parts of SD and Development will shadow Business Analysts to understand their work and give ideas to improve. 
-560;Delays in solving problems
-572;What gets delivered will not align to the requirements defined.
-634;Doing a lot of useless work (code), and not being able to define the scope of the tests.
-637;Bad quality of the design and a lot of rework and fixes.
-661;Delays in delivery time. I work in vain. Oversights.
-719;Possible errors in the definitions of the functionalities
-740;Re work.
-795;The initial customer is unhappy because what we built is what (we interpreted) they asked for but doesn't provide them enough benefit.  We're unhappy because we have an unhappy customer and can't provide the same product to other customers as it doesn't do what it should.
-819;A great amount of rework
-845;Differences in understandings between project team and external developers has meant that functionality has been implemented in a different manner to what was expected
-847;A product that doesn't meet actual user needs or wants. 
-887;A bad product
-889;Client dissatisfied with the outcomes of his product
-909;"Lack of visibility on the actual fulfillment of customer needs and on the resolution of the main cause for the problems; risks of software adherence to the business, resilience problems and requirements evolution due to its implementation without a complete understanding of business concepts; high software maintenance index"
-910;Rework
-916;"- Failure to meet the client's real needs; - Product with low quality; - High cost; - Greater probability of not solving the main cause of the problem."
-917;Rework, dissatisfaction
-928;Insecurities in the team regarding the the analysis of current and future demands. Rework at all stages of the production process (analysis, development, testing and approval), generating delays in the project and consequently losing deadlines. Hostile environment towards the business and developement teams. Lower than desired quality when delivered to the client.
-930;Registration demands a lot of time
-933;Poor quality of the final product.
-1010;defects are detected often too late.
-1012;Unpredictable behavior.
-1014;find a better solution
-1033;In previous projects, very detailed requirements and oriented to extensive documentation generated a big waste for their production and little usage, in the current format with User Stories, BDD and UX prototyping, the results are a minimal and lean specification but that is sufficient and necessary.
-1064;We end up being delayed in the acceptance phase of the project. 
-1066;eternal chaos due to concurrent engineering 
-1080;We have projects that generate redundant information and the impacts are treated reactively.
-1105;Bugs found only the end user who has the knowledge, or in production
-1111;Documentation sprayed, rework
-1114;Rework.
-1122;Low quality of the final product, we basically deliver what is strinctly necessary
-1124;Disintegrated systems generating rework, rising divergent information.
-1141;rework in later Project phases
-1165;DOUBLE WORK AND confussion about requirements
-1223;excessive time
-1236;Team wear, poor quality of deliverables and deadlines burst.
-1288;before I can start testing I need to ask a lot
-1290;Non
-1291;Customer dissatisfaction, many defects, much rework has to be done, low quality software products
-1376;completed products of bad quality and bad documentation
-1449;- Problems at the end of the project
-1466;Lower certainty of requirements validity.
-1486;Lack of historic data as to why we changed direction
-1542;The amount of bugs in production is terrible and so time consuming, they need to be again reported and prioritized in the backlog, the developers' time is already commited to many other topics right after release of the MVP, stakeholders still don't understand the concept of MVP and tend to think that with this version the fully functional feature is already live, customer feedback is not measured and introduced back to the development to improve the product, QA doesn't always know what exactly to test and to what extend, specially for integration tests, many projects are started and never really finished, things are often left undone. 
-1633;People are frustated and start to give up thinking. So, they are more focused on doing the thinks that are given by the organizational processes instead of having the motivation to deliver a good system to user.
-1690;CLASH OF DEVELOPMENT (not clear what is done VS. THE 'TO DO'), misorganization OF DEVELOPMENT, TEAM GOALS NOT REACHED - THERE ARE no clear goals PROJECT goals- Not able to place DEADLINES, DELAYS AND BREACH
-1718;Software that does not meet the actual needs. Wasted effort on the part of everyone (Developers, Managers, Testers, UX, Product Manger). Missed deadline. Unneeded risk as release time approaches.  Software architecture does not match organizational objectives.
-1744;Angry customers, wrong budget, wrong estimate.
-1755;Missundetstandings
-1791;as
-1840;We do not know what to design and implement, it is not possible to build a totally agile and flexible architecture. 
-1859;Because there is not a formally established role for this and in testing this reaches us as headlines and not with the depth as it should be
-1909;Instability in the solution design, greater time of analysis and development, greater dissatisfaction of all stakeholders.
-1922;"It is difficult to know what the commitment to the client is; what is the promise; what is the expected behavior. Knowledge is easily lost"
-1933;Poor prodcut qualit and use happiness
-1961;Throwing money down the drain.
+lfdn;v_170;tag
+58;frustration & expensive correction cycles & political discussions;
+76;Delays and frustration for team members;
+114;stakeholder request and system, SW requirement have the same content;
+115;Change request of customers until the very end of each project, which have to be fulfilled because Sales and Project Management tells us so.;
+118;errors are found too late, unmotivated requirement engineer;
+119;awkward development process - longer time to develop, more rework.;
+147;A lot of rework, incorrect customer expectations, uncertainty, etc.;
+163;Frustration, product delivered does not meet customer needs and is often over budget and late if delivered at all. ;
+166;Both customer and development team frustrated;
+168;Team members often feel confused and don't know what to do.;
+180;Requirements not being met  Dissatisfaction with the quality of system  Lack in (reporting) data capture;
+188;Delays in delivery of the project because the developers do not fully understand the things that are requested by the Product Owner.;
+197;Slow to market and usually not what the customer wants.  This then requires the same long term iteration to correct or re-develop the requirements to be fit for purpose.;
+199;Lots of extra cost without the benefit of the process.  That is there is very little advantage in filling in the paperwork to match software developed without the benefit of a mature process.  The paperwork bends to match the software rather than the software benefiting from the development process.  This is generally more costly than following the process from the beginning and provides very little positive influence on the final product.;
+208;two many iterations, overrun the proposed timeframe, contradictory and inconsistend requirements, unsatisfied stakeholders;
+210;a lot of work, sometimes based on assumptions;
+217;System are not used for a long period before they neglect it;
+231;Risk of not conforming to stakeholder needs;
+258;1) we're trying to move to a concept where we allocate Budget for a year by rule of thumb. Then we try to specify small  increments  (a set of Features that together make sense and add a new Option.) and document them well. Have them implemented, check them and put them live. Then - if Budget is left - we'll try to address the next  increment .  2) We started with RE and me as an RE added to the Team after the first experience. Now we're disussing of making the (regression and new Feature validation) tests availble for the external development Team. Test Management adivised us earlier that this could be not a good idea cause once you Hand them over, discussions over  you Need to accept what we delivered  may occure and it would be more difficult to argue - well yes the tests are green - but still something is not as it should be and that is...  3) We're upgrading System A and it is supposed to have a working Integration with System B in its new Version. And also System A's new Version should have a prober working web-Login. So once we provide that the external development Team hopefully can log in from their Workstations to System A and check the Requirements, test cases and bugs...;
+263;Delay and difficult stakeholder relationship as devlopment is not always going into the right direction -> waste of time and resources;
+268;Teams are not getting things done;
+295;The project is not successful.;
+297;A not reliable and not functionally satisfactory product;
+355;We are not sure, if we are in time and if we have implemented everything according A-SPICE Level 2;
+359;Sharing information by modeling;
+393;system rather implements a better version of status quo instead of real innovation;
+446;Requirements are missed and not kept in sync with actuak requirments;
+461;misunderstandings with the client are generated, incomplete or poorly designed features.;
+467;Re work, bad project scope control and therefore problems in time, quality, or costs thereof. In addition to customer dissatisfaction and possible failure of the project.;
+468;Improperly elicited requirements may lead to software that does not meet the customer needs. Therefore, it is critical that requirements are properly specified and validated by the client.;
+489;Bad software, low customer acceptance;
+496;Delayed projects  User Needs not Met completely  Full value of project intent not realized - remaining backlog  leads to workarounds and shadow IT  Project runs out of money buy only MVP is deployed;
+523;Different interpretations lead to the product to be developed in the wrong way;
+524;The systems do not fully meet the needs of users. Frequent corrections or updates are required. Objectives of the organization are not met;
+545;We will set up a knowledge Exchange, that following parts of SD and Development will shadow Business Analysts to understand their work and give ideas to improve. ;
+560;Delays in solving problems;
+572;What gets delivered will not align to the requirements defined.;
+634;Doing a lot of useless work (code), and not being able to define the scope of the tests.;
+637;Bad quality of the design and a lot of rework and fixes.;
+661;Delays in delivery time. I work in vain. Oversights.;
+719;Possible errors in the definitions of the functionalities;
+740;Re work.;
+795;The initial customer is unhappy because what we built is what (we interpreted) they asked for but doesn't provide them enough benefit.  We're unhappy because we have an unhappy customer and can't provide the same product to other customers as it doesn't do what it should.;
+819;A great amount of rework;
+845;Differences in understandings between project team and external developers has meant that functionality has been implemented in a different manner to what was expected;
+847;A product that doesn't meet actual user needs or wants. ;
+887;A bad product;
+889;Client dissatisfied with the outcomes of his product;
+909;"Lack of visibility on the actual fulfillment of customer needs and on the resolution of the main cause for the problems; risks of software adherence to the business, resilience problems and requirements evolution due to its implementation without a complete understanding of business concepts; high software maintenance index";
+910;Rework;
+916;"- Failure to meet the client's real needs; - Product with low quality; - High cost; - Greater probability of not solving the main cause of the problem.";
+917;Rework, dissatisfaction;
+928;Insecurities in the team regarding the the analysis of current and future demands. Rework at all stages of the production process (analysis, development, testing and approval), generating delays in the project and consequently losing deadlines. Hostile environment towards the business and developement teams. Lower than desired quality when delivered to the client.;
+930;Registration demands a lot of time;
+933;Poor quality of the final product.;
+1010;defects are detected often too late.;
+1012;Unpredictable behavior.;
+1014;find a better solution;
+1033;In previous projects, very detailed requirements and oriented to extensive documentation generated a big waste for their production and little usage, in the current format with User Stories, BDD and UX prototyping, the results are a minimal and lean specification but that is sufficient and necessary.;
+1064;We end up being delayed in the acceptance phase of the project. ;
+1066;eternal chaos due to concurrent engineering ;
+1080;We have projects that generate redundant information and the impacts are treated reactively.;
+1105;Bugs found only the end user who has the knowledge, or in production;
+1111;Documentation sprayed, rework;
+1114;Rework.;
+1122;Low quality of the final product, we basically deliver what is strinctly necessary;
+1124;Disintegrated systems generating rework, rising divergent information.;
+1141;rework in later Project phases;
+1165;DOUBLE WORK AND confussion about requirements;
+1223;excessive time;
+1236;Team wear, poor quality of deliverables and deadlines burst.;
+1288;before I can start testing I need to ask a lot;
+1290;Non;
+1291;Customer dissatisfaction, many defects, much rework has to be done, low quality software products;
+1376;completed products of bad quality and bad documentation;
+1449;- Problems at the end of the project;
+1466;Lower certainty of requirements validity.;
+1486;Lack of historic data as to why we changed direction;
+1542;The amount of bugs in production is terrible and so time consuming, they need to be again reported and prioritized in the backlog, the developers' time is already commited to many other topics right after release of the MVP, stakeholders still don't understand the concept of MVP and tend to think that with this version the fully functional feature is already live, customer feedback is not measured and introduced back to the development to improve the product, QA doesn't always know what exactly to test and to what extend, specially for integration tests, many projects are started and never really finished, things are often left undone. ;
+1633;People are frustated and start to give up thinking. So, they are more focused on doing the thinks that are given by the organizational processes instead of having the motivation to deliver a good system to user.;
+1690;CLASH OF DEVELOPMENT (not clear what is done VS. THE 'TO DO'), misorganization OF DEVELOPMENT, TEAM GOALS NOT REACHED - THERE ARE no clear goals PROJECT goals- Not able to place DEADLINES, DELAYS AND BREACH;
+1718;Software that does not meet the actual needs. Wasted effort on the part of everyone (Developers, Managers, Testers, UX, Product Manger). Missed deadline. Unneeded risk as release time approaches.  Software architecture does not match organizational objectives.;
+1744;Angry customers, wrong budget, wrong estimate.;
+1755;Missundetstandings;
+1791;as;
+1840;We do not know what to design and implement, it is not possible to build a totally agile and flexible architecture. ;
+1859;Because there is not a formally established role for this and in testing this reaches us as headlines and not with the depth as it should be;
+1909;Instability in the solution design, greater time of analysis and development, greater dissatisfaction of all stakeholders.;
+1922;"It is difficult to know what the commitment to the client is; what is the promise; what is the expected behavior. Knowledge is easily lost";
+1933;Poor prodcut qualit and use happiness;
+1961;Throwing money down the drain.;
