@@ -1,0 +1,46 @@
+In an imaginary survey, respondents were asked for personal information. 
+
+=========================================================================================
+
+List-supplementing short free text answers - Code Back Mode:
+
+v_5 asks respondents to name favorite colors, and the options list included red, 
+blue, pink, purple, etc., plus: Other (please specify).
+
+Respondents 1 and 2 answered "Other (please specify)", their free text responses are 
+"magenta" and "violet". Respondent 3 answered "it depends on my mood".
+After your processing, the code file will look like this:
+
+lfdn;v_5;tag
+1;magenta;pink
+2;violet;purple
+3;it depends on my mood;NotCodeable
+
+=========================================================================================
+
+List-supplementing short free text answers - New Tags Mode:
+
+v_2 asks respondents to specify their race; with the standard options available. 
+A non-negligible number of respondents answered "Other (please specify)" and specified
+variants of "Hobbit", "Elb", or "Ork", whereas others specified "Aryan". 
+You decide to group the self-proclaimed Aryans with the Caucasian Whites but add new 
+codes for the inhabitants of the Shire and the like.
+After your processing, your code file could look like this:
+
+lfdn;v_2;tag
+1;hobbit;Hobbit
+2;Aryan;Caucasian White
+3;Elb;Elb
+
+=========================================================================================
+
+List-supplanting short free text answers (similar process for long free text answers):
+
+v_7 asked respondents to list their skills, and no options were provided to choose from.
+Having looked through the answers, you decide to design a small hierarchy of tags, 
+differentiating, inter alia, between character traits and magic capabilities.
+For respondent 4, you thus assign two tags:
+
+lfdn;v_7;tag
+4;"Going invisible; persistence";magic:invisibility
+4;"Going invisible; persistence";character:persistence

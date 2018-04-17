@@ -1,149 +1,149 @@
-lfdn;v_297
-30;Since systems we developed face the natural environment, several unexpected events occur.  We should establish requirements analysis techniques to deal with requirements related to uncertain environment.   
-35; 
-41;Nope!
-58;Wrong-understood  agility  as a pseudo-solution for deeper problems
-76;No
-91;Match between requirements and planning. I see many project which can't match requirements to planning items. there is  one big  planning item, that should fulfill all requirements
-93;struggle: complex processes, not uniform. The business wants ALL done in the system, which makes it unflexible and hard to maintain. Sometimes it is wise to consider if you really NEED to do certain steps in the system. 
-114;use case:   different HW component but same requirement   how shall a requirement document look like in case of having different HW components which have the same requirements.  currently we are copying/sharing the requirements so each requirement can be linked to a certain test case for each HW component.  In case of changes, we have to change on many places. But in case we have only one requirement for all HW components, we cannot garanty that each HW component has tested the requirement.
-115;Help to spread the knowledge - especially amongst Managers.  If this could be achieved, most of our problems would be non-existing.
-129;None
-141;Requirements gathering with virtual teams in short duration (4 hours or less) working sessions is not always efficient. Keeping participants focused is not always possible, leading to many  restarts  during a session while some key participants are multi-tasking.
-144;No
-160;yes, the tooling aspect. it's often a problem using different tools in RE process from the customers need to implementation task and test cases. #traceability  We do everything within JIRA, but the acceptance by our customers is difficult.
-165;RE is not only a SW engineering concern. I guess that all engineering domains may benefit of RE (from civil engineering, to mechanical engineering, electrical engineering, etc.).  The interdisciplinary is growing and the various trades shall share a same (similar?) approach to RE and it is not clear yet.  RE needs to grow in maturity.
-167;While competence and skills are more important, the right tools are crucial in scaling. This survey does not touch on this issue at all.
-170;no
-183;no
-199;More of a question to the community:  How can we convince stakeholders that the lack of proper requirements is costly and dangerous.  This is the fundamental problem I see.
-203;The responsibility of the requirements engineer and/or requirements manager in projects.
-208;no
-210;We do not have a formal process
-213;I have noticed that when meets researcher and a practitioner in some experience exchange, for example in conference, there are lot of old topic from practitioners and new topics from researchers. And during the discussions there comes a misunderstanding. In the science field we are tended to create new innovations and new ideas for new situations, but we forgot to validate the previous ideas in practice. I'm a researcher also and a practitioner in the same time. And I realize that many RE methods, techniques etc isn't implemented fully in practice. And time after time practitioners came back and realize that the old method have some unanswered questions and the implementation is to complex.   In the result I came to question - do we need to much new innovations? Maybe we need to focus on existing methods and improve them. Maybe we need to make an inventory and think simpler. We need to encourage the practice, we need to improve productivity and support future work. RE practical field are strongly behind the science.    Sorry for my English.  I'm working on such topic like Continuous Requirements Engineering and one of my focus points are used tools and possibility to improve requirements use in future and requirements inheritance. If You are interested in collaboration, I will be glad to cooperate. 
-217;none
-230;An interesting fact is that in my experience there is no an official Requirements Engineer. Rather, the job of creating requirements is usually given to someone who has years of experience in the project's field. Hence, it would be interesting to know (in future surveys), how the person taking the survey gained his or her experience in the  Requirement Engineering field.
-259;No.
-291;When a system needs to change/to be replaced often the current situation (IST) is not clear. Every project (change) needs (extra) time to find out what the current situation is. Better is to maintain the knowledge of the current situation. So each change needs a kind of after-care to maintain it.
-317;None
-330;Do not
-332;People need to be properly trained in RE with a strong focus on their skill development.
-355;Different applications like Excel, Doors and JAMA 
-370;nop
-377;More needs to be done to deliver systematic requirements traceability from Requirements through Development to Production Release - greater integration between different tools is needed.  Vendors should make APIs more readily available for integration purposes.
-387;no
-420;"we are bound to complicated rules and regulations (laws) which make the development very complex. Some rules and regulations have impact on other rules; ex. if a farmer does not fulfil one need there has consequences on another payment"
-444;Do not
-446;Less documentation more focus on prototyping/demoing. Formal methods are totally useless for practical requirement management
-479;How much Review is enough?  How often do you have to review the same requirement?  Workflows for requirements status?  Attributes of requirements?  Distinguish between functional safety requirements and technical safety requirements?
-506;no
-512;no
-523;No
-534;No
-545;Maybe later
-549;no
-573;Communication, communication, relationship building and communication. 'Soft' skills is a misnomer - they are the hardest and most valuable skills to find in IT.
-649;no
-663;It is important to have an overall and consistent framework in which are poeple acting 
-676;Do not.
-694;not at this time
-722;Business requirements aren't elicited explicitly and not shared with the project team.
-723;none
-729;Need for a team of Business Analysts with skills to detect different types of stakeholders, in order to address them in the best way (there are people who feel more comfortable showing what they do, others do not have problems to summarize and explain what they need and wish, while others feel uncomfortable exposing against others). It should be able to design a plan of requirements elicitation tailored to each case. I clarify that the project was in a food industry and those involved in the survey of requirements from the counterpart were direct users, which in some cases were business executives, and other plant personnel, so it is important to know the different profiles and the ability to communicate at all levels (operators, supervisors, managers). We find it very positive rely on teams with staff with specific knowledge of the business area for which software is being developed. We consider very positive the participation of  Security, Architecture and Testing personnel from the beginning of the project, which helps to define requirements that would otherwise arise in advanced stages, and could lead to rework.
-754;No
-758;I also work as a researcher and I think the user story driven approach should be used in some of our project planning even for research.
-768;none
-786;None
-795;We don't ever work out the cost of implementing a requirement vs. the value it adds. This means at times we spend far more implementing something than we could ever make back .In one memorable case we spent $800k to satisfy one part of an acknowledged one-off requirement for a contract of $250k.
-818;no
-831;No
-839;No.
-868;I believe that the documentation of the requirements is interesting for development but not for maintenance (both corrective and evolutionary). The cost to keep the documentaiton up-to-date is very high. I'm trying to create documentation that is tailored to maintenance needs and stays updated even after encoding.
-876;Requirements engineering in the agile movement.
-879;No
-880;Estimates with function points in agile methods.
-896;"Sure, works with app development for virtual reality and smartwatch. Much that is reported in the questionnaire ... is for information systems. In two months we already have products in the store ... we do not use even half of the engineering related with requirements. Our ""requirements analyst"" is often a researcher, an guy with experience in usability or a UX guy."
-900;Deficiency in the use of new techniques that aid in the communication between the client and the technical team
-901;no
-909;"There is always the dilemma of the level of granularity that should be considered in the projects. Should we spend project time documenting, or should we not document enough to keep project information as an asset of the company? I have observed that the concept of Agile has been misapplied in the projects and with that, many projects and companies have abdicated requirements engineering to respond quickly to clients / market. Thus, developing software has been treated as a commodity, which makes me very worried. Profiles that think only of technological solutions are increasingly common. With this, they are considered more important the ""how"" than ""what"" should be implemented."
-923;Low skills in the discipline of eliciting requriements of the professionals working for this purpose
-930;Do not
-931;No
-933;No
-952;no comments on this. Thanks
-956;NP
-959;Up until
-1006;The existence of technical meetings to discuss the existing problems and possible solutions
-1010;no
-1014;no
-1031;no.
-1033;We live in a process of gradual transition between use cases, class diagrams, textually written requirements in a traditional and extensive way to a more lean model, in a more dynamic way, with user stories and with their acceptance criteria, BDD and prototyping with the participation of one UX professional. In this way, you must have a plan, pilots and time for this transition, the organizations need to experiment and evolve gradually, safely, reducing resistance and conflicts between residual rules and standards still existing from the experiences with CMMI and MPS-Br to a more light model ... but it is happening as it should be.
-1035;-
-1062;no
-1064;If projects are allowed to start up wrongly, requirement wise, through the steering groups milestones and tollgates, it is very hard later to get it on track again. 
-1069;No
-1070;RE is bad understood in companies. The value of RE is not recognized by management.
-1079;No
-1118;As far I can remember, no.
-1139;No
-1159;NO
-1166;How to act with the customer in case of ANY NEW REQUIREMENTS NOT clearly MENTIONED BUT EMERGING AND important for the SYSTEM 
-1168;AT THE MOMENT, NO
-1171;NO
-1172;NO
-1194;Do not
-1220;In the government and private sector the biggest development problem is the behavior of certain customer stakeholders will always exist but after our years of experience no longer present obstacles.
-1229;I think the engineer who raises the requirements in agile development, must have new skills and tools that allow abstracting not only what the customer needs but present it in an easier way and make it understandable for the whole team. The value of a user story three lines is usually higher than a document of 10 pages which is not read.
-1266;Only the ones mentioned
-1289;no
-1296;No
-1327; I my self used in the past only waterfall or v-model methodology. To control better you start implementing feed back loops by checklist or quality gates etc. in this models. the model gets heavier and heavier. I found the agile methodology is the easier and more flexible one.
-1331;.
-1339;DO NOT
-1340;None
-1341;insufficient skills by the management and executive level in all medium and small enterprises in Ecuador.
-1343;DO NOT
-1344;DO NOT
-1349;DO NOT
-1350;None
-1352;USER RESISTANCE  to change, produces DELAYS AND LACK OF CONTINUITY IN THE PROJECT.
-1353;DO NOT
-1357;None
-1402;You could consider the  distance  between commercialization efforts (Marketing and Sales) and development efforts. How does the commercial side of the business perceive the software? Do they understand that they are selling a service? Support that is / may be required? Do sales team members actually know how to use the product/service? Etc...
-1416;DO NOT
-1423;None
-1424;None
-1435;HOW TO respond to a SOFTWARE demand AND THE ORGANIZATION HAS no ESTABLISHED processes?
-1449;no
-1459;NO
-1466;No.
-1482;None
-1542;Adopting Agile methodologies implies a bigger change and way of working than only changing tools and flows in IT (e.g. jira) and leaving business units untouched.
-1560;unclear traceability between requirements and test cases results in unknown test coverage.  As a result, we likely do more testing than would otherwise be necessary, but still miss critical coverage.
-1620;There is not, this survey was very accurate in the sense of identifying the most relevant aspects of the RE process as it pertains to my experience at least.  
-1690;Requirements should be socialized among all TEAM
-1695;NO
-1697;No
-1703;NO
-1717;NO
-1727;THERE are not additional PROCESSES or aspects
-1742;no
-1753;Maybe that our requirements tend to change a lot. This does not mean that we have a moving target, but rather that the reality where our systems work changes all the time and we need to keep up. I.e. changing requirements needs to be handled in a good way - both documentation, managing their impact and communicating to stakeholders. Rigid requirements are usually easier since they tend to stay the same form for a long time.    For instance: A requirement for the break pedal of a car is quite stable, but for the infotainment station in the same car the requirements may change each update/service for the car.
-1759;-
-1804;Using Waterfall process and trying to adopt an Agile method.
-1805;No
-1810;Constant conflict in prioritization of requirements coming from customers (e.g, new features) versus requirements from engineering teams (e.g. rewriting/refactoring to make system better)
-1812;no
-1820;No
-1831;No
-1840;It can sometimes we very diffuse what work the requirements analyst are doing vs architects. In some companies I worked in the architect is the requirements person. 
-1844;No
-1896;As a small team inside a non tech-savvy business, RE is a mostly forgotten part in the development process.
-1917;No. Thank you for the invitation.
-1918;Lack of a clearn vision and clear definition of product management by the top management.
-1933;no
-1941;Not applicable.
-1961;Tell me what you want the thing to do... and we will build it.  Sounds very simple. Yet it seems like every question require 7 people to answer and still get it wrong, multiple times.
-1962;"How to manage changes in the team;"
-1963;x
-1969;While I see many developers scrimp on RE processes, I find that it is management that fails mostly here.  Non-technical management are often unwilling to take advice from a person with technical experience when it comes to process, and that typically leads to project failure.  I mentioned in previous questions that I have no problem leaving projects after a few months.  I see no point in spending my time on such projects.
+lfdn;v_297;tag
+30;Since systems we developed face the natural environment, several unexpected events occur.  We should establish requirements analysis techniques to deal with requirements related to uncertain environment.   ;
+35; ;
+41;Nope!;
+58;Wrong-understood  agility  as a pseudo-solution for deeper problems;
+76;No;
+91;Match between requirements and planning. I see many project which can't match requirements to planning items. there is  one big  planning item, that should fulfill all requirements;
+93;struggle: complex processes, not uniform. The business wants ALL done in the system, which makes it unflexible and hard to maintain. Sometimes it is wise to consider if you really NEED to do certain steps in the system. ;
+114;use case:   different HW component but same requirement   how shall a requirement document look like in case of having different HW components which have the same requirements.  currently we are copying/sharing the requirements so each requirement can be linked to a certain test case for each HW component.  In case of changes, we have to change on many places. But in case we have only one requirement for all HW components, we cannot garanty that each HW component has tested the requirement.;
+115;Help to spread the knowledge - especially amongst Managers.  If this could be achieved, most of our problems would be non-existing.;
+129;None;
+141;Requirements gathering with virtual teams in short duration (4 hours or less) working sessions is not always efficient. Keeping participants focused is not always possible, leading to many  restarts  during a session while some key participants are multi-tasking.;
+144;No;
+160;yes, the tooling aspect. it's often a problem using different tools in RE process from the customers need to implementation task and test cases. #traceability  We do everything within JIRA, but the acceptance by our customers is difficult.;
+165;RE is not only a SW engineering concern. I guess that all engineering domains may benefit of RE (from civil engineering, to mechanical engineering, electrical engineering, etc.).  The interdisciplinary is growing and the various trades shall share a same (similar?) approach to RE and it is not clear yet.  RE needs to grow in maturity.;
+167;While competence and skills are more important, the right tools are crucial in scaling. This survey does not touch on this issue at all.;
+170;no;
+183;no;
+199;More of a question to the community:  How can we convince stakeholders that the lack of proper requirements is costly and dangerous.  This is the fundamental problem I see.;
+203;The responsibility of the requirements engineer and/or requirements manager in projects.;
+208;no;
+210;We do not have a formal process;
+213;I have noticed that when meets researcher and a practitioner in some experience exchange, for example in conference, there are lot of old topic from practitioners and new topics from researchers. And during the discussions there comes a misunderstanding. In the science field we are tended to create new innovations and new ideas for new situations, but we forgot to validate the previous ideas in practice. I'm a researcher also and a practitioner in the same time. And I realize that many RE methods, techniques etc isn't implemented fully in practice. And time after time practitioners came back and realize that the old method have some unanswered questions and the implementation is to complex.   In the result I came to question - do we need to much new innovations? Maybe we need to focus on existing methods and improve them. Maybe we need to make an inventory and think simpler. We need to encourage the practice, we need to improve productivity and support future work. RE practical field are strongly behind the science.    Sorry for my English.  I'm working on such topic like Continuous Requirements Engineering and one of my focus points are used tools and possibility to improve requirements use in future and requirements inheritance. If You are interested in collaboration, I will be glad to cooperate. ;
+217;none;
+230;An interesting fact is that in my experience there is no an official Requirements Engineer. Rather, the job of creating requirements is usually given to someone who has years of experience in the project's field. Hence, it would be interesting to know (in future surveys), how the person taking the survey gained his or her experience in the  Requirement Engineering field.;
+259;No.;
+291;When a system needs to change/to be replaced often the current situation (IST) is not clear. Every project (change) needs (extra) time to find out what the current situation is. Better is to maintain the knowledge of the current situation. So each change needs a kind of after-care to maintain it.;
+317;None;
+330;Do not;
+332;People need to be properly trained in RE with a strong focus on their skill development.;
+355;Different applications like Excel, Doors and JAMA ;
+370;nop;
+377;More needs to be done to deliver systematic requirements traceability from Requirements through Development to Production Release - greater integration between different tools is needed.  Vendors should make APIs more readily available for integration purposes.;
+387;no;
+420;"we are bound to complicated rules and regulations (laws) which make the development very complex. Some rules and regulations have impact on other rules; ex. if a farmer does not fulfil one need there has consequences on another payment";
+444;Do not;
+446;Less documentation more focus on prototyping/demoing. Formal methods are totally useless for practical requirement management;
+479;How much Review is enough?  How often do you have to review the same requirement?  Workflows for requirements status?  Attributes of requirements?  Distinguish between functional safety requirements and technical safety requirements?;
+506;no;
+512;no;
+523;No;
+534;No;
+545;Maybe later;
+549;no;
+573;Communication, communication, relationship building and communication. 'Soft' skills is a misnomer - they are the hardest and most valuable skills to find in IT.;
+649;no;
+663;It is important to have an overall and consistent framework in which are poeple acting ;
+676;Do not.;
+694;not at this time;
+722;Business requirements aren't elicited explicitly and not shared with the project team.;
+723;none;
+729;Need for a team of Business Analysts with skills to detect different types of stakeholders, in order to address them in the best way (there are people who feel more comfortable showing what they do, others do not have problems to summarize and explain what they need and wish, while others feel uncomfortable exposing against others). It should be able to design a plan of requirements elicitation tailored to each case. I clarify that the project was in a food industry and those involved in the survey of requirements from the counterpart were direct users, which in some cases were business executives, and other plant personnel, so it is important to know the different profiles and the ability to communicate at all levels (operators, supervisors, managers). We find it very positive rely on teams with staff with specific knowledge of the business area for which software is being developed. We consider very positive the participation of  Security, Architecture and Testing personnel from the beginning of the project, which helps to define requirements that would otherwise arise in advanced stages, and could lead to rework.;
+754;No;
+758;I also work as a researcher and I think the user story driven approach should be used in some of our project planning even for research.;
+768;none;
+786;None;
+795;We don't ever work out the cost of implementing a requirement vs. the value it adds. This means at times we spend far more implementing something than we could ever make back .In one memorable case we spent $800k to satisfy one part of an acknowledged one-off requirement for a contract of $250k.;
+818;no;
+831;No;
+839;No.;
+868;I believe that the documentation of the requirements is interesting for development but not for maintenance (both corrective and evolutionary). The cost to keep the documentaiton up-to-date is very high. I'm trying to create documentation that is tailored to maintenance needs and stays updated even after encoding.;
+876;Requirements engineering in the agile movement.;
+879;No;
+880;Estimates with function points in agile methods.;
+896;"Sure, works with app development for virtual reality and smartwatch. Much that is reported in the questionnaire ... is for information systems. In two months we already have products in the store ... we do not use even half of the engineering related with requirements. Our ""requirements analyst"" is often a researcher, an guy with experience in usability or a UX guy.";
+900;Deficiency in the use of new techniques that aid in the communication between the client and the technical team;
+901;no;
+909;"There is always the dilemma of the level of granularity that should be considered in the projects. Should we spend project time documenting, or should we not document enough to keep project information as an asset of the company? I have observed that the concept of Agile has been misapplied in the projects and with that, many projects and companies have abdicated requirements engineering to respond quickly to clients / market. Thus, developing software has been treated as a commodity, which makes me very worried. Profiles that think only of technological solutions are increasingly common. With this, they are considered more important the ""how"" than ""what"" should be implemented.";
+923;Low skills in the discipline of eliciting requriements of the professionals working for this purpose;
+930;Do not;
+931;No;
+933;No;
+952;no comments on this. Thanks;
+956;NP;
+959;Up until;
+1006;The existence of technical meetings to discuss the existing problems and possible solutions;
+1010;no;
+1014;no;
+1031;no.;
+1033;We live in a process of gradual transition between use cases, class diagrams, textually written requirements in a traditional and extensive way to a more lean model, in a more dynamic way, with user stories and with their acceptance criteria, BDD and prototyping with the participation of one UX professional. In this way, you must have a plan, pilots and time for this transition, the organizations need to experiment and evolve gradually, safely, reducing resistance and conflicts between residual rules and standards still existing from the experiences with CMMI and MPS-Br to a more light model ... but it is happening as it should be.;
+1035;-;
+1062;no;
+1064;If projects are allowed to start up wrongly, requirement wise, through the steering groups milestones and tollgates, it is very hard later to get it on track again. ;
+1069;No;
+1070;RE is bad understood in companies. The value of RE is not recognized by management.;
+1079;No;
+1118;As far I can remember, no.;
+1139;No;
+1159;NO;
+1166;How to act with the customer in case of ANY NEW REQUIREMENTS NOT clearly MENTIONED BUT EMERGING AND important for the SYSTEM ;
+1168;AT THE MOMENT, NO;
+1171;NO;
+1172;NO;
+1194;Do not;
+1220;In the government and private sector the biggest development problem is the behavior of certain customer stakeholders will always exist but after our years of experience no longer present obstacles.;
+1229;I think the engineer who raises the requirements in agile development, must have new skills and tools that allow abstracting not only what the customer needs but present it in an easier way and make it understandable for the whole team. The value of a user story three lines is usually higher than a document of 10 pages which is not read.;
+1266;Only the ones mentioned;
+1289;no;
+1296;No;
+1327; I my self used in the past only waterfall or v-model methodology. To control better you start implementing feed back loops by checklist or quality gates etc. in this models. the model gets heavier and heavier. I found the agile methodology is the easier and more flexible one.;
+1331;.;
+1339;DO NOT;
+1340;None;
+1341;insufficient skills by the management and executive level in all medium and small enterprises in Ecuador.;
+1343;DO NOT;
+1344;DO NOT;
+1349;DO NOT;
+1350;None;
+1352;USER RESISTANCE  to change, produces DELAYS AND LACK OF CONTINUITY IN THE PROJECT.;
+1353;DO NOT;
+1357;None;
+1402;You could consider the  distance  between commercialization efforts (Marketing and Sales) and development efforts. How does the commercial side of the business perceive the software? Do they understand that they are selling a service? Support that is / may be required? Do sales team members actually know how to use the product/service? Etc...;
+1416;DO NOT;
+1423;None;
+1424;None;
+1435;HOW TO respond to a SOFTWARE demand AND THE ORGANIZATION HAS no ESTABLISHED processes?;
+1449;no;
+1459;NO;
+1466;No.;
+1482;None;
+1542;Adopting Agile methodologies implies a bigger change and way of working than only changing tools and flows in IT (e.g. jira) and leaving business units untouched.;
+1560;unclear traceability between requirements and test cases results in unknown test coverage.  As a result, we likely do more testing than would otherwise be necessary, but still miss critical coverage.;
+1620;There is not, this survey was very accurate in the sense of identifying the most relevant aspects of the RE process as it pertains to my experience at least.  ;
+1690;Requirements should be socialized among all TEAM;
+1695;NO;
+1697;No;
+1703;NO;
+1717;NO;
+1727;THERE are not additional PROCESSES or aspects;
+1742;no;
+1753;Maybe that our requirements tend to change a lot. This does not mean that we have a moving target, but rather that the reality where our systems work changes all the time and we need to keep up. I.e. changing requirements needs to be handled in a good way - both documentation, managing their impact and communicating to stakeholders. Rigid requirements are usually easier since they tend to stay the same form for a long time.    For instance: A requirement for the break pedal of a car is quite stable, but for the infotainment station in the same car the requirements may change each update/service for the car.;
+1759;-;
+1804;Using Waterfall process and trying to adopt an Agile method.;
+1805;No;
+1810;Constant conflict in prioritization of requirements coming from customers (e.g, new features) versus requirements from engineering teams (e.g. rewriting/refactoring to make system better);
+1812;no;
+1820;No;
+1831;No;
+1840;It can sometimes we very diffuse what work the requirements analyst are doing vs architects. In some companies I worked in the architect is the requirements person. ;
+1844;No;
+1896;As a small team inside a non tech-savvy business, RE is a mostly forgotten part in the development process.;
+1917;No. Thank you for the invitation.;
+1918;Lack of a clearn vision and clear definition of product management by the top management.;
+1933;no;
+1941;Not applicable.;
+1961;Tell me what you want the thing to do... and we will build it.  Sounds very simple. Yet it seems like every question require 7 people to answer and still get it wrong, multiple times.;
+1962;"How to manage changes in the team;";
+1963;x;
+1969;While I see many developers scrimp on RE processes, I find that it is management that fails mostly here.  Non-technical management are often unwilling to take advice from a person with technical experience when it comes to process, and that typically leads to project failure.  I mentioned in previous questions that I have no problem leaving projects after a few months.  I see no point in spending my time on such projects.;
