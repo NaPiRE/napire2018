@@ -22,14 +22,14 @@ List-supplementing short free text answers - New Tags Mode:
 
 v_2 asks respondents to specify their race; with the standard options available. 
 A non-negligible number of respondents answered "Other (please specify)" and specified
-variants of "Hobbit", "Elb", or "Ork", whereas others specified "Aryan". 
-You decide to group the self-proclaimed Aryans with the Caucasian Whites but add new 
+variants of "Hobbit", "Elb", or "Ork", whereas others specified "Dunedain". 
+You decide to group the Dunedain with the Caucasian Whites but add new 
 codes for the inhabitants of the Shire and the like.
 After your processing, your code file could look like this:
 
 lfdn;v_2;tag
 1;hobbit;Hobbit
-2;Aryan;Caucasian White
+2;Dunedain;Caucasian White
 3;Elb;Elb
 
 =========================================================================================
