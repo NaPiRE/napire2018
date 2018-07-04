@@ -1,0 +1,145 @@
+lfdn;v_347;tag
+291; using quantified textual requirements;Quantified textual requirements
+144; using quantified textual requirements;Quantified textual requirements
+150; using quantified textual requirements and following specific guidelines and standards;Quantified textual requirements
+150; using quantified textual requirements and following specific guidelines and standards;Following guidelines
+150; using quantified textual requirements and following specific guidelines and standards;Following standards
+317;(The same);NotCodable
+1791;a;NotCodable
+849;Acceptance Criteria;Acceptance criteria
+126;Analysis;NotCodable
+929;any documentation with textual description of the requirement vision document.;Textual requirements
+1159;AVAILABILITY;NotCodable
+898;availability;NotCodable
+1423;AVAILABILITY;NotCodable
+203;availability, fault tolerance;NotCodable
+1560;Availabilty, Recoverability;NotCodable
+839;Available as per existing corporate standards;Following standards
+952;before and after transformation;NotCodable
+1349;Contract and SLA's;Contract
+1349;Contract and SLA's;Service level agreements
+1761;Design charts;Design charts
+334;Diagrams and quantified textual requirements;Diagrams
+334;Diagrams and quantified textual requirements;Quantified textual requirements
+1091;Diagrams and texts;Diagrams
+1091;Diagrams and texts;Textual requirements
+1753;Diagrams, tables and textual requirements including performance levels, fault tolerances;Diagrams
+1753;Diagrams, tables and textual requirements including performance levels, fault tolerances;Quantified textual requirements
+420;do not know;NotCodable
+170;document;Textual requirements
+1207;documentation in internal wiki;Textual requirements
+1344;errors loggin with state management;NotCodable
+1844;fault tolerance;NotCodable
+785;following some guidelines;Following guidelines
+586;Guideline, policy and practise;Following guidelines
+1355;IN CASE OF FAILURES, THE PRODUCT CAN RECOVER ITSELF;NotCodable
+1933;in memos;NotCodable
+924;Load Tests Results;NotCodable
+1424;madurity;NotCodable
+1831;measurable textual requirements;Quantified textual requirements
+119;MTBF;NotCodable
+1663;must meet standard reliability threshold (datawarehouse project) eg. recoverability;Following standards
+479;natural language (sentence patterns);Textual requirements
+1633;natural language description in excel files;Textual requirements
+178;non functional requirements;Textual requirements
+79;Non functional requirements chapter at the end of each concerned story;User stories
+482;Non quantified textual requirements ;Textual requirements
+118;non-quantified textual requirements;Textual requirements
+818;non-quantified textual requirements;Textual requirements
+937;non-quantified textual requirements;Textual requirements
+637;non-quantified textual requirements;Textual requirements
+446;non-quantified textual requirements;Textual requirements
+1840;non-quantified textual requirements;Textual requirements
+1751;Nonquantified textual req;Textual requirements
+916;not measurable;Textual requirements
+1097;not measurable using textual requirements;Textual requirements
+197;Plain text;Textual requirements
+1161;Quality indicators with # of technical incidents, plus  non functional.;Quantified textual requirements
+626;Quality scenarios;Quality scenarios
+1066;quantified text requirements;Quantified textual requirements
+106;quantified textual requirement;Quantified textual requirements
+372;quantified textual requirements;Quantified textual requirements
+570;Quantified textual requirements;Quantified textual requirements
+1012;quantified textual requirements;Quantified textual requirements
+1239;quantified textual requirements;Quantified textual requirements
+230;Quantified textual requirements;Quantified textual requirements
+81;quantified textual requirements;Quantified textual requirements
+442;quantified textual requirements;Quantified textual requirements
+1742;quantified textual requirements;Quantified textual requirements
+384;quantified textual requirements;Quantified textual requirements
+985;Quantified textual requirements;Quantified textual requirements
+427;Quantified textual requirements ;Quantified textual requirements
+437;quantified textual requirements ;Quantified textual requirements
+163;Quantified textual requirements using an technical requirements intake document for solution architecture;Quantified textual requirements
+676;quantified textual requirements, diagrams, following customer guideline;Quantified textual requirements
+676;quantified textual requirements, diagrams, following customer guideline;Diagrams
+676;quantified textual requirements, diagrams, following customer guideline;Following guidelines
+199;Quatitatively. Mil style Reliability Analysis.;Quantified textual requirements
+1140;recoverability, availability;NotCodable
+205;Require architect's approval of interfaces;NotCodable
+1651;Review against reliability guidelines;Following guidelines
+1204;Review of requirements from client and written in doc;Textual requirements
+76;Same as Maintainability above;NotCodable
+1384;screenshots;Prototypes
+182;Specific guidelines standard or practice;Following guidelines
+1126;specific topic in the main project document;NotCodable
+1290;Specifications;Textual requirements
+1010;standards;Following standards
+754;Standards and parameters documented in wiki or shared repository;Following standards
+1031;structured list of requirements;Textual requirements
+444;Structured List of Requirements;Textual requirements
+1353;Success rate in unit tests and functional tests;Quantified textual requirements
+684;Swim lanes;NotCodable
+1327;system specification in chapter non-functional requirements;Textual requirements
+48;Test procedures;Test procedures
+758;Test scenarios;Test procedures
+1343;TESTing;NotCodable
+41;Testing;NotCodable
+569;Text;Textual requirements
+1820;Text;Textual requirements
+1008;Text;Textual requirements
+728;text;Textual requirements
+1006;text documents;Textual requirements
+742;Text in requirements doc which becomes part of third party contract, so eg.  tolerance (number and time of outages etc) will be documented by type of outage, time of day and elapsed time;Quantified textual requirements
+997;text with mentions of quantification;Quantified textual requirements
+1011;text, tables, lists;Textual requirements
+722;Textual;Textual requirements
+1402;Textual;Textual requirements
+332;textual;Textual requirements
+1279;Textual;Textual requirements
+147;textual;Textual requirements
+1428;textual according to a tempalte;Textual requirements
+412;Textual and calculation spread sheet ;Textual requirements
+349;textual requirements;Textual requirements
+297;Textual requirements;Textual requirements
+1911;textual requirements;Textual requirements
+750;Textual requirements and diagrams;Textual requirements
+750;Textual requirements and diagrams;Diagrams
+377;Textual requirements with supporting tables of numeric standards.;Quantified textual requirements
+183;Textul;Textual requirements
+1118;The same.;NotCodable
+1021;the system must have resilience;NotCodable
+1618;This our covered in our Design Documents often using text based requirements;Textual requirements
+1650;Use cases, informal text;Use cases
+1466;User story/incident/backlog tracking tool;User stories
+359;Using customer's request;Customer requests
+525;using internal guide lines;Following guidelines
+945;Using measurable  textual requirements;Quantified textual requirements
+1291;using non-quantified textual requirements;Textual requirements
+120;using non-quantified textual requirements;Textual requirements
+1805;using non-quantified textual requirements;Textual requirements
+511;using quantified textual requirements;Quantified textual requirements
+1141;using quantified textual requirements;Quantified textual requirements
+278;using quantified textual requirements;Quantified textual requirements
+162;using quantified textual requirements;Quantified textual requirements
+506;using quantified textual requirements, diagrams, following any specific guideline, standard or practice.;Quantified textual requirements
+506;using quantified textual requirements, diagrams, following any specific guideline, standard or practice.;Diagrams
+506;using quantified textual requirements, diagrams, following any specific guideline, standard or practice.;Following guidelines
+506;using quantified textual requirements, diagrams, following any specific guideline, standard or practice.;Following standards
+165;using semi-quantified textual requirements ( shall-statements );Semi-quantified textual requirements
+912;Usually standard requirements, based on experience;Following standards
+1969;We document these generally in terms of a base level of reliability that is acceptable to the problem.  (i.e. if reliability falls below the stated minimum, it is considered to be a failure);Quantified textual requirements
+1076;What type of application server, fault tracing methods, Logs;NotCodable
+968;With document specifying the required settings and mechanisms to be implemented;Textual requirements
+1406;With safety requirements;NotCodable
+292;xFMEA, reliability studies, risk reviews;FMEA

@@ -1,0 +1,208 @@
+lfdn;v_345;tag
+723; time behaviour;NotCodable
+291; using quantified textual requirements;Quantified textual requirements
+150; using quantified textual requirements;Quantified textual requirements
+144; using quantified textual requirements;Quantified textual requirements
+317;(The same);NotCodable
+1791;a;NotCodable
+849;Acceptance Criteria;Acceptance criteria
+114;additional tag in the requirement in IMS is showing if it's a functional or non-functional requirement;NotCodable
+952;after transforamation;NotCodable
+929;any documentation with textual description of the requirement vision document.;Textual requirements
+213;As a textual requirements in document or a system Jira.;Textual requirements
+1350;AVAILABLE AT ALL TIMES;NotCodable
+1344;AVOID to a maximun extent DELAYS IN THE PROCESSes;NotCodable
+304;Basis SLAs, natural language decsription;Service level agreements
+304;Basis SLAs, natural language decsription;Textual requirements
+1435;BDD and business PROCESS OPTIMIZATION;BDD
+1458;because several users can connect simultaneously, resource consumption will be considered;NotCodable
+292;Build / test reports;NotCodable
+1424;capacity;NotCodable
+1741;capacity;NotCodable
+1349;Contract and SLA's;Contract
+1349;Contract and SLA's;Service level agreements
+912;Depending on the system we may develop smoke test expectations and combine smoke and loading to assess impact;NotCodable
+1666;diagrams;Diagrams
+334;Diagrams and quantified textual requirements;Diagrams
+334;Diagrams and quantified textual requirements;Quantified textual requirements
+1091;Diagrams and texts;Diagrams
+1091;Diagrams and texts;Textual requirements
+230;Diagrams, Quantified textual requirements;Diagrams
+230;Diagrams, Quantified textual requirements;Quantified textual requirements
+1753;Diagrams, tables and textual requirements including performance levels, fault tolerances;Diagrams
+1753;Diagrams, tables and textual requirements including performance levels, fault tolerances;Quantified textual requirements
+1207;documentation in internal wiki;Textual requirements
+1962;Example: recording an invoice with five lines can not take more than 3s;Quantified textual requirements
+1255;excel spreadsheet to record KPIs and after implementation make the measurement;Quantified textual requirements
+1321;Explicit;NotCodable
+785;following some guideline;Following guidelines
+851;fullfilment of response times, resource utilization (based on DevOps);Quantified textual requirements
+754;Guidelines and parameters documents in wiki;Following guidelines
+830;Identify and document technical constraints to ensure performance is optimal - sometimes a trade-off with functional requirements;Constraints
+468;In the user stories, as acceptance tests. The client will not accept a delivery if the product does not meet the specified non-functional requirements.;User story acceptance tests
+856;it is explicit in the technical proposal which is designed as a requirements document.;Textual requirements
+1831;load testing, diagrams, measurable textual requirements;Quantified textual requirements
+1831;load testing, diagrams, measurable textual requirements;Diagrams
+924;Load Tests Results;NotCodable
+1340;Maximize productivity;NotCodable
+1932;measurable textual requirements;Quantified textual requirements
+1188;measurable textual requirements;Quantified textual requirements
+1082;measurable textual requirements;Quantified textual requirements
+1918;measurable textual requirements;Quantified textual requirements
+1266;Measure through analysis of data collected throughout use.;NotCodable
+162;metrics;Metrics
+1624;metrics;Metrics
+239;Mostly non-quantified textual requirements ;Textual requirements
+1663;must meet standard performance threshold;Performance tresholds
+839;Must provide users with ability to use effeciently in a timely manner without undue delays;NotCodable
+1098;Natural language / informal (plain) text;Textual requirements
+1633;natural language description in excel files;Textual requirements
+572;no specific method used;NotCodable
+178;non functional requirements;Textual requirements
+79;Non functional requirements chapter at the end of each concerned story;User stories
+482;Non quantified textual requirements;Textual requirements
+937;non-quantified textual requirements;Textual requirements
+1129;non-quantified textual requirements;Textual requirements
+729;non-quantified textual requirements;Textual requirements
+446;non-quantified textual requirements;Textual requirements
+118;non-quantified textual requirements;Textual requirements
+1224;nonfunctional requirements must be scalable and high performance;Textual requirements
+1751;Nonquantified textual req;Textual requirements
+916;not measurable;Textual requirements
+393;not really documented but considered as relevant aspect early in design;Not documented
+1457;NUMBER OF CONCURRENT USERS;NotCodable
+1454;OUR WORK MUST ALWAYS BE EFFICIENT AND QUALITY;NotCodable
+1035;plain text;Textual requirements
+197;Plain text;Textual requirements
+923;Plan and capacity test;NotCodable
+1076;points that impact on service time;NotCodable
+1055;quality attribute scenario;Quality scenarios
+626;Quality scenarios;Quality scenarios
+1066;quantified text requirements;Quantified textual requirements
+1767;Quantified textual requirement;Quantified textual requirements
+106;quantified textual requirement;Quantified textual requirements
+1812;quantified textual requirements;Quantified textual requirements
+502;Quantified textual requirements;Quantified textual requirements
+208;quantified textual requirements;Quantified textual requirements
+1051;Quantified textual requirements;Quantified textual requirements
+313;quantified textual requirements;Quantified textual requirements
+1441;quantified textual requirements;Quantified textual requirements
+1426;quantified textual requirements;Quantified textual requirements
+985;quantified textual requirements;Quantified textual requirements
+1064;quantified textual requirements;Quantified textual requirements
+1012;quantified textual requirements;Quantified textual requirements
+1403;quantified textual requirements;Quantified textual requirements
+372;quantified textual requirements;Quantified textual requirements
+384;quantified textual requirements;Quantified textual requirements
+637;quantified textual requirements;Quantified textual requirements
+570;Quantified textual requirements;Quantified textual requirements
+825;quantified textual requirements and diagrams;Quantified textual requirements
+825;quantified textual requirements and diagrams;Diagrams
+163;Quantified textual requirements using an technical requirements intake document for solution architecture;Quantified textual requirements
+676;quantified textual requirements, diagrams, following customer guideline;Quantified textual requirements
+676;quantified textual requirements, diagrams, following customer guideline;Diagrams
+676;quantified textual requirements, diagrams, following customer guideline;Following guidelines
+199;Quantitatively. Haerd Performance of the embedded system;Quantified textual requirements
+1917;record databases, benchmark;Based on Benchmarks
+1690;Resource consumption;NotCodable
+1172;RESOURCE CONSUMPTION;NotCodable
+1705;Resource consumption;NotCodable
+1423;RESOURCE CONSUMPTION;NotCodable
+1620;Resource utilization and diagrams;NotCodable
+1620;Resource utilization and diagrams;Diagrams
+898;response time;Quantified textual requirements
+1844;response time;Quantified textual requirements
+1416;RESPONSE TIME AND USE OF RESOURCES;Quantified textual requirements
+141;Response time, number of concurrent users;Quantified textual requirements
+1922;"response time; Charging/load time.";Quantified textual requirements
+1651;Review against performance guidelines;Following guidelines
+1204;Review of load and response and written in doc;Textual requirements
+427;Scenarios descriptions, diagrams;Scenario descriptions
+427;Scenarios descriptions, diagrams;Diagrams
+479;Sequence diagrams, natural language (sentence patterns);Sequence diagrams
+479;Sequence diagrams, natural language (sentence patterns);Textual requirements
+1483;Software performance and BDD;BDD
+182;Specific guidelines standard or practice;Following guidelines
+182;Specific guidelines standard or practice;Following standards
+1126;specific topic in the main project document;NotCodable
+444;Structured List of Requirements;Textual requirements
+1031;structured list of requirements;Textual requirements
+1327;system specification in chapter non-functional requirements;Textual requirements
+1810;Tables of rough expectations;Expectation tables
+1357;TECHNICAL MANUALS;Technical manuals
+1717;TECHNICAL MANUALS;Technical manuals
+1402;Test plans;Test plans
+1957;Text;Textual requirements
+845;text;Textual requirements
+1929;Text;Textual requirements
+569;Text;Textual requirements
+1296;Text;Textual requirements
+1070;Text;Textual requirements
+453;Text;Textual requirements
+1008;Text;Textual requirements
+1820;Text;Textual requirements
+549;Text based, comments from Systems architect;Textual requirements
+1477;Text information;Textual requirements
+997;text with mentions of quantification;Quantified textual requirements
+1329;text, diagram;Textual requirements
+1329;text, diagram;Diagrams
+742;Text, listed requirements and max time for response;Quantified textual requirements
+147;textual;Textual requirements
+560;Textual;Textual requirements
+1467;Textual;Textual requirements
+93;textual;Textual requirements
+91;textual;Textual requirements
+722;Textual;Textual requirements
+183;Textual;Textual requirements
+1062;textual ;Textual requirements
+58;textual (templates);Textual requirements
+1428;textual according to a tempalte;Textual requirements
+412;Textual and calculation spread sheet for performance (packets per second, bandwidth, CPU-load ...);
+1331;textual descriptions;Textual requirements
+489;textual requirements;Textual requirements
+728;textual requirements;Textual requirements
+349;textual requirements;Textual requirements
+297;Textual requirements;Textual requirements
+750;textual requirements and diagrams;Textual requirements
+750;textual requirements and diagrams;Diagrams
+437;textual requirements quantified;Quantified textual requirements
+377;Textual requirements with supporting tables of numeric standards.;Quantified textual requirements
+231;textual requirements, use-cases, user stories;Textual requirements
+231;textual requirements, use-cases, user stories;Use cases
+231;textual requirements, use-cases, user stories;User stories
+332;textual, state models;Textual requirements
+332;textual, state models;State models
+1021;the response time must be lower at 1.0 sec;Quantified textual requirements
+894;They are only measured in the process;NotCodable
+84;this is done by architects;NotCodable
+221;time behaviour;NotCodable
+387;time behaviour, capacity;NotCodable
+1406;Timing behavior of each functionality in a use case;Use cases time behavior
+1161;Tolerance behavior under stress.;NotCodable
+1969;Typically in the form of constraints (hard or soft) relative to the problem.  ;Constraints
+115;Typically quantified textual requirements;Quantified textual requirements
+1279;Typically textual, sometimes with numeric objectives;Textual requirements
+857;unmeasurable textual;Textual requirements
+768;use case;Use cases
+1347;User stories (and informal text);User stories
+75;user story;User stories
+1466;User story/incident/backlog tracking tool;User stories
+945;Using measurable textual requirements;Quantified textual requirements
+149;using non-quantified textual requirements, using quantified textual requirements;Textual requirements
+149;using non-quantified textual requirements, using quantified textual requirements;Quantified textual requirements
+511;using quantified textual requirements;Quantified textual requirements
+1316;using quantified textual requirements;Quantified textual requirements
+1141;using quantified textual requirements;Quantified textual requirements
+283;using quantified textual requirements;Quantified textual requirements
+278;using quantified textual requirements;Quantified textual requirements
+120;using quantified textual requirements;Quantified textual requirements
+160;using quantified textual requirements;Quantified textual requirements
+506;using quantified textual requirements, diagrams, following any specific guideline, standard or practice.;Quantified textual requirements
+506;using quantified textual requirements, diagrams, following any specific guideline, standard or practice.;Diagrams
+506;using quantified textual requirements, diagrams, following any specific guideline, standard or practice.;Following guidelines
+506;using quantified textual requirements, diagrams, following any specific guideline, standard or practice.;Following standards
+1727;WAIT TIME;NotCodable
+786;Ways to conserve memory usage is implemented into the documentation.;NotCodable
+1118;We register the requirements into the agile tool (e.g. AgileFant) we choose.;NotCodable
+968;With document that specifies all capabilities;Textual requirements
+1482;WRITTEN DOCUMENTATION of the percentage of performance;Quantified textual requirements

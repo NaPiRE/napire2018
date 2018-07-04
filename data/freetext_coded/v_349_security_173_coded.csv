@@ -1,0 +1,208 @@
+lfdn;v_349;tag
+291; using quantified textual requirements;Quantified textual requirements
+144; using quantified textual requirements;Quantified textual requirements
+150; using quantified textual requirements and following specific guidelines and standards;Quantified textual requirements
+150; using quantified textual requirements and following specific guidelines and standards;Following guidelines
+150; using quantified textual requirements and following specific guidelines and standards;Following standards
+317;(The same);NotCodable
+1810;A standard checklist;Following standards
+141;Adhere to the established corporate guidelines;Following guidelines
+1161;All authentication must be based on active directory.;NotCodable
+126;Analysis;NotCodable
+1065;Atlassian Jira;NotCodable
+1416;AUTHENTICATION AND INFORMATION security;NotCodable
+1756;authentication/authorization mechanism (e.g. Active Directory, Kerberos), need for encrypting data (e.g. databases, connections);NotCodable
+1423;AUTHENTICITY;NotCodable
+898;authenticity and integrity;NotCodable
+1844;authenticity, confidentiality, integrity;NotCodable
+387;authenticy, confidentially;NotCodable
+1076;Backup, user access control, permissions levels, security methods;NotCodable
+1458;BECAUSE OF THE CONFIDENTIALITY OF END USERS, IT MUST BE secure;NotCodable
+952;before and after transformation;NotCodable
+929;Casual documentation with textual description of the requirement in a vision document.;Textual requirements
+1741;confidentiality;NotCodable
+723;confidentiality;NotCodable
+1349;Confidentiality agreement;Confidentiality agreement
+1705;CONFIDENTIALITY, INTEGRITY, ACCOUNTABILITY;NotCodable
+1462;CONTRACT AND AGREEMENTS;Contract
+1462;CONTRACT AND AGREEMENTS;Agreements
+1079;defined authentication standards and rules in the global project;Following authentication standards
+205;Depend on others in the organization;NotCodable
+1353;DETAIL OF FUNCTIONALITY of the security MODULE AS WELL AS THE USE OF secure PROTOCOLS;Security protocols
+1859;diagrams;Diagrams
+889;diagrams;Diagrams
+334;Diagrams and quantified textual requirements;Diagrams
+334;Diagrams and quantified textual requirements;Quantified textual requirements
+1091;Diagrams and texts;Diagrams
+1091;Diagrams and texts;Textual requirements
+1266;Encryption, and token generation token per specific customer hired by the same groups.;NotCodable
+1406;Explicit fields in doors with links to security documentation;NotCodable
+1457;EXPOSURE AND CONSUMPTION of secure resources;Exposure and consumption of secure resources
+437;following a guideline, standard, or specific practice;Following guidelines
+437;following a guideline, standard, or specific practice;Following standards
+416;following any specific guideline;Following guidelines
+570;Following company guidelines on cyber security;Following guidelines
+283;following industry standards;Following standards
+785;following some guidelines;Following guidelines
+378;following standards;Following standards
+586;Guideline, policy and practise;Following guidelines
+1355;HAVING THE NECESSARY AGREEMENTS;Agreements
+683;IEEE 830;Following standards (IEEE 830)
+1359;In the contract;Contract
+1360;In the contract using confidentiality agreement;Contract
+79;In the story text;User stories
+819;Including change logs and audit logs;NotCodable
+1675;Informally in a wiki;Textual requirements
+420;information security analysis as part of project documentation;Information security analysis
+221;integrity;NotCodable
+1424;integrity;NotCodable
+1695;INTEGRITY, CONFIDENTIALITY;NotCodable
+1650;Interface specs, informal text;Textual requirements
+856;it becomes explicit in the technical proposal which is designed as a requirements document.;Textual requirements
+304;Legal issues, in natural language description;Textual requirements
+1831;measurable textual requirements;Quantified textual requirements
+839;Must be delivered inside a secure container as per existing corporate standards and authenticate against corporate system;NotCodable
+1663;must meet usual bank standard (my project is in a bank);Following standards
+1761;National standards ;Following standards
+179;Natural language;Textual requirements
+987;Natural Language;Textual requirements
+1100;natural language;Textual requirements
+774;natural language ;Textual requirements
+479;natural language (sentence patterns);Textual requirements
+1098;Natural language / informal (plain) text;Textual requirements
+663;Natural Language / Informal Text;Textual requirements
+461;natural language activity diagram, standards;Textual requirements
+461;natural language activity diagram, standards;Activity diagrams
+461;natural language activity diagram, standards;Following standards
+1124;Need described in the requirements.;Textual requirements
+572;no specific method used;NotCodable
+1289;Non functinal requirements on process capabilties and use case;Textual requirements
+178;non functional requirements, references to give specs;Textual requirements
+482;Non quantified textual ;Textual requirements
+857;non-measurable textual;Textual requirements
+1812;non-quantified textual requirement;Textual requirements
+372;non-quantified textual requirements;Textual requirements
+1759;non-quantified textual requirements;Textual requirements
+239;Non-quantified textual requirements;Textual requirements
+1840;non-quantified textual requirements;Textual requirements
+1239;non-quantified textual requirements;Textual requirements
+1051;Non-quantified textual requirements;Textual requirements
+446;non-quantified textual requirements;Textual requirements
+1411;non-quantified textual requirements, sequence diagrams, component diagrams;Textual requirements
+1411;non-quantified textual requirements, sequence diagrams, component diagrams;Sequence diagrams
+1411;non-quantified textual requirements, sequence diagrams, component diagrams;Component diagrams
+1189;non-quantified textual requirements, using quantified textual requirements;Textual requirements
+1189;non-quantified textual requirements, using quantified textual requirements;Quantified textual requirements
+208;non-quantified textual, following compliance guideline;Textual requirements
+208;non-quantified textual, following compliance guideline;Following guidelines
+1751;Nonquantified textual req;Textual requirements
+916;not measurable;Textual requirements
+1021;Only specific users may have authorized access to the system. Restricted access authorization of the organizational sector;NotCodable
+263;Plain Text;Textual requirements
+197;Plain text;Textual requirements
+1744;Plain text;Textual requirements
+626;Quality scenarios;Quality scenarios
+676;quantified requirements textual, diagrams, following some customer guideline;Quantified textual requirements
+676;quantified requirements textual, diagrams, following some customer guideline;Diagrams
+676;quantified requirements textual, diagrams, following some customer guideline;Following guidelines
+1066;quantified text requirements;Quantified textual requirements
+106;quantified textual requirement;Quantified textual requirements
+1767;Quantified textual requirement;Quantified textual requirements
+330;Quantified textual requirements;Quantified textual requirements
+985;Quantified textual requirements;Quantified textual requirements
+384;quantified textual requirements;Quantified textual requirements
+1742;quantified textual requirements;Quantified textual requirements
+502;Quantified textual requirements;Quantified textual requirements
+442;quantified textual requirements;Quantified textual requirements
+1064;quantified textual requirements;Quantified textual requirements
+427;Quantified textual requirements ;Quantified textual requirements
+825;quantified textual requirements and diagrams;Quantified textual requirements
+818;quantified textual requirements following any specific standard ;Quantified textual requirements
+818;quantified textual requirements following any specific standard ;Following standards
+163;Quantified textual requirements using an technical requirements intake document for solution architecture, Data Classification Document, Risk Profile, Security Profile, Identity Assessment Analysis;Quantified textual requirements
+310;quantified textual requirements, diagrams;Quantified textual requirements
+310;quantified textual requirements, diagrams;Diagrams
+997;Referring to corporate standards;Following standards
+1727;reserved DATA AND INFORMATION;NotCodable
+1350;RESTRICT ACCESS;NotCodable
+1651;Review against security guidelines;Following guidelines
+1204;Review of requirements from client and written in doc;Textual requirements
+984;Risk Analysis;Risks
+475;roles and profiles;Roles and permissions
+453;Roles, permissions;Roles and permissions
+923;safety guidelines included in the non-functional requirements document;Following guidelines
+76;Same as above plus business rules use case diagrams and process flows, non-qualified detailed requirement ;Business rules
+76;Same as above plus business rules use case diagrams and process flows, non-qualified detailed requirement ;Use case diagrams
+76;Same as above plus business rules use case diagrams and process flows, non-qualified detailed requirement ;Process flows
+76;Same as above plus business rules use case diagrams and process flows, non-qualified detailed requirement ;Textual requirements
+924;Security Tests Results;NotCodable
+355;specialized IT system;NotCodable
+1917;Specific client guidelines;Following guidelines
+182;Specific guidelines standard or practice;Following guidelines
+182;Specific guidelines standard or practice;Following standards
+830;Specific NFRs for security of the data stored in the solution, auditing of access & updates, end-user authentication and authorisation requirements;Textual requirements
+830;Specific NFRs for security of the data stored in the solution, auditing of access & updates, end-user authentication and authorisation requirements;Data security requirements
+830;Specific NFRs for security of the data stored in the solution, auditing of access & updates, end-user authentication and authorisation requirements;Access auditing requirements
+830;Specific NFRs for security of the data stored in the solution, auditing of access & updates, end-user authentication and authorisation requirements;Authentication and authorisation requirements
+1126;specific topic in the main project document;NotCodable
+162;standards;Following standards
+1426;standards and norms;Following standards
+754;Standards and parameters documented in wiki or shared repository;Following standards
+851;Standards and recommendations, textual requirements;Following standards
+851;Standards and recommendations, textual requirements;Textual requirements
+1327;system specification in chapter non-functional requirements;NotCodable
+292;TARA;TARA
+48;Test procedures (checklist);Test procedures
+1008;Text;Textual requirements
+1820;Text;Textual requirements
+569;Text;Textual requirements
+845;text;Textual requirements
+1006;text documents;Textual requirements
+1011;text, diagrams, guides;Textual requirements
+1011;text, diagrams, guides;Diagrams
+1011;text, diagrams, guides;Following guidelines
+722;Textual;Textual requirements
+147;textual;Textual requirements
+91;textual;Textual requirements
+1111;textual;Textual requirements
+332;textual;Textual requirements
+560;Textual;Textual requirements
+1428;textual according to a tempalte;Textual requirements
+864;textual common language and state machine;Textual requirements
+864;textual common language and state machine;State machine
+1331;Textual descriptions;Textual requirements
+1403;textual requirement;Textual requirements
+1911;textual requirements;Textual requirements
+349;textual requirements;Textual requirements
+728;textual requirements;Textual requirements
+750;Textual requirements and diagrams;Textual requirements
+750;Textual requirements and diagrams;Diagrams
+524;Textual Requirements following standards;Textual requirements
+524;Textual Requirements following standards;Following standards
+377;Textual requirements with supporting tables of roles and entitlements;Textual requirements
+377;Textual requirements with supporting tables of roles and entitlements;Roles and permissions
+1402;Textual, test plans;Textual requirements
+1402;Textual, test plans;Test plans
+1118;The same.;NotCodable
+1618;This our covered in our Design Documents often using text based requirements;Textual requirements
+742;Threat modelling;Threat modelling
+1188;unmeasurable textual requirements;Textual requirements
+768;use case;Use cases
+1435;USER ROLES;Roles and permissions
+1466;User story/incident/backlog tracking tool;User stories
+1039;using diagrams;Diagrams
+945;Using measurable textual requirements ;Quantified textual requirements
+1097;using non-measurable textual requirements;Textual requirements
+511;using non-quantified textual requirements;Textual requirements
+278;using non-quantified textual requirements;Textual requirements
+149;using non-quantified textual requirements, using quantified textual requirements;Textual requirements
+1291;using quantified textual requirements;Quantified textual requirements
+1141;using quantified textual requirements;Quantified textual requirements
+506;using quantified textual requirements, diagrams, following any specific guideline, standard or practice.;Quantified textual requirements
+506;using quantified textual requirements, diagrams, following any specific guideline, standard or practice.;Diagrams
+506;using quantified textual requirements, diagrams, following any specific guideline, standard or practice.;Following guidelines
+506;using quantified textual requirements, diagrams, following any specific guideline, standard or practice.;Following standards
+912;Usually managed by external specialists, unless there is an obvious risk, which is directly handled at project level;NotCodable
+960;We are placing the data in share portal accessible to only right receipients ;NotCodable
+1676;we document all these requirements on Confluence, on a page or space specific to what we're building.;Textual requirements
+968;With a document that specifies the security mechanisms being deployed ;NotCodable

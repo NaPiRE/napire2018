@@ -1,0 +1,145 @@
+lfdn;v_344;tag
+1290; Specifications;NotCodable
+150; using non-quantified textual requirements;Textual requirements
+291; using quantified textual requirements;Quantified textual requirements
+144; using quantified textual requirements;Quantified textual requirements
+317;(The same);NotCodable
+1355;ABLE TO MAKE CHANGES;NotCodable
+1350;ALLOWING FOR CHANGES AND UPDATES;NotCodable
+126;Analysis;NotCodable
+1667;Analysis and ease of reuse;NotCodable
+1695;Analytical skills, reusability;NotCodable
+545;answered in question above;NotCodable
+929;any documentation with textual description of the requirement vision document.;Textual requirements
+1327;Architdecture document, system specification ;Architecture
+1327;Architdecture document, system specification ;Textual requirements
+851;Architectural documents;Architecture
+213;As a textual requirements in document or a system Jira.;Textual requirements
+952;before transformation;NotCodable
+84;by decomposing of functionalities of the new system onto modules with appropriate scope and features;NotCodable
+1406;By modularization;NotCodable
+754;Checklists;Using checklists
+758;Code analysis reports for cohesion and coupling;NotCodable
+1462;CONTRACT;Contract
+1165;DEVELOPMENT POLICIES AGREED WITH THE team;Development policies
+1859;diagrams;Diagrams
+162;diagrams;Diagrams
+334;Diagrams and quantified textual requirements;Diagrams
+334;Diagrams and quantified textual requirements;Quantified textual requirements
+1091;Diagrams and texts;Diagrams
+1091;Diagrams and texts;Textual requirements
+570;Diagrams, quantified and non-quantified textual requirements;Diagrams
+570;Diagrams, quantified and non-quantified textual requirements;Quantified textual requirements
+570;Diagrams, quantified and non-quantified textual requirements;Textual requirements
+170;document;Textual requirements
+393;documentation in future components as early as possible;NotCodable
+1454;Due to the constant growth, one of our principles is tha maintainability of the software;NotCodable
+1161;Each development must be sufficiently independent, so it can be installed in any country of the subsidiaries.;NotCodable
+1349;Established in the contract;Contract
+1321;Explicit;NotCodable
+785;following some guideline;Following guidelines
+586;Guideline, policy and practise;Following guidelines
+1804;Guidelines;Following guidelines
+420;having maps of how systems and part of systems interact;Interaction maps
+1344;it allows for a quick maintenance;NotCodable
+1624;maintainability is not something that needs documentation it should be in the code we write;Not documented
+199;Mil style Maintainalility Guidelines.;Following guidelines
+1140;modifiability, analysability;NotCodable
+1690;Modifiability, reusability;NotCodable
+203;modifiability, reusability, testability;NotCodable
+1424;modularity;NotCodable
+1159;MODULARITY;NotCodable
+1122;Modularity and standardization;NotCodable
+1353;MODULES SUGGESTED FOR THE SOLUTION - COMPONENT DIAGRAM;Component diagrams
+839;Must be able to be maintained by BAU team post hand-over;NotCodable
+987;Natural Language;Textual requirements
+1100;natural language;Textual requirements
+1413;NATURAL LANGUAGE;Textual requirements
+479;natural language (sentence patterns);Textual requirements
+663;Natural Language / Informal Text;Textual requirements
+79;Non functional requirements chapter at the end of each concerned story;User stories
+208;non-quantified textual;Textual requirements
+106;non-quantified textual requirement;Textual requirements
+637;non-quantified textual requirements;Textual requirements
+1759;non-quantified textual requirements;Textual requirements
+1840;non-quantified textual requirements;Textual requirements
+1718;non-quantified textual requirements;Textual requirements
+1441;non-quantified textual requirements;Textual requirements
+446;non-quantified textual requirements;Textual requirements
+524;non-quantified textual requirements and diagrams;Textual requirements
+524;non-quantified textual requirements and diagrams;Diagrams
+1283;Non-quantified textual requirements, guidelines and standards;Textual requirements
+1283;Non-quantified textual requirements, guidelines and standards;Following guidelines
+1283;Non-quantified textual requirements, guidelines and standards;Following standards
+916;not measurable;Textual requirements
+1340;PERFORMING quick maintenance;NotCodable
+197;Plain text;Textual requirements
+41;Proper documentation and software techniques;NotCodable
+1164;PROTOTYPING;Prototypes
+76;Qualified textual requirements tagged as non functional in solution;Qualified textual requirements
+1055;quality attribute scenario;Quality scenarios
+626;Quality scenarios;Quality scenarios
+1066;quantified text requirements as much as possible;Quantified textual requirements
+384;quantified textual requirements;Quantified textual requirements
+310;quantified textual requirements;Quantified textual requirements
+985;quantified textual requirements;Quantified textual requirements
+1742;quantified textual requirements;Quantified textual requirements
+427;Quantified textual requirements;Quantified textual requirements
+502;Quantified textual requirements;Quantified textual requirements
+205;Review state of the art and best practices;NotCodable
+182;Specific guidelines standard or practice;Following guidelines
+182;Specific guidelines standard or practice;Following standards
+1426;specific guidelines, quantified requirements (e.g. comments, max. lines per module);Following guidelines
+1426;specific guidelines, quantified requirements (e.g. comments, max. lines per module);Quantified textual requirements
+1844;Support Facility;NotCodable
+1266;System Block, subdivided by section;NotCodable
+1402;Team reviews;NotCodable
+292;Test coverage and Service guides, xFMEA to a certian extent;FMEA
+1831;tests and measurable textual requirements;Quantified textual requirements
+1008;Text;Textual requirements
+1621;Text;Textual requirements
+569;Text;Textual requirements
+1329;text;Textual requirements
+1820;Text;Textual requirements
+1467;Textual;Textual requirements
+183;Textual;Textual requirements
+332;textual;Textual requirements
+147;textual;Textual requirements
+560;Textual & diagrams ;Textual requirements
+560;Textual & diagrams ;Diagrams
+1331;textual descriptions;Textual requirements
+728;textual requirements;Textual requirements
+349;textual requirements;Textual requirements
+1279;Textual requirements;Textual requirements
+719;textual requirements;Textual requirements
+750;Textual requirements and diagrams;Textual requirements
+750;Textual requirements and diagrams;Diagrams
+377;Textual requirements with supporting tables of numeric standards.;Quantified textual requirements
+786;The new diagrams are added to the old architecture and dated before implementation.;NotCodable
+1021;the system should be open, possibility of system extension;NotCodable
+876;through the functional requirements and models of the system architecture;Textual requirements
+876;through the functional requirements and models of the system architecture;Architecture models
+909;unmeasurable textual requirements;Textual requirements
+1717;USER MANUAL;User manuals
+1357;USER MANUALS;User manuals
+1466;User story/incident/backlog tracking tool;User stories
+48;Using a tool (PTC Integrity);NotCodable
+525;using internal guide lines;Following guidelines
+928;Using measurable textual requirements, test cases and prototyping of interfaces.;Quantified textual requirements
+928;Using measurable textual requirements, test cases and prototyping of interfaces.;Test cases
+928;Using measurable textual requirements, test cases and prototyping of interfaces.;Prototypes
+278;using non-quantified textual requirements;Textual requirements
+416;using non-quantified textual requirements;Textual requirements
+120;using non-quantified textual requirements;Textual requirements
+511;using non-quantified textual requirements;Textual requirements
+1291;using non-quantified textual requirements;Textual requirements
+1697;Using quantified textual requirements;Quantified textual requirements
+1141;using quantified textual requirements;Quantified textual requirements
+506;using quantified textual requirements, diagrams, following any specific guideline, standard or practice.;Quantified textual requirements
+506;using quantified textual requirements, diagrams, following any specific guideline, standard or practice.;Diagrams
+506;using quantified textual requirements, diagrams, following any specific guideline, standard or practice.;Following guidelines
+506;using quantified textual requirements, diagrams, following any specific guideline, standard or practice.;Following standards
+165;using semi-quantified textual requirements ( shall-statements );Semi-quantified textual requirements
+912;Usually a questionnaire for the developers and tends to be subjective;NotCodable
+1423;VALIDATION CAPACITY;NotCodable
+1676;we document all these requirements on Confluence, on a page or space specific to what we're building.;Textual requirements
