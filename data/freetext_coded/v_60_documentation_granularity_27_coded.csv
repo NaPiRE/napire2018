@@ -1,0 +1,31 @@
+lfdn;v_60;tag
+213;Actualy we have bouth first two point, we create detailed requirementes and we detalaize and improve them in the process;We document detailed requirements at the beginning of the project.
+213;Actualy we have bouth first two point, we create detailed requirementes and we detalaize and improve them in the process;We document high-level requirements at beginning of the project and refine them to detailed requirements when needed (for instance, we document epics and refine them to user stories for the sprints).
+1321;As requirements are specific not much level of granularity is needed, as the project is ongoing the project manager documents requirements when a customer requests it;NotCodable
+1194;Brief user stories and acceptance criteria;NotCodable
+1403;depending on the complexity of the project;NotCodable
+332;Depends on the risk and the complexity, simple straightforward aspects high level, sw agile, complex aspect with lots of detail if needed;NotCodable
+1755;Document at high level only;NotCodable
+809;Documented at the end of the project;NotCodable
+1665;Documented during execution/deploy;NotCodable
+1402;For  known  architectural elements we document detailed requirements at the beginning of the project, the remainder are refined as required over time;We document detailed requirements at the beginning of the project.
+1402;For  known  architectural elements we document detailed requirements at the beginning of the project, the remainder are refined as required over time;We document high-level requirements at beginning of the project and refine them to detailed requirements when needed (for instance, we document epics and refine them to user stories for the sprints).
+249;I apply every technique that I know to decompose the problem state until I can visualize the requirements. ;NotCodable
+1690;It is a very dynamic System with changing requirements, we document per module and and refine in each iteration;NotCodable
+1428;It's kind of a cross-over of point 1/2 in this question. We're bound to the EN62304 requiring quite complete documentation of requirements at all phases of the project.;NotCodable
+258;mix of epics for for the next year and detail them for the next 2 months. Challenge is, that we have an external company developing. So far we did plans for a year. So we needed to know what we wanted to do next year.;NotCodable
+1928;Not sure for other team. In my team it doesn't really apply as it is mainly product maintenance;NotCodable
+1744;Short briefing in a handover meeting;NotCodable
+1633;the company uses very detailed specification documents, which are written in parallel to development;NotCodable
+896;Through UX and a brief presentation;NotCodable
+1200;we briefly document core requirements early in the project;NotCodable
+1753;We continously update our requirements in each sprint and if needed during the sprint. The documentation and refinement of the requirements are made by me but they are then reviewed and accepted by the customer.;We document high-level requirements at beginning of the project and refine them to detailed requirements when needed (for instance, we document epics and refine them to user stories for the sprints).
+377;We deliver both Agile and Traditional Waterfall projects, with capturing of Epics and User Stories for the former, and detailed fully-fledged requirements for the latter;We document high-level requirements at beginning of the project and refine them to detailed requirements when needed (for instance, we document epics and refine them to user stories for the sprints).
+377;We deliver both Agile and Traditional Waterfall projects, with capturing of Epics and User Stories for the former, and detailed fully-fledged requirements for the latter;We document detailed requirements at the beginning of the project.
+84;we document detailed requirements through the analysis of the existing business logic implemented in the old system - component by component, already more than 1,5 year ;We document detailed requirements at the beginning of the project.
+1542;We document high-level requirements usually starting the quarter, the the PO refines them close to the sprint where they will be tackled and hey are re-refined with the team during planning or development;We document high-level requirements at beginning of the project and refine them to detailed requirements when needed (for instance, we document epics and refine them to user stories for the sprints).
+147;We document high-level requirements, PMO expects this to be enough information and then we have to refine them during development, sometimes delaying the delivery of an increment.;We document high-level requirements at beginning of the project and refine them to detailed requirements when needed (for instance, we document epics and refine them to user stories for the sprints).
+1742;We document semi detailed requirements at beginning of the project and refine them to detailed requirements when needed (for instance, we document epics and refine them to user stories for the sprints).;We document high-level requirements at beginning of the project and refine them to detailed requirements when needed (for instance, we document epics and refine them to user stories for the sprints).
+830;We in ital document high level business requirements (based on the customer provided business capability statements) and then refined these into detailed requirements in a single analysis phase.;We document high-level requirements at beginning of the project and refine them to detailed requirements when needed (for instance, we document epics and refine them to user stories for the sprints).
+479;We mix high-level requirements and detailed requirements depending of the pre-system-architecture and the ISO 26262 FTA-Events.;NotCodable
+839;We take a hybrid approach between high-level and no documentation at the outset, but refine documents during the development/pilot phase of the project;We document high-level requirements at beginning of the project and refine them to detailed requirements when needed (for instance, we document epics and refine them to user stories for the sprints).
