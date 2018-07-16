@@ -1,7 +1,7 @@
 ;lfdn;v_246;v_277;tag
 0;58;Communication flaws between the project and the customer;mistrust;Lack of trust
 1;120;Communication flaws between the project and the customer;"Geographic ; contract";Too high team distribution
-2;137;Communication flaws between the project and the customer;receiving and implementing customer feedback ;
+2;137;Communication flaws between the project and the customer;receiving and implementing customer feedback ;NotCodable
 3;167;Communication flaws between the project and the customer;Competence;Lack of experience of RE team members
 4;178;Communication flaws between the project and the customer;incorporation of customer (should be PO) not working;Missing direct communication to customer
 5;179;Communication flaws between the project and the customer;The language used is not compatible;Language barriers
@@ -11,9 +11,9 @@
 9;304;Communication flaws between the project and the customer;"Time constraints;staff turnover";Team fluctuation
 10;364;Communication flaws between the project and the customer;"the main goal was not accepted by all participants; too many (inappropriate) people are involved ";Conflicting stakeholder viewpoints
 11;377;Communication flaws between the project and the customer;"Geographically dispersed; different timezones; cultural challenges";Too high team distribution
-12;425;Communication flaws between the project and the customer;Customer does not get what he need.;
+12;425;Communication flaws between the project and the customer;Customer does not get what he need.;NotCodable
 13;437;Communication flaws between the project and the customer;Team technicians and managers lack of skills;Lack of experience of RE team members
-14;446;Communication flaws between the project and the customer;wrong or unknown reqs;
+14;446;Communication flaws between the project and the customer;wrong or unknown reqs;Incomplete requirements
 15;479;Communication flaws between the project and the customer;"Availability; No sense for requirements engineering";Insufficient collaboration in process
 16;489;Communication flaws between the project and the customer;not enough time;Lack of time
 17;512;Communication flaws between the project and the customer;not enough contact between the two;Missing direct communication to customer
@@ -51,12 +51,12 @@
 49;1482;Communication flaws between the project and the customer;BAD COMMUNICATION;Communication flaws between team and customer
 50;1483;Communication flaws between the project and the customer;change resistance;Missing willingless to change
 51;1624;Communication flaws between the project and the customer;not enough clarity on what the customer needs;Missing RE awareness at team side
-52;1700;Communication flaws between the project and the customer;When the client knows what he/she wants;
+52;1700;Communication flaws between the project and the customer;When the client knows what he/she wants;NotCodable
 53;1742;Communication flaws between the project and the customer;none communicated preassumptions regarding existing mutual understanding;Communication flaws between team and customer
 54;1756;Communication flaws between the project and the customer;Different backgrounds and mindsets, not perfect understandinig of the problem domain;Missing domain knowledge
 55;1831;Communication flaws between the project and the customer;Sometimes clients say they did not receive the report when we have evidence that they have received it...;Communication flaws between team and customer
 56;1849;Communication flaws between the project and the customer;"Lack of involvement from the end-user; bad communication practices from the product owner";Missing customer involvement
-57;1965;Communication flaws between the project and the customer;Enough client technical knowledge;
+57;1965;Communication flaws between the project and the customer;Enough client technical knowledge;NotCodable
 58;1969;Communication flaws between the project and the customer;Organizational.  Someone in the managament chain doesn't see this as important.;Missing prioritization by customer
 59;149;Communication flaws within the project team;Undersetimation of communication needs;Miscommunication between RE team
 60;163;Communication flaws within the project team;misogynistic development team;Conflicts of personalities
@@ -73,8 +73,8 @@
 71;870;Communication flaws within the project team;The team has lack of experience;Lack of experience of RE team members
 72;876;Communication flaws within the project team;lack of knowledge of developers in the company's business process;Missing domain knowledge
 73;901;Communication flaws within the project team;"The team is physically separared; the requirements analyst is not part of the development team";Too high team distribution
-74;931;Communication flaws within the project team;Because we are talking about human beings, sometimes they can not understand the request, however this problem is soon solved when one starts working on the project due to prototyping;
-75;956;Communication flaws within the project team;NP;
+74;931;Communication flaws within the project team;Because we are talking about human beings, sometimes they can not understand the request, however this problem is soon solved when one starts working on the project due to prototyping;NEEDS CODING
+75;956;Communication flaws within the project team;NP;NotCodable
 76;984;Communication flaws within the project team;Different perspectives and goals;Conflicting stakeholder viewpoints
 77;990;Communication flaws within the project team;Numerous demand from other systems;High workload
 78;1017;Communication flaws within the project team;weak documentation or badly organized/accessible documentation;Missing documentation
@@ -125,8 +125,8 @@
 123;710;Incomplete or hidden requirements;shalow analysis from the product owner,lack of requirements validation with the client;Customer does not formally approve the requirements
 124;740;Incomplete or hidden requirements;weaknesses in processes;Poor requirements elicitation techniques
 125;865;Incomplete or hidden requirements;"Lack of knowledge; Lack of interest";Missing technical knowledge
-126;910;Incomplete or hidden requirements;Teams training in the elicitation and documentation of requirements;
-127;932;Incomplete or hidden requirements;A clear definition of the project scope;
+126;910;Incomplete or hidden requirements;Teams training in the elicitation and documentation of requirements;NotCodable
+127;932;Incomplete or hidden requirements;A clear definition of the project scope;NotCodable
 128;952;Incomplete or hidden requirements;so many gray ares which are not in scope;incomplete requirements
 129;1006;Incomplete or hidden requirements;Report Templates;Missing requirements specification template
 130;1014;Incomplete or hidden requirements;incomplete documentation;Missing documentation
@@ -154,10 +154,10 @@
 152;1755;Incomplete or hidden requirements;Missunderstandings;Subjective interpretations
 153;1762;Incomplete or hidden requirements;Many customer in different domains;Many customers
 154;1767;Incomplete or hidden requirements;Customer assumes the requirement is implicit ;Subjective interpretations
-155;1791;Incomplete or hidden requirements;as;
+155;1791;Incomplete or hidden requirements;as;NotCodable
 156;1812;Incomplete or hidden requirements;users do not realise their needs until later;Customer does not know what he wants
 157;1909;Incomplete or hidden requirements;Lack of methodology;Missing methodology
-158;283;Inconsistent requirements;well developed and tested area's of the product vs weaker area's;
+158;283;Inconsistent requirements;well developed and tested area's of the product vs weaker area's;NotCodable
 159;372;Inconsistent requirements;Incompatible business goals;Unclear business needs
 160;1167;Inconsistent requirements;Ambiguous requirements;Requirements remain too abstract
 161;1168;Inconsistent requirements;The communication between stakeholders is applied in an improperly manner;Communication flaws between team and customer
@@ -192,7 +192,7 @@
 190;341;Missing traceability;Requirements change and its evolution is unknown;Volatile requirements
 191;387;Missing traceability;Interfaces betwwen tools are weak for instance Enterprise Architect and test tool;Missing tool support
 192;502;Missing traceability;Not updating every single thing when there is a change.;Lack of requirements management
-193;786;Missing traceability;Makes testing difficult.;
+193;786;Missing traceability;Makes testing difficult.;NotCodable
 194;1012;Missing traceability;Requirements change during sprint but they are not documented.;Lack of requirements management
 195;1820;Missing traceability;Weak processes and usage of tools;Missing tool support
 196;93;Moving targets (changing goals, business processes and / or requirements);"no uniform processes; organization in transition/new board of directors";Lack of a well-defined RE process
@@ -243,7 +243,7 @@
 241;1194;Technically unfeasible requirements;Business experts with lack of technical skills. Resolution times also mean sometimes unworkable.;Missing technical knowledge
 242;1339;Technically unfeasible requirements;Client expectations are contrary to the time estimated for the development;Lack of time
 243;1359;Technically unfeasible requirements;LACK OF COMMUNICATION;Communication flaws between team and customer
-244;1699;Technically unfeasible requirements;No major problems have arisen;
+244;1699;Technically unfeasible requirements;No major problems have arisen;NotCodable
 245;1753;Technically unfeasible requirements;Physical limitations like bandwidth limitation, CPU-speeds/threading, heat in electronic components;Missing technical knowledge
 246;1933;Technically unfeasible requirements;challenges in the actual deployment;Complexity of domain
 247;48;Terminological problems;Confusion with what the customer wants;Subjective interpretations
@@ -306,7 +306,7 @@
 304;1929;Time boxing / Not enough time in general;Lack of resources;Insufficient resources
 305;1941;Time boxing / Not enough time in general;Too much work for the size of the team;High workload
 306;1962;Time boxing / Not enough time in general;Ambition always higher than the actual capacity of the team;Insufficient resources
-307;1963;Time boxing / Not enough time in general;x;
+307;1963;Time boxing / Not enough time in general;x;NotCodable
 308;144;Unclear / unmeasurable non-functional requirements;"customers don't usually want to discuss non-functional requirements; customers have great difficulty defining measurements for non-functional requirements";Inability to specify measurable non-functional requirements
 309;830;Unclear / unmeasurable non-functional requirements;customer took a long time 9 months to formally provide NFRs for the project and when provided omitted to describe scenarios required for performance testing;Inability to specify measurable non-functional requirements
 310;894;Unclear / unmeasurable non-functional requirements;Failure to ensure this requirement impacts the end of the project;Inability to specify measurable non-functional requirements
@@ -359,7 +359,7 @@
 357;1351;Weak knowledge about customer's application domain;THERE IS NO TIME FOR ENOUGH SOFTWARE REQUIREMENTS;Lack of time
 358;1417;Weak knowledge about customer's application domain;LACK OF COMMUNICATION;Lack of communication channels
 359;1542;Weak knowledge about customer's application domain;No feedback is captured from the real end-customers, requirements are coming from internal ideas, rather than supporting data after investigation;Lack of communication channels
-360;82;Weak relationship between customer and project lead;It leads to the business off actually.;
+360;82;Weak relationship between customer and project lead;It leads to the business off actually.;NotCodable
 361;278;Weak relationship between customer and project lead;lack of trust relationship;Lack of trust
 362;1161;Weak relationship between customer and project lead;LACK OF CONFIDENCE;Lack of trust
 363;1356;Weak relationship between customer and project lead;Technical language used between both;Unclear terminology
