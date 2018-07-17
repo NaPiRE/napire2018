@@ -13,7 +13,7 @@ lfdn;v_246;v_277;tag
 377;Communication flaws between the project and the customer;"Geographically dispersed; different timezones; cultural challenges";Organization: Too high team distribution
 425;Communication flaws between the project and the customer;Customer does not get what he need.;NotCodable
 437;Communication flaws between the project and the customer;Team technicians and managers lack of skills;People: Lack of experience of RE team members
-446;Communication flaws between the project and the customer;wrong or unknown reqs;Incomplete requirements
+446;Communication flaws between the project and the customer;wrong or unknown reqs;Incomplete requirements  
 479;Communication flaws between the project and the customer;"Availability; No sense for requirements engineering";Input: Insufficient collaboration in process
 489;Communication flaws between the project and the customer;not enough time;Organization: Lack of time
 512;Communication flaws between the project and the customer;not enough contact between the two;Input: Missing direct communication to customer
@@ -115,9 +115,9 @@ lfdn;v_246;v_277;tag
 453;Incomplete or hidden requirements;The customer think on the fly;Input: Lack of change management at customer side
 461;Incomplete or hidden requirements;lack of time, trouble communicating with the client, client does not provide complete information;Organization: Lack of time
 467;Incomplete or hidden requirements;Team inability to help the client for understand and identify their needs;Organization: Lack of experience of RE team members
-482;Incomplete or hidden requirements;Sometime customer has hidden requirements which tend to be explicit requirements ;Input: incomplete requirements
+482;Incomplete or hidden requirements;Sometime customer has hidden requirements which tend to be explicit requirements ;Input: Incomplete requirements
 523;Incomplete or hidden requirements;Lack of an analyst and a poorly written document;Organization: Unavailability of requirements engineer
-525;Incomplete or hidden requirements;the solution doesnt take into account certain hidden request of functionality;Organization: incomplete requirements
+525;Incomplete or hidden requirements;the solution doesnt take into account certain hidden request of functionality;Organization: Incomplete requirements
 541;Incomplete or hidden requirements;ChangeRequests are required at the end;Organization: Lack of requirements management
 572;Incomplete or hidden requirements;requirements not defined upfront and aligned to the goal;Organization: Missing concentration on business needs
 637;Incomplete or hidden requirements;Legacy requirements to be implemented in new application.;Organization: Thinking in legacy systems
@@ -127,26 +127,26 @@ lfdn;v_246;v_277;tag
 865;Incomplete or hidden requirements;"Lack of knowledge; Lack of interest";People: Missing technical knowledge
 910;Incomplete or hidden requirements;Teams training in the elicitation and documentation of requirements;NotCodable
 932;Incomplete or hidden requirements;A clear definition of the project scope;NotCodable
-952;Incomplete or hidden requirements;so many gray ares which are not in scope;Organization: incomplete requirements
+952;Incomplete or hidden requirements;so many gray ares which are not in scope;Organization: Incomplete requirements
 1006;Incomplete or hidden requirements;Report Templates;Organization: Missing requirements specification template
 1014;Incomplete or hidden requirements;incomplete documentation;Organization: Missing documentation
 1062;Incomplete or hidden requirements;customers don't know what is his need;Input: Customer does not know what he wants
-1091;Incomplete or hidden requirements;Problems in requirements gathering;Organization: incomplete requirements
+1091;Incomplete or hidden requirements;Problems in requirements gathering;Organization: Incomplete requirements
 1097;Incomplete or hidden requirements;Lack of knowledge or experience in requirements engineering;People: Missing technical knowledge
-1105;Incomplete or hidden requirements;Lack of details;Organization: incomplete requirements
+1105;Incomplete or hidden requirements;Lack of details;Organization: Incomplete requirements
 1111;Incomplete or hidden requirements;Lack of a defined methodology;Method: Missing methodology
 1126;Incomplete or hidden requirements;"Lack of experience in performing requirements discovery processes; unprepared key users;";People: Lack of experience of RE team members
 1166;Incomplete or hidden requirements;SAVINGS;Organization: High cost
 1189;Incomplete or hidden requirements;Environment with variable conditions;Input: Volatile requirements
 1223;Incomplete or hidden requirements;Little customer engagement;Input: Missing customer involvement
 1352;Incomplete or hidden requirements;LACK OF DOCUMENTATION;Organization: Missing documentation
-1358;Incomplete or hidden requirements;Customers do not provide complete information;Input: incomplete requirements
-1383;Incomplete or hidden requirements;"They are generally given by the unwillingness of analysts who write requirements (much copy - paste of stories that are similar, unrevised are not exactly the same); Lack of test data to use";Input: incomplete requirements
-1433;Incomplete or hidden requirements;The client does not detail everything;Input: incomplete requirements
+1358;Incomplete or hidden requirements;Customers do not provide complete information;Input: Incomplete requirements
+1383;Incomplete or hidden requirements;"They are generally given by the unwillingness of analysts who write requirements (much copy - paste of stories that are similar, unrevised are not exactly the same); Lack of test data to use";Input: Incomplete requirements
+1433;Incomplete or hidden requirements;The client does not detail everything;Input: Incomplete requirements
 1435;Incomplete or hidden requirements;Requirements change;Input: Volatile requirements
 1449;Incomplete or hidden requirements;"misunderstanding; timing problem";Organization: Lack of time
 1466;Incomplete or hidden requirements;We don't know what we don't know - until we get deep enough to learn it.;Organization: Missing RE awareness at team side
-1467;Incomplete or hidden requirements;insufficient effort put in for the requirement analysis;Organization: Insufficient analysis at the beginnging of the project
+1467;Incomplete or hidden requirements;insufficient effort put in for the requirement analysis;Organization: Insufficient analysis at the beginning of the project
 1651;Incomplete or hidden requirements;Unknown technical debt issues from existing code. ;Organization: Insufficient information 
 1668;Incomplete or hidden requirements;They are not obvious and come from various sources;Input: Many customers
 1670;Incomplete or hidden requirements;They have several sources;Input: Many customers
@@ -215,7 +215,7 @@ lfdn;v_246;v_277;tag
 1316;Moving targets (changing goals, business processes and / or requirements);business targets, market situation, competition;Input:Changing business needs
 1327;Moving targets (changing goals, business processes and / or requirements);Customer very often does no know over the project time what is best for him to specify.;Input:Volatile requirements
 1331;Moving targets (changing goals, business processes and / or requirements);Postponement of discussions, changes of the directors/board involved, aspects not considered or ignored by the client;Input:Weak management at customer side
-1406;Moving targets (changing goals, business processes and / or requirements);Late / no commitment;Input:Missing engagement by customer 
+1406;Moving targets (changing goals, business processes and / or requirements);Late / no commitment;Input:Missing engagement by customer
 1675;Moving targets (changing goals, business processes and / or requirements);Insufficient research in to the problem being solved;Method:Insufficient analysis at the beginning of the project
 1761;Moving targets (changing goals, business processes and / or requirements);Technical uncertainty ;Method:Missing knowledge about development framework
 1805;Moving targets (changing goals, business processes and / or requirements);Customer not clear about what they want until they see the result;Input:Unclear project scope
@@ -229,7 +229,7 @@ lfdn;v_246;v_277;tag
 332;Stakeholders with difficulties in separating requirements from previously known solution designs;Stakeholders already went through an entire problem solving process prior to the first moment we got involved;Method:Lack of a well-defined RE process
 393;Stakeholders with difficulties in separating requirements from previously known solution designs;"no goal modelling; no external analysis";Method:Lack of a well-defined RE process
 442;Stakeholders with difficulties in separating requirements from previously known solution designs;business areas imagine solutions as an evolution of what they know;Method:Missing knowledge about development framework
-586;Stakeholders with difficulties in separating requirements from previously known solution designs;ItïŠs always eay to compare and try to fit things to already known values etc;Method:Lack of a well-defined RE process
+586;Stakeholders with difficulties in separating requirements from previously known solution designs;It´_s always eay to compare and try to fit things to already known values etc;Method:Lack of a well-defined RE process
 851;Stakeholders with difficulties in separating requirements from previously known solution designs;It is difficult to draw the end user of their status quo;People:Subjective interpretations
 958;Stakeholders with difficulties in separating requirements from previously known solution designs;"Too many managers; geographically distant managers, Managers with different local realities.";Organization:Too high team distribution
 1069;Stakeholders with difficulties in separating requirements from previously known solution designs;Don't like changing;People:Missing willingless to change
@@ -314,7 +314,7 @@ lfdn;v_246;v_277;tag
 1290;Unclear / unmeasurable non-functional requirements;PLM no technical Understanding ;People:Lack of experience of RE team members
 1353;Unclear / unmeasurable non-functional requirements;CUSTOMER ASSUMES REQUIREMENTS NOT SPECIFIED;Method:Poor requirements elicitation techniques
 81;Underspecified requirements that are too abstract and allow for various interpretations;Due to time constraints and distribution of customer-provider (different place);Organization:Lack of time
-129;Underspecified requirements that are too abstract and allow for various interpretations;Poor initial understanding of need;Input:Non functional requirements unclear
+129;Underspecified requirements that are too abstract and allow for various interpretations;Poor initial understanding of need;Input:Non-functional requirements unclear
 150;Underspecified requirements that are too abstract and allow for various interpretations;Detailed requirements are documented prior to the solution being chosen / determined.;People:Lack of experience of RE team members
 182;Underspecified requirements that are too abstract and allow for various interpretations;Unclear ;Input:Non functional requirements unclear
 231;Underspecified requirements that are too abstract and allow for various interpretations;Inexperienced team members in RE;People:Lack of experience of RE team members

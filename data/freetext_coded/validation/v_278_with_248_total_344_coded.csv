@@ -279,7 +279,7 @@ lfdn;v_248;v_278;tag
 170;Unclear / unmeasurable non-functional requirements;not enough documentation;Method:Incomplete requirements
 231;Unclear / unmeasurable non-functional requirements;Inexperienced team members in RE;People:Lack of experience of RE team members
 378;Unclear / unmeasurable non-functional requirements;customer unwilling to specify a certain expectation;Input:Missing customer involvement
-427;Unclear / unmeasurable non-functional requirements;Customer‰Ûªs knowledge in this area is not good ;Input:Missing customer involvement
+427;Unclear / unmeasurable non-functional requirements;Customeräó»s knowledge in this area is not good ;Input:Missing customer involvement
 1064;Unclear / unmeasurable non-functional requirements;Lack of requirement engineering competence:Lack of project management competence;People:Lack of experience of RE team members
 1167;Unclear / unmeasurable non-functional requirements;Requirements without control of changes are accepted;Method:Lack of change management at customer side
 1359;Unclear / unmeasurable non-functional requirements;The requirements are continuously changed by the client;Method:Lack of change management at customer side
@@ -339,7 +339,7 @@ lfdn;v_248;v_278;tag
 1727;Weak knowledge about customer's application domain;Lack of equipments;Organization:Insufficient resources
 1842;Weak knowledge about customer's application domain;The project team worked little with similar systems to those they were trying to implement;People:Lack of experience of RE team members
 120;Weak relationship between customer and project lead;"Geographic ; contract";Method:Inappropriate definition of contract
-420;Weak relationship between customer and project lead;there is very myuch focus on rules and regulations (laws) which are complicated;Organization:Non functional requirements unclear
+420;Weak relationship between customer and project lead;there is very myuch focus on rules and regulations (laws) which are complicated;Organization:Non-functional requirements unclear
 1416;Weak relationship between customer and project lead;Lack of understanding;Method:Lack of communication channels
 1695;Weak relationship between customer and project lead;Lack of direct availability or time.;Method:Lack of communication channels
 1791;Weak relationship between customer and project lead;as;
