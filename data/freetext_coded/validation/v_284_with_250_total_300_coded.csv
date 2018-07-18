@@ -46,7 +46,7 @@ lfdn;v_250;v_284;tag
 1296;Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements;Creates hard to achieve goals;Project or Organization: Decreased efficiency (overall)
 1353;Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements;DIFFICULT TO DELIVER PROJECTS;Project or Organization: Decreased efficiency (overall)
 1763;Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements;Poorly documented features, that are missing tests;Verification or Validation: Poor product quality
-1963;Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements;x;???
+1963;Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements;x;NotCodable
 393;Gold plating (implementation of features without corresponding requirements);less resources for real business value;Project or Organization:  Missing functionality of product
 1031;Gold plating (implementation of features without corresponding requirements);if not defined, no testable, so they may contain errors;Verification or Validation: Poor product quality
 1171;Gold plating (implementation of features without corresponding requirements);Increased development errors;Project or Organization: Poor product quality
@@ -141,7 +141,7 @@ lfdn;v_250;v_284;tag
 930;Moving targets (changing goals, business processes and / or requirements);demands design and development rework;Design or Implementation: Inefficient development
 947;Moving targets (changing goals, business processes and / or requirements);false/incomplete things are implemented;Project or Organization: Increased maintenance costs
 990;Moving targets (changing goals, business processes and / or requirements);Instability in the information flow;Project or Organization: Difficulties in project management
-1194;Moving targets (changing goals, business processes and / or requirements);Greater effort in code coverage tests with autom√°ticas√± Major incident resolution times and updating test cases;Project or Organization: Tests are of low quality
+1194;Moving targets (changing goals, business processes and / or requirements);Greater effort in code coverage tests with automÃ¡ticasÃ± Major incident resolution times and updating test cases;Project or Organization: Tests are of low quality
 1349;Moving targets (changing goals, business processes and / or requirements);PROBLEMS BETWEEN THE manager AND the CUSTOMER;Project or Organization: Difficulties in project management
 1402;Moving targets (changing goals, business processes and / or requirements);Marketing not understanding what provides customer value vs. something that look sexy but is confusing to the customer;Project or Organization: Difficulties in project management
 1441;Moving targets (changing goals, business processes and / or requirements);waste of effort;Project or Organization:Inefficient development
@@ -186,7 +186,7 @@ lfdn;v_250;v_284;tag
 479;Terminological problems;Glossary;Project or Organization: Validation of requirements becomes difficult
 786;Terminological problems;The customer has too much to work on at once.;Project or Organization: Validation of requirements becomes difficult
 819;Terminological problems;ambiguous information;Project or Organization: Increased difficulty of requirements elicitation
-956;Terminological problems;NP;???
+956;Terminological problems;NP;NotCodable
 1021;Terminological problems;functional and structural errors;Project or Organization: Difficulties in project management
 1069;Terminological problems;identifying cultural background earlier  ;Project or Organization: Increased communication
 1076;Terminological problems;Have to explain frequently the methods used;Project or Organization: Increased communication
@@ -281,7 +281,7 @@ lfdn;v_250;v_284;tag
 1669;Weak access to customer needs and / or (internal) business information;NEGATIVES TO THE DEVELOPMENT upgrades;Project or Organization: Difficulties in project management
 1698;Weak access to customer needs and / or (internal) business information;NO CLEAR undestandig of what the CUSTOMER WANTS;Project or Organization: Need for support by a more experienced developer
 1718;Weak access to customer needs and / or (internal) business information;"software which solves the wrong problems; customer dissatisfaction; longer meetings";Customer: Customer dissatisfaction
-1791;Weak access to customer needs and / or (internal) business information;df;???
+1791;Weak access to customer needs and / or (internal) business information;df;NotCodable
 1828;Weak access to customer needs and / or (internal) business information;difficulty in clarification of requirements;Project or Organization: Increased difficulty of requirements elicitation
 146;Weak knowledge about customer's application domain;Spend to much time on the wrong things;Project or Organization: Inefficient development
 359;Weak knowledge about customer's application domain;Lack of personnel with domain knowledge;Project or Organization: Need for support by a more experienced developer
