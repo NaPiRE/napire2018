@@ -5,7 +5,7 @@
 3;267;Communication flaws between the project and the customer;Not enough time;Lack of time
 4;518;Communication flaws between the project and the customer;The client is usually lazy and sends the information of what they want a couple of days before the deadlines;Lack of discipline
 5;640;Communication flaws between the project and the customer;"Conflicting priorities internally and deployment of changes that impact the project and vice versa; poor customer relations";Conflict of interests at management level
-6;742;Communication flaws between the project and the customer;working silos;NEEDS CODING
+6;742;Communication flaws between the project and the customer;working silos;Lack of communication channels
 7;945;Communication flaws between the project and the customer;Low formalization in the communication about requirements;Poor requirements elicitation techniques
 8;1114;Communication flaws between the project and the customer;Customer not interested in participating in the project.;Missing engagement by customer
 9;1126;Communication flaws between the project and the customer;Lack of definition of a formal and regular communication model between those involved in the project;Poor requirements elicitation techniques
@@ -50,7 +50,7 @@
 48;1167;Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements;The product owner does not provide enough support to clarify requirements;Insufficient collaboration in process
 49;1296;Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements;Natural tension there;Process doesn't allow for innovation
 50;1353;Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements;Technical limitations are not clarified during elicitation;Unclear terminology
-51;1963;Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements;x;NEEDS CODING
+51;1963;Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements;x;NotCodable
 52;378;Gold plating (implementation of features without corresponding requirements);missing assignement of expected business value to requirement;Gold plating
 53;393;Gold plating (implementation of features without corresponding requirements);too many levels between end users and developers;Communication flaws between team and customer
 54;896;Gold plating (implementation of features without corresponding requirements);not request features Implementation;Gold plating
@@ -80,7 +80,7 @@
 78;1101;Incomplete or hidden requirements;subjectivity in the documents;Requirements remain too abstract
 79;1262;Incomplete or hidden requirements;"Lack of expertise to gather requirements;not clear idea on client side";Lack of experience of RE team members
 80;1279;Incomplete or hidden requirements;Similar to weak knowledge of the customer domain;Missing domain knowledge
-81;1290;Incomplete or hidden requirements;Nê_ requirement dokument;NEEDS CODING
+81;1290;Incomplete or hidden requirements;Nê_ requirement dokument;NotCodable
 82;1316;Incomplete or hidden requirements;requirement grooming dot done accurate enough;Incomplete requirements
 83;1359;Incomplete or hidden requirements;The client does not express himself clearly;Communication flaws between team and customer
 84;1416;Incomplete or hidden requirements;The process is not indicated at all;Poor project management
@@ -169,10 +169,10 @@
 167;76;Stakeholders with difficulties in separating requirements from previously known solution designs;Typical behaviour/issue. ;Solution orientation
 168;91;Stakeholders with difficulties in separating requirements from previously known solution designs;don't know;Customer does not know what he wants
 169;120;Stakeholders with difficulties in separating requirements from previously known solution designs;Reuse approach;Solution orientation
-170;167;Stakeholders with difficulties in separating requirements from previously known solution designs;Competence;NEEDS CODING
+170;167;Stakeholders with difficulties in separating requirements from previously known solution designs;Competence;Lack of experience of RE team members
 171;217;Stakeholders with difficulties in separating requirements from previously known solution designs;poor communication;Communication flaws between team and customer
 172;729;Stakeholders with difficulties in separating requirements from previously known solution designs;The client went to work with spreadsheets to start working with a system, leading to some users (did not occur in all cases), to try to reproduce the forms instead of looking for the best solution;Solution orientation
-173;849;Stakeholders with difficulties in separating requirements from previously known solution designs;client wants the new version has it that the first version had the new features +;NEEDS CODING
+173;849;Stakeholders with difficulties in separating requirements from previously known solution designs;client wants the new version has it that the first version had the new features +;NotCodable
 174;870;Stakeholders with difficulties in separating requirements from previously known solution designs;Lack of guidance needed;Missing IT project experience at customer side
 175;900;Stakeholders with difficulties in separating requirements from previously known solution designs;Sometimes there are inconsistencies with previous requirements, which also originate goals changes;Poor requirements elicitation techniques
 176;1065;Stakeholders with difficulties in separating requirements from previously known solution designs;Stakeholders missed to make requirements;Missing customer involvement
@@ -180,7 +180,7 @@
 178;1082;Stakeholders with difficulties in separating requirements from previously known solution designs;Look for previous solutions that did not meet the needs to point to resources  to the new(solutions);Solution orientation
 179;1124;Stakeholders with difficulties in separating requirements from previously known solution designs;Current culture deeply rooted and arrogante.;Process doesn't allow for innovation
 180;1347;Stakeholders with difficulties in separating requirements from previously known solution designs;Product with many years of existence and people with many years of service;Process doesn't allow for innovation
-181;1384;Stakeholders with difficulties in separating requirements from previously known solution designs;Different problems must focus on different aspects. A query from the web should focus on performance, and other less crowded on disk space. Not to differentiate these solutions leads to want simple solutions that lower perfoman;NEEDS CODING
+181;1384;Stakeholders with difficulties in separating requirements from previously known solution designs;Different problems must focus on different aspects. A query from the web should focus on performance, and other less crowded on disk space. Not to differentiate these solutions leads to want simple solutions that lower perfoman;Missing solution approach
 182;1424;Stakeholders with difficulties in separating requirements from previously known solution designs;Portabiity of security;Solution orientation
 183;1894;Stakeholders with difficulties in separating requirements from previously known solution designs;conflicting interests between stakeholders, which is normal in large organizations and needs to be managed;Conflicting stakeholder viewpoints
 184;1918;Stakeholders with difficulties in separating requirements from previously known solution designs;Stakeholder focus on their specific problems.;Missing of a global view of the system
@@ -204,7 +204,7 @@
 202;479;Terminological problems;"No glossary; The glossary is there but no one reads it; Glossary is to big";Lack of interest about customers domain
 203;786;Terminological problems;Makes the UI difficult to use.;Missing domain knowledge
 204;819;Terminological problems;The client itself does not understand;Stakeholders lack business vision and understanding
-205;956;Terminological problems;NP;NEEDS CODING
+205;956;Terminological problems;NP;NotCodable
 206;1021;Terminological problems;no expertise with customer business ;Missing domain knowledge
 207;1069;Terminological problems;cultural background ;Missing domain knowledge
 208;1076;Terminological problems;Lack of knowledge of project control methods;Missing domain knowledge
@@ -294,7 +294,7 @@
 292;291;Weak access to customer needs and / or (internal) business information;No always allowed to speak directly to the customer;Communication flaws between team and customer
 293;304;Weak access to customer needs and / or (internal) business information;"strong division structure;  silo thinking ";Insufficient agility
 294;437;Weak access to customer needs and / or (internal) business information;"lack of customer involvement; lack of planning";Missing customer involvement
-295;723;Weak access to customer needs and / or (internal) business information;No idea;NEEDS CODING
+295;723;Weak access to customer needs and / or (internal) business information;No idea;NotCodable
 296;768;Weak access to customer needs and / or (internal) business information;company privacy policy takes longer to get information;Unavailability of stakeholder
 297;1006;Weak access to customer needs and / or (internal) business information;Delay in required feedback;Workload of customer
 298;1187;Weak access to customer needs and / or (internal) business information;There are too many heterogeneous clients;Many customers
@@ -304,9 +304,9 @@
 302;1669;Weak access to customer needs and / or (internal) business information;Lack of collaboration on the part of the client;Missing customer involvement
 303;1698;Weak access to customer needs and / or (internal) business information;Weak access to customer needs;Insufficient information
 304;1718;Weak access to customer needs and / or (internal) business information;Poor access to the customer ;Missing customer involvement
-305;1791;Weak access to customer needs and / or (internal) business information;df;NEEDS CODING
+305;1791;Weak access to customer needs and / or (internal) business information;df;NotCodable
 306;1828;Weak access to customer needs and / or (internal) business information;Communication flaws between the project and the customer;Communication flaws between team and customer
-307;146;Weak knowledge about customer's application domain;think they can make do without the user. WRONG!;Poor project management
+307;146;Weak knowledge about customer's application domain;think they can make do without the user. WRONG!;Missing customer involvement
 308;359;Weak knowledge about customer's application domain;Because domain knowledge is insufficient, misunderstand specification.;Missing domain knowledge
 309;523;Weak knowledge about customer's application domain;There is no meeting to give an overview the business area;Communication flaws between team and customer
 310;573;Weak knowledge about customer's application domain;Makes it difficult to fully understand customers' requirements;Missing domain knowledge

@@ -132,10 +132,10 @@
 130;1091;Inconsistent requirements;Problems in requirements gathering;Poor requirements elicitation techniques
 131;1194;Inconsistent requirements;It is very difficult to determine the impact of a change or improvement made on one or more elements of complex systems a priori.;Lack of requirements management
 132;1349;Inconsistent requirements;Conflicting requirements between who have been in charge of the process;Conflict of interests at management level
-133;1458;Inconsistent requirements;The requirements are raised from a non-technical point of view and many of them can not be achieved;NEEDS CODING
+133;1458;Inconsistent requirements;The requirements are raised from a non-technical point of view and many of them can not be achieved;Unfeasible requirements
 134;1668;Inconsistent requirements;Difficult to verbalize;Poor requirements elicitation techniques
 135;1670;Inconsistent requirements;Difficult to express;Poor requirements elicitation techniques
-136;1755;Inconsistent requirements;Same as above;NEEDS CODING
+136;1755;Inconsistent requirements;Same as above;NotCodable
 137;106;Insufficient support by customer;Business operations;Missing access to business needs
 138;512;Insufficient support by customer;not educated enough into the process and therefore does not understand the importance of commitment;Lack of teamwork skills
 139;684;Insufficient support by customer;The work dosent move forward;Missing customer involvement
@@ -150,7 +150,7 @@
 148;1460;Insufficient support by customer;Lack of experience in web applications;Missing IT project experience at customer side
 149;160;Insufficient support by project lead;they don't see the effort;Missing customer involvement
 150;163;Insufficient support by project lead;"Project lead is absent at best; only communicates once per week if that";Missing IT project experience at customer side
-151;203;Insufficient support by project lead;Answer same with the above;NEEDS CODING
+151;203;Insufficient support by project lead;Answer same with the above;NotCodable
 152;210;Insufficient support by project lead;He / She lacks time to complete many tasks;Lack of time
 153;661;Insufficient support by project lead;inadequate coordinator;Lack of leadership
 154;825;Insufficient support by project lead;"Project leads changed throughout the project; Lead distracted by other work; Lack of understanding of the work done by BAs and why important";Lack of leadership
@@ -283,11 +283,11 @@
 281;1064;Unclear / unmeasurable non-functional requirements;Lack of requirement engineering competence:Lack of project management competence;Lack of experience of RE team members
 282;1167;Unclear / unmeasurable non-functional requirements;Requirements without control of changes are accepted;Lack of change management at customer side
 283;1359;Unclear / unmeasurable non-functional requirements;The requirements are continuously changed by the client;Lack of change management at customer side
-284;1744;Unclear / unmeasurable non-functional requirements;Same;NEEDS CODING
+284;1744;Unclear / unmeasurable non-functional requirements;Same;NotCodable
 285;1812;Unclear / unmeasurable non-functional requirements;not specified well;Missing requirements specification template
 286;1932;Unclear / unmeasurable non-functional requirements;"knowledge and experience gaps about writing requirements; non-recognition of the importance of the requirements";Missing customer involvement
 287;1941;Unclear / unmeasurable non-functional requirements;Lack of time;Lack of time
-288;1963;Unclear / unmeasurable non-functional requirements;x;NEEDS CODING
+288;1963;Unclear / unmeasurable non-functional requirements;x;NotCodable
 289;48;Underspecified requirements that are too abstract and allow for various interpretations;Causes assumptions of what should be implemented because too vague;Lack of experience of RE team members
 290;168;Underspecified requirements that are too abstract and allow for various interpretations;People in this project have research backgrounds with little practical experience.;Lack of experience of RE team members
 291;267;Underspecified requirements that are too abstract and allow for various interpretations;Not enough communication ;Not following the communication plan
@@ -342,4 +342,4 @@
 340;420;Weak relationship between customer and project lead;there is very myuch focus on rules and regulations (laws) which are complicated;Non-functional requirements unclear
 341;1416;Weak relationship between customer and project lead;Lack of understanding;Lack of communication channels
 342;1695;Weak relationship between customer and project lead;Lack of direct availability or time.;Lack of communication channels
-343;1791;Weak relationship between customer and project lead;as;NEEDS CODING
+343;1791;Weak relationship between customer and project lead;as;NotCodable
