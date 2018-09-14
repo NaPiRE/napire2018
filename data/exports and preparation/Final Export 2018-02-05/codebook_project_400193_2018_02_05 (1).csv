@@ -1,0 +1,3227 @@
+NaPiRE 2017/18
+
+Project ID	400193
+Survey URL	https://ww2.unipark.de/uc/re-survey/
+Date	2018-02-05 08:06:09
+
+List: [1] "NFRClasses", dynamic
+
+Used in questions:
+- How do you document each type of non-functional requirements selected in the previous question?
+
+List element no.;Meta information;Assign to list, if;Wildcards
+1;Source variable (of the selected source project): v_97 (Compatibility (e.g., co-existence, interoperability));if selected always list element;[1] Compatibility (e.g., co-existence, interoperability)
+2;Source variable (of the selected source project): v_98 (Maintainability (e.g., analysability, modularity, modifiability, reusability, testability));if selected always list element;[1] Maintainability (e.g., analysability, modularity, modifiability, reusability, testability)
+3;Source variable (of the selected source project): v_99 (Performance efficiency (e.g., time behaviour, resource utilisation, capacity));if selected always list element;[1] Performance efficiency (e.g., time behaviour, resource utilisation, capacity)
+4;Source variable (of the selected source project): v_100 (Portability (e.g., adaptability, install ability, replaceability));if selected always list element;[1] Portability (e.g., adaptability, install ability, replaceability)
+5;Source variable (of the selected source project): v_101 (Reliability (e.g., availability, fault tolerance, maturity, recoverability));if selected always list element;[1] Reliability (e.g., availability, fault tolerance, maturity, recoverability)
+6;Source variable (of the selected source project): v_102 (Safety (e.g. freedom of risk for health or distaster) );if selected always list element;[1] Safety (e.g. freedom of risk for health or distaster) 
+7;Source variable (of the selected source project): v_303 (Security (e.g., accountability, authenticity, confidentiality, integrity, non-repudiation));if selected always list element;[1] Security (e.g., accountability, authenticity, confidentiality, integrity, non-repudiation)
+8;Source variable (of the selected source project): v_103 (Usability (e.g., accessibility, appropriateness recognizability, learnability, operability, user error protection, user interface aesthetics));if selected always list element;[1] Usability (e.g., accessibility, appropriateness recognizability, learnability, operability, user error protection, user interface aesthetics)
+9;Source variable (of the selected source project): v_104 (Other (please specify));if selected always list element;[1] #v_105#
+
+
+List: [2] "ProblemSelectionStatic", dynamic
+
+List element no.;Meta information;Assign to list, if;Wildcards
+1;Source variable (of the selected source project): v_174 (Communication flaws within the project team);if selected always list element;[1] Communication flaws within the project team
+2;Source variable (of the selected source project): v_175 (Communication flaws between the project and the customer );if selected always list element;[1] Communication flaws between the project and the customer 
+3;Source variable (of the selected source project): v_176 (Terminological problems);if selected always list element;[1] Terminological problems
+4;Source variable (of the selected source project): v_177 (Incomplete or hidden requirements);if selected always list element;[1] Incomplete or hidden requirements
+5;Source variable (of the selected source project): v_178 (Insufficient support by project lead);if selected always list element;[1] Insufficient support by project lead
+6;Source variable (of the selected source project): v_179 (Insufficient support by customer);if selected always list element;[1] Insufficient support by customer
+7;Source variable (of the selected source project): v_180 (Stakeholders with difficulties in separating requirements from previously known solution designs);if selected always list element;[1] Stakeholders with difficulties in separating requirements from previously known solution designs
+8;Source variable (of the selected source project): v_181 (Inconsistent requirements);if selected always list element;[1] Inconsistent requirements
+9;Source variable (of the selected source project): v_182 (Missing traceability);if selected always list element;[1] Missing traceability
+10;Source variable (of the selected source project): v_183 (Moving targets (changing goals, business processes and / or requirements));if selected always list element;[1] Moving targets (changing goals, business processes and / or requirements)
+11;Source variable (of the selected source project): v_184 (Gold plating (implementation of features without corresponding requirements));if selected always list element;[1] Gold plating (implementation of features without corresponding requirements)
+12;Source variable (of the selected source project): v_185 (Weak access to customer needs and / or (internal) business information);if selected always list element;[1] Weak access to customer needs and / or (internal) business information
+13;Source variable (of the selected source project): v_186 (Weak knowledge about customer's application domain);if selected always list element;[1] Weak knowledge about customer's application domain
+14;Source variable (of the selected source project): v_187 (Weak relationship between customer and project lead);if selected always list element;[1] Weak relationship between customer and project lead
+15;Source variable (of the selected source project): v_188 (Time boxing / Not enough time in general);if selected always list element;[1] Time boxing / Not enough time in general
+16;Source variable (of the selected source project): v_189 (Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements);if selected always list element;[1] Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements
+17;Source variable (of the selected source project): v_190 (Technically unfeasible requirements);if selected always list element;[1] Technically unfeasible requirements
+18;Source variable (of the selected source project): v_191 (Underspecified requirements that are too abstract and allow for various interpretations);if selected always list element;[1] Underspecified requirements that are too abstract and allow for various interpretations
+19;Source variable (of the selected source project): v_192 (Unclear / unmeasurable non-functional requirements);if selected always list element;[1] Unclear / unmeasurable non-functional requirements
+20;Source variable (of the selected source project): v_193 (Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements);if selected always list element;[1] Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements
+21;Source variable (of the selected source project): v_246 (Top 1 problem (most critical one)); (1=1);[1] Top 1 problem (most critical one)
+22;Source variable (of the selected source project): v_248 (Top 2 problem); (1=1);[1] Top 2 problem
+23;Source variable (of the selected source project): v_250 (Top 3 problem); (1=1);[1] Top 3 problem
+24;Source variable (of the selected source project): v_252 (Top 4 problem); (1=1);[1] Top 4 problem
+25;Source variable (of the selected source project): v_254 (Top 5 problem); (1=1);[1] Top 5 problem
+
+
+1 Page: System (PGID 2401445)
+
+
+3 Page: Language Selection (PGID 2420013)
+
+Please select the language (q_4423504 - Type 111)
+v_300	v_300	int	Language Selection
+		1	English
+		2	Español
+		3	Português
+
+
+
+4 Page: Instructions (PGID 2401449)
+
+
+5 Page: Metadata (PGID 2401450)
+
+In which country are you personally located? (q_4381600 - Type 131)
+v_23	v_23	int	Country Selection
+		6	Afghanistan
+		7	Albania
+		8	Algeria
+		9	American Samoa
+		10	Andorra
+		11	Angola
+		12	Anguilla
+		13	Antigua & Barbuda
+		14	Argentina
+		15	Armenia
+		16	Aruba
+		17	Australia
+		18	Austria
+		19	Azerbaijan
+		20	Bahamas, The
+		21	Bahrain
+		22	Bangladesh
+		23	Barbados
+		24	Belarus
+		25	Belgium
+		26	Belize
+		27	Benin
+		28	Bermuda
+		29	Bhutan
+		30	Bolivia
+		31	Bosnia & Herzegovina
+		32	Botswana
+		33	Brazil
+		34	British Virgin Is.
+		35	Brunei
+		36	Bulgaria
+		37	Burkina Faso
+		38	Burma
+		39	Burundi
+		40	Cambodia
+		41	Cameroon
+		42	Canada
+		43	Cape Verde
+		44	Cayman Islands
+		45	Central African Rep.
+		46	Chad
+		47	Chile
+		48	China
+		49	Colombia
+		50	Comoros
+		51	Congo, Dem. Rep.
+		52	Congo, Repub. of the
+		53	Cook Islands
+		54	Costa Rica
+		55	Cote d'Ivoire
+		56	Croatia
+		57	Cuba
+		58	Cyprus
+		59	Czech Republic
+		60	Denmark
+		61	Djibouti
+		62	Dominica
+		63	Dominican Republic
+		64	East Timor
+		65	Ecuador
+		66	Egypt
+		67	El Salvador
+		68	Equatorial Guinea
+		69	Eritrea
+		70	Estonia
+		71	Ethiopia
+		72	Faroe Islands
+		73	Fiji
+		74	Finland
+		75	France
+		76	French Guiana
+		77	French Polynesia
+		78	Gabon
+		79	Gambia, The
+		80	Gaza Strip
+		81	Georgia
+		82	Germany
+		83	Ghana
+		84	Gibraltar
+		85	Greece
+		86	Greenland
+		87	Grenada
+		88	Guadeloupe
+		89	Guam
+		90	Guatemala
+		91	Guernsey
+		92	Guinea
+		93	Guinea-Bissau
+		94	Guyana
+		95	Haiti
+		96	Honduras
+		97	Hong Kong
+		98	Hungary
+		99	Iceland
+		100	India
+		101	Indonesia
+		102	Iran
+		103	Iraq
+		104	Ireland
+		105	Isle of Man
+		106	Israel
+		107	Italy
+		108	Jamaica
+		109	Japan
+		110	Jersey
+		111	Jordan
+		112	Kazakhstan
+		113	Kenya
+		114	Kiribati
+		115	Korea, North
+		116	Korea, South
+		117	Kuwait
+		118	Kyrgyzstan
+		119	Laos
+		120	Latvia
+		121	Lebanon
+		122	Lesotho
+		123	Liberia
+		124	Libya
+		125	Liechtenstein
+		126	Lithuania
+		127	Luxembourg
+		128	Macau
+		129	Macedonia
+		130	Madagascar
+		131	Malawi
+		132	Malaysia
+		133	Maldives
+		134	Mali
+		135	Malta
+		136	Marshall Islands
+		137	Martinique
+		138	Mauritania
+		139	Mauritius
+		140	Mayotte
+		141	Mexico
+		142	Micronesia, Fed. St.
+		143	Moldova
+		144	Monaco
+		145	Mongolia
+		146	Montserrat
+		147	Morocco
+		148	Mozambique
+		149	Namibia
+		150	Nauru
+		151	Nepal
+		152	Netherlands
+		153	Netherlands Antilles
+		154	New Caledonia
+		155	New Zealand
+		156	Nicaragua
+		157	Niger
+		158	Nigeria
+		159	N. Mariana Islands
+		160	Norway
+		161	Oman
+		162	Pakistan
+		163	Palau
+		164	Panama
+		165	Papua New Guinea
+		166	Paraguay
+		167	Peru
+		168	Philippines
+		169	Poland
+		170	Portugal
+		171	Puerto Rico
+		172	Qatar
+		173	Reunion
+		174	Romania
+		175	Russia
+		176	Rwanda
+		177	Saint Helena
+		178	Saint Kitts & Nevis
+		179	Saint Lucia
+		180	St Pierre & Miquelon
+		181	Saint Vincent and the Grenadines
+		182	Samoa
+		183	San Marino
+		184	Sao Tome & Principe
+		185	Saudi Arabia
+		186	Senegal
+		187	Serbia
+		188	Seychelles
+		189	Sierra Leone
+		190	Singapore
+		191	Slovakia
+		192	Slovenia
+		193	Solomon Islands
+		194	Somalia
+		195	South Africa
+		196	Spain
+		197	Sri Lanka
+		198	Sudan
+		199	Suriname
+		200	Swaziland
+		201	Sweden
+		202	Switzerland
+		203	Syria
+		204	Taiwan
+		205	Tajikistan
+		206	Tanzania
+		207	Thailand
+		208	Togo
+		209	Tonga
+		210	Trinidad & Tobago
+		211	Tunisia
+		212	Turkey
+		213	Turkmenistan
+		214	Turks & Caicos Is
+		215	Tuvalu
+		216	Uganda
+		217	Ukraine
+		218	United Arab Emirates
+		219	United Kingdom
+		220	United States
+		221	Uruguay
+		222	Uzbekistan
+		223	Vanuatu
+		224	Venezuela
+		225	Vietnam
+		226	Virgin Islands
+		227	Wallis and Futuna
+		228	West Bank
+		229	Western Sahara
+		230	Yemen
+		231	Zambia
+		232	Zimbabwe
+		233	- Please select a country -
+
+
+How many people are involved in your project? (q_4381425 - Type 141)
+v_3	v_3	varchar	Team Size
+
+
+Please select the main industrial sector of your project and the application domain of the software you build. (q_4381417 - Type 111)
+v_1	v_1	int	Sector
+		1	Agriculture
+		2	Automotive
+		3	Finance
+		4	Healthcare
+		5	Security
+		6	Manufacturing
+		7	Energy
+		8	Logistics
+		9	Railway
+		10	Avionics
+		12	Insurance
+		13	Education
+		14	Public sector
+		15	Enterprise resource planning
+		16	Human resources
+		17	e-Government
+		18	Telecommunication
+		19	Games engineering
+		20	Public transportation
+		21	e-Commerce
+		22	Other (please specify)
+v_2	v_2	varchar	Other (please specify)
+
+
+Please select the class of systems or services you work on in the context of your project. (q_4381429 - Type 111)
+v_4	v_4	int	System Class
+		1	Software-intensive embedded systems
+		2	Business information systems
+		3	Hybrid of both software-intensive embedded systems and business information systems
+		6	Other (please specify)
+v_5	v_5	varchar	Other (please specify)
+
+
+Are there quality attributes which are of particularly high importance for your development project? If yes, which one(s)? (q_4381437 - Type 121)
+v_6	v_6	int	Compatibility (e.g., co-existence, interoperability)
+		0	not quoted
+		1	quoted
+v_7	v_7	int	Maintainability (e.g., analysability, modularity, modifiability, reusability, testability)
+		0	not quoted
+		1	quoted
+v_8	v_8	int	Performance efficiency (e.g., time behaviour, resource utilisation, capacity)
+		0	not quoted
+		1	quoted
+v_9	v_9	int	Portability (e.g., adaptability, installability, replaceability)
+		0	not quoted
+		1	quoted
+v_10	v_10	int	Reliability (e.g., availability, faulty tolerance, maturity, recoverability)
+		0	not quoted
+		1	quoted
+v_11	v_11	int	Security (e.g., accountability, authenticity, confidentiality, integrity, non-repudiation)
+		0	not quoted
+		1	quoted
+v_12	v_12	int	Safety (e.g., freedom of risk for health or disaster)
+		0	not quoted
+		1	quoted
+v_13	v_13	int	Usability (e.g., accessibility, appropriateness recognisability, learnability, operability, user error protection, user interface aesthetics)
+		0	not quoted
+		1	quoted
+v_14	v_14	int	Other
+		0	not quoted
+		1	quoted
+v_15	v_15	varchar	Other
+
+
+Is your project distributed? (q_4381446 - Type 111)
+v_16	v_16	int	Team Distribution
+		1	Yes
+		2	No
+		3	I don't know
+
+
+What is the main role you occupy in your project? (q_4381479 - Type 111)
+v_17	v_17	int	Main Role Respondent
+		1	Business Analyst
+		2	Customer
+		3	Developer
+		4	Project Lead / Project Manager
+		5	Product Owner
+		6	Product Manager
+		7	Scrum Master
+		8	Architect
+		9	Test Manager / Tester
+		10	Marketing
+		11	Requirements Engineer
+		12	Other (please specify)
+v_18	v_18	varchar	Other (please specify)
+
+
+How many years of industrial experience do you have in your role? (q_4381538 - Type 141)
+v_19	v_19	varchar	Experience Respondent
+
+
+Do you have a certification in this role? If yes, which one? (q_4381564 - Type 141)
+v_20	v_20	varchar	Certification Role Respondent
+
+
+Which organisational role does your project team have in your project? (q_4381566 - Type 111)
+v_21	v_21	int	Organisational Role Team
+		1	Customer
+		2	Main contractor (main responsible for the development project)
+		3	Sub-contractor (responsible for part of a larger development project)
+		4	In-house development
+		6	Other (please specify)
+v_22	v_22	varchar	Other (please specify)
+
+
+How would you personally characterise your way of working in your project? (q_4382041 - Type 111)
+v_24	v_24	int	Characterisation Way of Working
+		1	Agile
+		2	Rather agile
+		3	Hybrid
+		4	Rather plan-driven
+		5	Plan-driven
+
+
+In general, how would you rate the relationship between your project team and your customer? (q_4382042 - Type 111)
+v_25	v_25	int	Characterisation Relationship Customer
+		1	Very good
+		2	Good
+		3	neutral
+		4	Bad
+		5	Very bad
+
+
+
+6 Page: Filter Customer Relationship (PGID 2403398)
+
+Filter
+  not	 v_25 Characterisation Relationship Customer	 In general, how would you rate the relationship between your project team and your customer? - Characterisation Relationship Customer 	greater	1
+or not	 v_25 Characterisation Relationship Customer	 In general, how would you rate the relationship between your project team and your customer? - Characterisation Relationship Customer 	less	5
+
+
+6.1 Page: Relationship Customer (PGID 2401918)
+
+Question will not be seen if :
+ 	 v_25 Characterisation Relationship Customer	 In general, how would you rate the relationship between your project team and your customer? - Characterisation Relationship Customer 	less	5
+
+
+In your opinion, what is the reason for the particularly bad relationship? (q_4382069 - Type 142)
+v_26	v_26	blob	Reason Bad Relationship
+
+
+Question will not be seen if :
+ 	 v_25 Characterisation Relationship Customer	 In general, how would you rate the relationship between your project team and your customer? - Characterisation Relationship Customer 	greater	1
+
+
+In your opinion, what is the reason for the particularly good relationship? (q_4382070 - Type 142)
+v_27	v_27	blob	Reason Good Relationship
+
+
+
+7 Page: Requirements Elicitation (PGID 2401451)
+
+How are the requirements elicited in your project? (q_4382093 - Type 121)
+v_28	v_28	int	We elicit and / or refine requirements in several iterations
+		0	not quoted
+		1	quoted
+v_29	v_29	int	We elicit and / or refine requirements in a specifically dedicated project phase
+		0	not quoted
+		1	quoted
+v_34	v_34	int	Other (please specify)
+		0	not quoted
+		1	quoted
+v_35	v_35	varchar	Other (please specify)
+
+
+Which techniques do you use for your requirements elicitations? (q_4382121 - Type 121)
+v_36	v_36	int	Interviews
+		0	not quoted
+		1	quoted
+v_37	v_37	int	Analysis of existing documents
+		0	not quoted
+		1	quoted
+v_38	v_38	int	Risk analyses
+		0	not quoted
+		1	quoted
+v_39	v_39	int	Prototyping
+		0	not quoted
+		1	quoted
+v_40	v_40	int	Workshops and focus groups
+		0	not quoted
+		1	quoted
+v_41	v_41	int	(Requirements) Reuse databases and guidelines
+		0	not quoted
+		1	quoted
+v_42	v_42	int	Design Thinking / Lean Startup
+		0	not quoted
+		1	quoted
+v_43	v_43	int	External experts
+		0	not quoted
+		1	quoted
+v_44	v_44	int	Observations
+		0	not quoted
+		1	quoted
+v_47	v_47	int	We do not elicit requirements (ourselves)
+		0	not quoted
+		1	quoted
+v_45	v_45	int	Other
+		0	not quoted
+		1	quoted
+v_46	v_46	varchar	Other
+
+
+Who has the primary responsibility for eliciting requirements? (q_4382226 - Type 111)
+v_51	v_51	int	Primary Responsibility Requirements Elicitation
+		1	Marketing
+		2	Business Analyst
+		3	Requirements Engineer
+		4	Project Lead / Project Manager
+		5	Scrum Master
+		6	Product Owner
+		7	Product Manager
+		8	Architect
+		9	Developer
+		10	Customer
+		12	Other
+		13	Nobody has the primary responsibility
+v_52	v_52	varchar	Other
+
+
+
+8 Page: Documentation Entry (PGID 2403254)
+
+At what level of granularity do you document requirements, and when? (q_4384356 - Type 111)
+v_59	v_59	int	Documentation Granularity
+		1	We document detailed requirements at the beginning of the project.
+		2	We document high-level requirements at beginning of the project and refine them to detailed requirements when needed (for instance, we document epics and refine them to user stories for the sprints).
+		3	We do not document requirements.
+		4	Other (please specify)
+v_60	v_60	varchar	Other (please specify)
+
+
+
+9 Page: Filter Documentation (PGID 2403672)
+
+Filter
+ 	 v_59 Documentation Granularity	 At what level of granularity do you document requirements, and when? - Documentation Granularity 	unequal	3
+
+
+9.1 Page: Requirements Documentation (PGID 2401452)
+
+How do you make use of the documented requirements? (q_4384361 - Type 121)
+v_61	v_61	int	They are the basis for the implementation.
+		0	not quoted
+		1	quoted
+v_62	v_62	int	They are source for tests.
+		0	not quoted
+		1	quoted
+v_63	v_63	int	They are used in customer acceptance.
+		0	not quoted
+		1	quoted
+v_64	v_64	int	They are part of the contract.
+		0	not quoted
+		1	quoted
+v_65	v_65	int	They are a reminder for further discussions with the customer, product owner, and / or other team members
+		0	not quoted
+		1	quoted
+v_66	v_66	int	Other (please specify)
+		0	not quoted
+		1	quoted
+v_67	v_67	varchar	Other (please specify)
+
+
+For which information do you make an explicit distinction when documenting your requirements? (q_4384445 - Type 121)
+v_76	v_76	int	Architectural constraints
+		0	not quoted
+		1	quoted
+v_73	v_73	int	Development process aspects
+		0	not quoted
+		1	quoted
+v_79	v_79	int	Formal properties
+		0	not quoted
+		1	quoted
+v_68	v_68	int	Functional properties of the system
+		0	not quoted
+		1	quoted
+v_70	v_70	int	Goals
+		0	not quoted
+		1	quoted
+v_71	v_71	int	Quality properties
+		0	not quoted
+		1	quoted
+v_74	v_74	int	Rules (e.g., business rules)
+		0	not quoted
+		1	quoted
+v_78	v_78	int	Stakeholders
+		0	not quoted
+		1	quoted
+v_77	v_77	int	System behaviour
+		0	not quoted
+		1	quoted
+v_75	v_75	int	Technical interfaces
+		0	not quoted
+		1	quoted
+v_69	v_69	int	Usage scenarios
+		0	not quoted
+		1	quoted
+v_72	v_72	int	User interface(s)
+		0	not quoted
+		1	quoted
+v_80	v_80	int	Other (please specify)
+		0	not quoted
+		1	quoted
+v_81	v_81	varchar	Other (please specify)
+
+
+How do you document requirements? (q_4384461 - Type 121)
+v_87	v_87	int	Activity diagrams
+		0	not quoted
+		1	quoted
+v_92	v_92	int	Business process models
+		0	not quoted
+		1	quoted
+v_88	v_88	int	Class diagrams
+		0	not quoted
+		1	quoted
+v_91	v_91	int	Goal models
+		0	not quoted
+		1	quoted
+v_83	v_83	int	Natural language / informal (plain) text
+		0	not quoted
+		1	quoted
+v_93	v_93	int	Prototypes / User screens
+		0	not quoted
+		1	quoted
+v_89	v_89	int	Sequence diagrams
+		0	not quoted
+		1	quoted
+v_94	v_94	int	Sketches
+		0	not quoted
+		1	quoted
+v_90	v_90	int	State machines
+		0	not quoted
+		1	quoted
+v_84	v_84	int	Structured lists of requirements
+		0	not quoted
+		1	quoted
+v_86	v_86	int	Use case diagrams
+		0	not quoted
+		1	quoted
+v_82	v_82	int	Use cases
+		0	not quoted
+		1	quoted
+v_85	v_85	int	User stories
+		0	not quoted
+		1	quoted
+v_95	v_95	int	Other (please specify)
+		0	not quoted
+		1	quoted
+v_96	v_96	varchar	Other (please specify)
+
+
+Which classes of non-functional requirements do you explicitly consider in your requirements documentation? (q_4384473 - Type 121)
+v_97	v_97	int	Compatibility (e.g., co-existence, interoperability)
+		0	not quoted
+		1	quoted
+v_98	v_98	int	Maintainability (e.g., analysability, modularity, modifiability, reusability, testability)
+		0	not quoted
+		1	quoted
+v_99	v_99	int	Performance efficiency (e.g., time behaviour, resource utilisation, capacity)
+		0	not quoted
+		1	quoted
+v_100	v_100	int	Portability (e.g., adaptability, install ability, replaceability)
+		0	not quoted
+		1	quoted
+v_101	v_101	int	Reliability (e.g., availability, fault tolerance, maturity, recoverability)
+		0	not quoted
+		1	quoted
+v_102	v_102	int	Safety (e.g. freedom of risk for health or distaster)
+		0	not quoted
+		1	quoted
+v_303	v_303	int	Security (e.g., accountability, authenticity, confidentiality, integrity, non-repudiation)
+		0	not quoted
+		1	quoted
+v_103	v_103	int	Usability (e.g., accessibility, appropriateness recognizability, learnability, operability, user error protection, user interface aesthetics)
+		0	not quoted
+		1	quoted
+v_104	v_104	int	Other (please specify)
+		0	not quoted
+		1	quoted
+v_105	v_105	varchar	Other (please specify)
+
+
+
+10 Page: Filter NFR (PGID 2403647)
+
+Filter
+ 	 v_97 Compatibility (e.g., co-existence, interoperability)	 Which classes of non-functional requirements do you explicitly consider in your requirements documentation? - Compatibility (e.g., co-existence, interoperability) 	equal	1
+or	 v_98 Maintainability (e.g., analysability, modularity, modifiability, reusability, testability)	 Which classes of non-functional requirements do you explicitly consider in your requirements documentation? - Maintainability (e.g., analysability, modularity, modifiability, reusability, testability) 	equal	1
+or	 v_99 Performance efficiency (e.g., time behaviour, resource utilisation, capacity)	 Which classes of non-functional requirements do you explicitly consider in your requirements documentation? - Performance efficiency (e.g., time behaviour, resource utilisation, capacity) 	equal	1
+or	 v_100 Portability (e.g., adaptability, install ability, replaceability)	 Which classes of non-functional requirements do you explicitly consider in your requirements documentation? - Portability (e.g., adaptability, install ability, replaceability) 	equal	1
+or	 v_101 Reliability (e.g., availability, fault tolerance, maturity, recoverability)	 Which classes of non-functional requirements do you explicitly consider in your requirements documentation? - Reliability (e.g., availability, fault tolerance, maturity, recoverability) 	equal	1
+or	 v_102 Safety (e.g. freedom of risk for health or distaster)	 Which classes of non-functional requirements do you explicitly consider in your requirements documentation? - Safety (e.g. freedom of risk for health or distaster) 	equal	1
+or	 v_103 Usability (e.g., accessibility, appropriateness recognizability, learnability, operability, user error protection, user interface aesthetics)	 Which classes of non-functional requirements do you explicitly consider in your requirements documentation? - Usability (e.g., accessibility, appropriateness recognizability, learnability, operability, user error protection, user interface aesthetics) 	equal	1
+or	 v_104 Other (please specify)	 Which classes of non-functional requirements do you explicitly consider in your requirements documentation? - Other (please specify) 	equal	1
+or	 v_303 Security (e.g., accountability, authenticity, confidentiality, integrity, non-repudiation)	 Which classes of non-functional requirements do you explicitly consider in your requirements documentation? - Security (e.g., accountability, authenticity, confidentiality, integrity, non-repudiation) 	equal	1
+
+
+10.1 Page: Documentation NFR (PGID 2403284)
+
+How do you document each type of non-functional requirements selected in the previous question? (q_4384526 - Type 143)
+v_343	v_343	varchar	List element: Compatibility (e.g., co-existence, interoperability) (Source variable (of the selected source project): v_97 (Compatibility (e.g., co-existence, interoperability)))
+v_344	v_344	varchar	List element: Maintainability (e.g., analysability, modularity, modifiability, reusability, testability) (Source variable (of the selected source project): v_98 (Maintainability (e.g., analysability, modularity, modifiability, reusability, testability)))
+v_345	v_345	varchar	List element: Performance efficiency (e.g., time behaviour, resource utilisation, capacity) (Source variable (of the selected source project): v_99 (Performance efficiency (e.g., time behaviour, resource utilisation, capacity)))
+v_346	v_346	varchar	List element: Portability (e.g., adaptability, install ability, replaceability) (Source variable (of the selected source project): v_100 (Portability (e.g., adaptability, install ability, replaceability)))
+v_347	v_347	varchar	List element: Reliability (e.g., availability, fault tolerance, maturity, recoverability) (Source variable (of the selected source project): v_101 (Reliability (e.g., availability, fault tolerance, maturity, recoverability)))
+v_348	v_348	varchar	List element: Safety (e.g. freedom of risk for health or distaster)  (Source variable (of the selected source project): v_102 (Safety (e.g. freedom of risk for health or distaster) ))
+v_349	v_349	varchar	List element: Security (e.g., accountability, authenticity, confidentiality, integrity, non-repudiation) (Source variable (of the selected source project): v_303 (Security (e.g., accountability, authenticity, confidentiality, integrity, non-repudiation)))
+v_350	v_350	varchar	List element: Usability (e.g., accessibility, appropriateness recognizability, learnability, operability, user error protection, user interface aesthetics) (Source variable (of the selected source project): v_103 (Usability (e.g., accessibility, appropriateness recognizability, learnability, operability, user error protection, user interface aesthetics)))
+v_351	v_351	varchar	List element: #v_105# (Source variable (of the selected source project): v_104 (Other (please specify)))
+
+
+
+11 Page: Requirements Validation (PGID 2401453)
+
+How do you verify and / or validate your requirements? (q_4384499 - Type 121)
+v_110	v_110	int	Automatic checking
+		0	not quoted
+		1	quoted
+v_108	v_108	int	Informal peer reviews
+		0	not quoted
+		1	quoted
+v_106	v_106	int	Inspections (formal technical reviews using reading techniques or checklists)
+		0	not quoted
+		1	quoted
+v_109	v_109	int	Simulations
+		0	not quoted
+		1	quoted
+v_107	v_107	int	Walkthroughs
+		0	not quoted
+		1	quoted
+v_111	v_111	int	We do not verify and / or validate our requirements
+		0	not quoted
+		1	quoted
+v_112	v_112	int	Other (please specify)
+		0	not quoted
+		1	quoted
+v_113	v_113	varchar	Other (please specify)
+
+
+How do you align software testing with requirements? (q_4386276 - Type 121)
+v_158	v_158	int	Testers participate in requirements reviews.
+		0	not quoted
+		1	quoted
+v_159	v_159	int	We check the coverage of requirements with tests.
+		0	not quoted
+		1	quoted
+v_160	v_160	int	We define acceptance criteria and tests for requirements.
+		0	not quoted
+		1	quoted
+v_161	v_161	int	We derive tests from system models.
+		0	not quoted
+		1	quoted
+v_162	v_162	int	We do not align tests and requirements.
+		0	not quoted
+		1	quoted
+v_163	v_163	int	Other (please specify)
+		0	not quoted
+		1	quoted
+v_164	v_164	varchar	Other (please specify)
+
+
+
+12 Page: Requirements Management (PGID 2401454)
+
+How do you deal with changing requirements after the initial release of the system (or parts of it)? (q_4386278 - Type 111)
+v_165	v_165	int	Requirements Changes
+		1	We work with change requests, but do not further update our requirements specification once formally accepted.
+		2	We update our product backlog.
+		3	We work with change requests and continuously update our requirements specification accordingly also after formally accepted.
+		4	Other (please specify)
+		5	We don't update our requirements (documentation) at all.
+v_166	v_166	varchar	Other (please specify)
+
+
+
+13 Page: Satisfaction RE (PGID 2401455)
+
+Right now, how satisfied are you with how requirements engineering is done in your project? (q_4386283 - Type 111)
+v_167	v_167	int	Satisfaction RE
+		1	Very dissatisfied
+		2	Dissatisfied
+		3	Neither dissatisfied nor satisfied
+		4	Satisfied
+		5	Very satisfied
+
+
+
+14 Page: Filter Dissatisfaction (PGID 2404980)
+
+Filter
+ 	 v_167 Satisfaction RE	 Right now, how satisfied are you with how requirements engineering is done in your project? - Satisfaction RE 	equal	1
+or	 v_167 Satisfaction RE	 Right now, how satisfied are you with how requirements engineering is done in your project? - Satisfaction RE 	equal	2
+
+
+14.1 Page: RE Dissatisfaction (PGID 2404981)
+
+Why are you rather dissatisfied with how requirements engineering is done in your project? (q_4386342 - Type 142)
+v_168	v_168	blob	Reasons Dissatisfaction
+
+
+What are the consequences of the dissatisfying requirements engineering? (q_4386344 - Type 142)
+v_170	v_170	blob	Consequences Dissatisfying RE
+
+
+What should change in your requirements engineering in order to make it satisfying? (q_4386345 - Type 142)
+v_171	v_171	blob	Necessary Change in RE
+
+
+
+15 Page: Filter Satisfaction (PGID 2404982)
+
+Filter
+ 	 v_167 Satisfaction RE	 Right now, how satisfied are you with how requirements engineering is done in your project? - Satisfaction RE 	equal	4
+or	 v_167 Satisfaction RE	 Right now, how satisfied are you with how requirements engineering is done in your project? - Satisfaction RE 	equal	5
+
+
+15.1 Page: RE Satisfaction (PGID 2404996)
+
+Why are you rather satisfied with how requirements engineering is done in your project? (q_4386343 - Type 142)
+v_169	v_169	blob	Reasons Satisfaction
+
+
+What are the consequenes of the satisfying requirements engineering? (q_4386346 - Type 142)
+v_172	v_172	blob	Consequences Satisfying RE
+
+
+At some point in the past, you were likely not fully satisfied with your project's requirements engineering. If anything, what happened to make you satisfied? (q_4386347 - Type 142)
+v_173	v_173	blob	Past Changes in RE
+
+
+
+16 Page: RE Problems (PGID 2405011)
+
+Considering your personal experiences, how do the following problems in requirements engineering apply to your project? (q_4386791 - Type 341)
+v_174	v_174	int	Communication flaws within the project team
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_175	v_175	int	Communication flaws between the project and the customer
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_176	v_176	int	Terminological problems
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_177	v_177	int	Incomplete or hidden requirements
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_178	v_178	int	Insufficient support by project lead
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_179	v_179	int	Insufficient support by customer
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_180	v_180	int	Stakeholders with difficulties in separating requirements from previously known solution designs
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_181	v_181	int	Inconsistent requirements
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_182	v_182	int	Missing traceability
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_183	v_183	int	Moving targets (changing goals, business processes and / or requirements)
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_184	v_184	int	Gold plating (implementation of features without corresponding requirements)
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_185	v_185	int	Weak access to customer needs and / or (internal) business information
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_186	v_186	int	Weak knowledge about customer's application domain
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_187	v_187	int	Weak relationship between customer and project lead
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_188	v_188	int	Time boxing / Not enough time in general
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_189	v_189	int	Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_190	v_190	int	Technically unfeasible requirements
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_191	v_191	int	Underspecified requirements that are too abstract and allow for various interpretations
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_192	v_192	int	Unclear / unmeasurable non-functional requirements
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_193	v_193	int	Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+
+
+
+17 Page: Critical RE Problems (PGID 2405407)
+
+Considering your personally experienced problems stated in the previous question, which ones would you classify as the five most critical ones? (q_4388468 - Type 361)
+v_246	v_246	int	Top 1 problem (most critical one) (Problem experienced in your project:) 215651
+		0	Please make a selection
+		1	Communication flaws within the project team
+		2	Communication flaws between the project and the customer
+		3	Terminological problems
+		4	Incomplete or hidden requirements
+		5	Insufficient support by project lead
+		6	Insufficient support by customer
+		7	Stakeholders with difficulties in separating requirements from previously known solution designs
+		8	Inconsistent requirements
+		9	Missing traceability
+		10	Moving targets (changing goals, business processes and / or requirements)
+		11	Gold plating (implementation of features without corresponding requirements)
+		12	Weak access to customer needs and / or (internal) business information
+		13	Weak knowledge about customer's application domain
+		14	Weak relationship between customer and project lead
+		15	Time boxing / Not enough time in general
+		16	Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements
+		17	Technically unfeasible requirements
+		18	Underspecified requirements that are too abstract and allow for various interpretations
+		19	Unclear / unmeasurable non-functional requirements
+		20	Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements
+v_248	v_248	int	Top 2 problem (Problem experienced in your project:) 215651
+		0	Please make a selection
+		1	Communication flaws within the project team
+		2	Communication flaws between the project and the customer
+		3	Terminological problems
+		4	Incomplete or hidden requirements
+		5	Insufficient support by project lead
+		6	Insufficient support by customer
+		7	Stakeholders with difficulties in separating requirements from previously known solution designs
+		8	Inconsistent requirements
+		9	Missing traceability
+		10	Moving targets (changing goals, business processes and / or requirements)
+		11	Gold plating (implementation of features without corresponding requirements)
+		12	Weak access to customer needs and / or (internal) business information
+		13	Weak knowledge about customer's application domain
+		14	Weak relationship between customer and project lead
+		15	Time boxing / Not enough time in general
+		16	Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements
+		17	Technically unfeasible requirements
+		18	Underspecified requirements that are too abstract and allow for various interpretations
+		19	Unclear / unmeasurable non-functional requirements
+		20	Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements
+v_250	v_250	int	Top 3 problem (Problem experienced in your project:) 215651
+		0	Please make a selection
+		1	Communication flaws within the project team
+		2	Communication flaws between the project and the customer
+		3	Terminological problems
+		4	Incomplete or hidden requirements
+		5	Insufficient support by project lead
+		6	Insufficient support by customer
+		7	Stakeholders with difficulties in separating requirements from previously known solution designs
+		8	Inconsistent requirements
+		9	Missing traceability
+		10	Moving targets (changing goals, business processes and / or requirements)
+		11	Gold plating (implementation of features without corresponding requirements)
+		12	Weak access to customer needs and / or (internal) business information
+		13	Weak knowledge about customer's application domain
+		14	Weak relationship between customer and project lead
+		15	Time boxing / Not enough time in general
+		16	Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements
+		17	Technically unfeasible requirements
+		18	Underspecified requirements that are too abstract and allow for various interpretations
+		19	Unclear / unmeasurable non-functional requirements
+		20	Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements
+v_252	v_252	int	Top 4 problem (Problem experienced in your project:) 215651
+		0	Please make a selection
+		1	Communication flaws within the project team
+		2	Communication flaws between the project and the customer
+		3	Terminological problems
+		4	Incomplete or hidden requirements
+		5	Insufficient support by project lead
+		6	Insufficient support by customer
+		7	Stakeholders with difficulties in separating requirements from previously known solution designs
+		8	Inconsistent requirements
+		9	Missing traceability
+		10	Moving targets (changing goals, business processes and / or requirements)
+		11	Gold plating (implementation of features without corresponding requirements)
+		12	Weak access to customer needs and / or (internal) business information
+		13	Weak knowledge about customer's application domain
+		14	Weak relationship between customer and project lead
+		15	Time boxing / Not enough time in general
+		16	Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements
+		17	Technically unfeasible requirements
+		18	Underspecified requirements that are too abstract and allow for various interpretations
+		19	Unclear / unmeasurable non-functional requirements
+		20	Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements
+v_254	v_254	int	Top 5 problem (Problem experienced in your project:) 215651
+		0	Please make a selection
+		1	Communication flaws within the project team
+		2	Communication flaws between the project and the customer
+		3	Terminological problems
+		4	Incomplete or hidden requirements
+		5	Insufficient support by project lead
+		6	Insufficient support by customer
+		7	Stakeholders with difficulties in separating requirements from previously known solution designs
+		8	Inconsistent requirements
+		9	Missing traceability
+		10	Moving targets (changing goals, business processes and / or requirements)
+		11	Gold plating (implementation of features without corresponding requirements)
+		12	Weak access to customer needs and / or (internal) business information
+		13	Weak knowledge about customer's application domain
+		14	Weak relationship between customer and project lead
+		15	Time boxing / Not enough time in general
+		16	Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements
+		17	Technically unfeasible requirements
+		18	Underspecified requirements that are too abstract and allow for various interpretations
+		19	Unclear / unmeasurable non-functional requirements
+		20	Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements
+
+
+
+18 Page: Problems Causes Effects (PGID 2406406)
+
+Considering your personally experienced most critical problems selected in the previous question, which causes do they have? (q_4388846 - Type 143)
+v_277	v_277	varchar	#v_246#
+			^ hide if : ((v_246 = '0'))
+v_278	v_278	varchar	#v_248#
+			^ hide if : ((v_248 = '0'))
+v_279	v_279	varchar	#v_250#
+			^ hide if : ((v_250 = '0'))
+v_280	v_280	varchar	#v_252#
+			^ hide if : ((v_252 = '0'))
+v_281	v_281	varchar	#v_254#
+			^ hide if : ((v_254 = '0'))
+
+
+Considering your personally experienced most critical problems selected in the previous question, which implications do they have? (q_4388903 - Type 143)
+v_282	v_282	varchar	#v_246#
+			^ hide if : ((v_246 = '0'))
+v_283	v_283	varchar	#v_248#
+			^ hide if : ((v_248 = '0'))
+v_284	v_284	varchar	#v_250#
+			^ hide if : ((v_250 = '0'))
+v_285	v_285	varchar	#v_252#
+			^ hide if : ((v_252 = '0'))
+v_286	v_286	varchar	#v_254#
+			^ hide if : ((v_254 = '0'))
+
+
+Besides the problems listed in the previous questions, is there another prominent problem you experienced in your project? If so, which one? (q_4386921 - Type 142)
+v_194	v_194	blob	Further Problem
+
+
+
+19 Page: Conclusion (PGID 2406658)
+
+Is there any other unaddressed aspect that you experience in your RE process and that you would like to share with us? (q_4389544 - Type 142)
+v_297	v_297	blob	Further Remarks
+
+
+In case you would like to be notified about the results, please fill in your email-address. (q_4389546 - Type 141)
+v_298	v_298	varchar (with type check: E-mail address)	Email
+
+
+In principle, would you be willing to serve as an interview partner in the future for follow-up questions? (q_4389548 - Type 111)
+v_299	v_299	int	Participation Interview
+		1	Yes
+		2	No
+
+
+Survey variables
+Variable name	Code	notation
+language	-	Language
+	1	English
+	2	ES
+	3	PT
+status	-	Disposition code
+	11	Not yet invited
+	12	Invited
+	16	Reserved 1
+	17	Reserved 2
+	13	Inactive
+	14	E-mail could not be delivered
+	15	Cannot be reached
+	18	Custom unavailable 1
+	19	Custom unavailable 2
+	20	Not yet started
+	21	Currently responding
+	22	Suspended
+	23	Resumed
+	31	Completed
+	32	Completed after break
+	33	Custom completed 1
+	34	Custom completed 2
+	35	Rejected at login (quota full)
+	36	Rejected (quota full)
+	37	Screened out
+	38	Custom screen out 1
+	39	Custom screen out 2
+	40	Custom screen out 3
+	41	Quota full
+date_of_first_access	-	Date of first access
+date_of_last_access	-	Date of last access
+date_of_first_mail	-	Date of first mail
+user_agent	-	Browser identification
+http_referer	-	http_referer
+device_type	-	Desktop / mobile
+	0	desktop
+	1	mobile
+participant_browser	-	Browser name
+	-99	Unknown
+	1	Avant Browser
+	2	ABrowse
+	3	ANTGalio
+	4	Amaya
+	5	Android Browser
+	6	Arora
+	7	Amiga Voyager
+	8	Amiga Aweb
+	9	BlackBerry Browser
+	10	Baidu Browser
+	11	Baidu Spark
+	12	Beonex
+	13	Bunjalloo
+	14	BrowseX
+	15	Camino
+	16	Comodo Dragon
+	17	Charon
+	18	Chrome Frame
+	19	Chrome
+	20	Chrome Mobile iOS
+	21	Conkeror
+	22	Chrome Mobile
+	23	CoolNovo
+	24	CometBird
+	25	ChromePlus
+	26	Chromium
+	27	Cheshire
+	28	Dolphin
+	29	Dillo
+	30	Elinks
+	31	Epiphany
+	32	Espial TV Browser
+	33	Firebird
+	34	Fluid
+	35	Fennec
+	36	Firefox
+	37	Flock
+	38	Fireweb Navigator
+	39	Galeon
+	40	Google Earth
+	41	HotJava
+	42	Iceape
+	43	IBrowse
+	44	iCab
+	45	IceDragon
+	46	Iceweasel
+	47	Internet Explorer
+	48	IE Mobile
+	49	Iron
+	50	Jasmine
+	51	Kindle Browser
+	52	K-meleon
+	53	Konqueror
+	54	Kapiko
+	55	Kazehakase
+	56	Liebao
+	57	Links
+	58	Lunascape
+	59	Lynx
+	60	MicroB
+	61	NCSA Mosaic
+	62	Mercury
+	63	Mobile Safari
+	64	Midori
+	65	Mobile Silk
+	66	Maxthon
+	67	Nokia Browser
+	68	Nokia OSS Browser
+	69	Nokia Ovi Browser
+	70	NetFront
+	71	NetFront Life
+	72	NetPositive
+	73	Netscape
+	74	Obigo
+	75	Opera Mini
+	76	Opera Mobile
+	77	Opera
+	78	Opera Next
+	79	Oregano
+	80	Openwave Mobile Browser
+	81	OmniWeb
+	82	Palm Blazer
+	83	Pale Moon
+	84	Palm Pre
+	85	Puffin
+	86	Palm WebPro
+	87	Phoenix
+	88	Polaris
+	89	Rekonq
+	90	RockMelt
+	91	Sailfish Browser
+	92	SEMC-Browser
+	93	Sogou Explorer
+	94	Safari
+	95	Shiira
+	96	Sleipnir
+	97	SeaMonkey
+	98	Snowshoe
+	99	Sunrise
+	100	Swiftfox
+	101	Tizen Browser
+	102	UC Browser
+	103	WebPositive
+	104	wOSBrowser
+	105	Yandex Browser
+	106	Xiino
+	107	360 Phone Browser
+	108	360 Browser
+	109	ANT Fresco
+	110	Amigo
+	111	Atomic Web Browser
+	112	Brave
+	113	Coc Coc
+	114	Deepnet Explorer
+	115	Element Browser
+	116	Fireweb
+	117	Jig Browser
+	118	Kylo
+	119	LG Browser
+	120	LuaKit
+	121	MIUI Browser
+	122	Odyssey Web Browser
+	123	Off By One
+	124	ONE Browser
+	125	Otter Browser
+	126	Palmscape
+	127	Microsoft Edge
+	128	QQ Browser
+	129	Samsung Browser
+	130	Skyfire
+	131	Seraphic Sraf
+	132	SuperBird
+	133	TweakStyle
+	134	Vivaldi
+	135	Vision Mobile Browser
+	136	WeTab Browser
+participant_browser_version	-	Browser version
+participant_os	-	Operating system
+	-99	Unknown
+	1	AIX
+	2	Android
+	3	AmigaOS
+	4	Apple TV
+	5	Arch Linux
+	6	BackTrack
+	7	Bada
+	8	BeOS
+	9	BlackBerry OS
+	10	BlackBerry Tablet OS
+	11	Brew
+	12	CentOS
+	13	Chrome OS
+	14	Debian
+	15	DragonFly
+	16	Fedora
+	17	Firefox OS
+	18	FreeBSD
+	19	Gentoo
+	20	Google TV
+	21	HP-UX
+	22	Haiku OS
+	23	IRIX
+	24	Inferno
+	25	Knoppix
+	26	Kubuntu
+	27	GNU/Linux
+	28	Lubuntu
+	29	VectorLinux
+	30	Mac
+	31	Mandriva
+	32	MeeGo
+	33	Mint
+	34	NetBSD
+	35	Nintendo
+	36	Nintendo Mobile
+	37	OS/2
+	38	OSF1
+	39	OpenBSD
+	40	PlayStation Portable
+	41	PlayStation
+	42	Red Hat
+	43	RISC OS
+	44	Sabayon
+	45	SUSE
+	46	Sailfish OS
+	47	Slackware
+	48	Solaris
+	49	Syllable
+	50	Symbian
+	51	Symbian OS
+	52	Symbian OS Series 40
+	53	Symbian OS Series 60
+	54	Symbian^3
+	55	Tizen
+	56	Ubuntu
+	57	WebTV
+	58	Windows
+	59	Windows 10
+	60	Windows 2000
+	61	Windows 3.1
+	62	Windows 7
+	63	Windows 8
+	64	Windows 8.1
+	65	Windows 95
+	66	Windows 98
+	67	Windows CE
+	68	Windows ME
+	69	Windows Mobile
+	70	Windows NT
+	71	Windows Phone
+	72	Windows RT
+	73	Windows RT 8.1
+	74	Windows Server 2003
+	75	Windows Vista
+	76	Windows XP
+	77	Xbox
+	78	Xubuntu
+	79	YunOs
+	80	iOS
+	81	palmOS
+	82	webOS
+	83	CyanogenMod
+	84	Maemo
+	85	MocorDroid
+	86	MildWild
+	87	MorphOS
+	88	MTK / Nucleus
+	89	Remix OS
+	90	RazoDroiD
+	91	ThreadX
+participant_device	-	Device type
+	-99	Unknown
+	0	desktop
+	1	smartphone
+	2	tablet
+	3	feature phone
+	4	console
+	5	tv
+	6	car browser
+	7	smart display
+	8	camera
+	9	portable media player
+	10	phablet
+participant_brand	-	Device brand
+	-99	Unknown
+	1	Acer
+	2	Airness
+	3	Alcatel
+	4	Arnova
+	5	Amoi
+	6	Apple
+	7	Archos
+	8	Asus
+	9	Avvio
+	10	Audiovox
+	11	BBK
+	12	Becker
+	13	Bird
+	14	Beetel
+	15	Bmobile
+	16	Barnes & Noble
+	17	BangOlufsen
+	18	BenQ
+	19	BenQ-Siemens
+	20	Blu
+	21	bq
+	22	Cat
+	23	Celkon
+	24	ConCorde
+	25	Cherry Mobile
+	26	Cricket
+	27	Compal
+	28	CnM
+	29	Crius Mea
+	30	CreNova
+	31	Capitel
+	32	Compaq
+	33	Coolpad
+	34	Cube
+	35	Coby Kyros
+	36	Danew
+	37	Denver
+	38	Dbtel
+	39	DoCoMo
+	40	Dicam
+	41	Dell
+	42	DMM
+	43	Doogee
+	44	Dopod
+	45	E-Boda
+	46	Ericsson
+	47	Ezio
+	48	Easypix
+	49	Ericy
+	50	eTouch
+	51	Evertek
+	52	Ezze
+	53	Fly
+	54	Fujitsu
+	55	Gateway
+	56	Gemini
+	57	Gionee
+	58	Gigabyte
+	59	Gigaset
+	60	Google
+	61	Gradiente
+	62	Grundig
+	63	Haier
+	64	HP
+	65	HTC
+	66	Huawei
+	67	Humax
+	68	Hyrican
+	69	Ikea
+	70	iBall
+	71	iBerry
+	72	iKoMo
+	73	i-mate
+	74	Infinix
+	75	Innostream
+	76	Inkti
+	77	Intex
+	78	i-mobile
+	79	INQ
+	80	Intek
+	81	Inverto
+	82	Jiayu
+	83	Jolla
+	84	Karbonn
+	85	KDDI
+	86	Kindle
+	87	Konka
+	88	K-Touch
+	89	KT-Tech
+	90	Kyocera
+	91	Kazam
+	92	Lava
+	93	Lanix
+	94	LCT
+	95	Lenovo
+	96	Lenco
+	97	LG
+	98	Loewe
+	99	Logicom
+	100	Lexibook
+	101	Manta Multimedia
+	102	Mobistel
+	103	Medion
+	104	Metz
+	105	MEU
+	106	MicroMax
+	107	MediaTek
+	108	Mio
+	109	Mpman
+	110	Motorola
+	111	Microsoft
+	112	MSI
+	113	Memup
+	114	Mitsubishi
+	115	MyPhone
+	116	NEC
+	117	NGM
+	118	Nintendo
+	119	Nokia
+	120	Nikon
+	121	Newgen
+	122	Nexian
+	123	Onda
+	124	OPPO
+	125	Orange
+	126	O2
+	127	OUYA
+	128	Opsson
+	129	Panasonic
+	130	PEAQ
+	131	Philips
+	132	Polaroid
+	133	Palm
+	134	phoneOne
+	135	Pantech
+	136	PolyPad
+	137	Prestigio
+	138	Qilive
+	139	Qtek
+	140	Quechua
+	141	Oysters
+	142	Ramos
+	143	RIM
+	144	Rover
+	145	Samsung
+	146	Sega
+	147	Sony Ericsson
+	148	Softbank
+	149	SFR
+	150	Sagem
+	151	Sharp
+	152	Siemens
+	153	Sendo
+	154	Sony
+	155	Spice
+	156	SuperSonic
+	157	Selevision
+	158	Sanyo
+	159	Symphony
+	160	Smart
+	161	Storex
+	162	Sumvision
+	163	Tesla
+	164	TCL
+	165	Telit
+	166	TiPhone
+	167	Tecno Mobile
+	168	TIANYU
+	169	Telefunken
+	170	T-Mobile
+	171	Thomson
+	172	Tolino
+	173	Toplux
+	174	Toshiba
+	175	TechnoTrend
+	176	Tunisie Telecom
+	177	TVC
+	178	TechniSat
+	179	teXet
+	180	UTStarcom
+	181	Videocon
+	182	Vertu
+	183	Vitelcom
+	184	VK Mobile
+	185	ViewSonic
+	186	Vestel
+	187	Voxtel
+	188	Videoweb
+	189	Web TV
+	190	WellcoM
+	191	Wiko
+	192	Wolder
+	193	Wonu
+	194	Woxter
+	195	Xiaomi
+	196	Yuandao
+	197	Zonda
+	198	Zopo
+	199	ZTE
+	200	3Q
+	201	Ainol
+	202	Allview
+	203	Altech UEC
+	204	Amazon
+	205	ARRIS
+	206	Airties
+	207	Axxion
+	208	Boway
+	209	Brondi
+	210	Bush
+	211	CUBOT
+	212	Carrefour
+	213	Captiva
+	214	Casio
+	215	Changhong
+	216	Crosscall
+	217	Cowon
+	218	Datang
+	219	Desay
+	220	DNS
+	221	Doov
+	222	Dune HD
+	223	EBEST
+	224	ECS
+	225	Elephone
+	226	Energy Sistem
+	227	Eton
+	228	Fairphone
+	229	Foxconn
+	230	Garmin-Asus
+	231	GOCLEVER
+	232	Goly
+	233	Hasee
+	234	Hisense
+	235	Hi-Level
+	236	Hosin
+	237	Hyundai
+	238	i-Joy
+	239	iOcean
+	240	iNew
+	241	iTel
+	242	Kingsun
+	243	Komu
+	244	Koobee
+	245	KOPO
+	246	Koridy
+	247	Kumai
+	248	Le Pan
+	249	Lingwin
+	250	Majestic
+	251	Mecer
+	252	MEEG
+	253	Meizu
+	254	Mediacom
+	255	Mofut
+	256	MLLED
+	257	M.T.T.
+	258	Netgear
+	259	Noain
+	260	Nomi
+	261	NextBook
+	262	OnePlus
+	263	Ouki
+	264	Pioneer
+	265	Ployer
+	266	Point of View
+	267	Pomp
+	268	Positivo
+	269	ProScan
+	270	PULID
+	271	QMobile
+	272	Overmax
+	273	RCA Tablets
+	274	Readboy
+	275	Rikomagic
+	276	Roku
+	277	Sencor
+	278	Skyworth
+	279	Smartfren
+	280	Star
+	281	Stonex
+	282	SunVan
+	283	ThL
+	284	Tesco
+	285	Telenor
+	286	Trevi
+	287	Turbo-X
+	288	Unowhy
+	289	Uniscope
+	290	Vastking
+	291	Vivo
+	292	Voto
+	293	Vodafone
+	294	Vizio
+	295	Walton
+	296	Wexler
+	297	Xolo
+	298	Yarvik
+	299	Yusun
+	300	Ytone
+	301	Zeemi
+participant_model	-	Device model
+	-99	Unknown
+	1	StarTrail
+	2	StarTrail 2
+	3	StarTrail 3
+	4	StarTrail 4
+	5	StarShine
+	6	StarShine 2
+	7	Staraddict
+	8	Staraddict 2
+	9	Staraddict 2 Plus
+	10	Staraddict 3
+	11	StarText
+	12	StarText 2
+	13	StarNaute
+	14	StarNaute 2
+	15	$1
+	16	Droid Incredible
+	17	ThunderBolt
+	18	Droid Incredible 3
+	19	Excalibur
+	20	Vox
+	21	HD2
+	22	$1 (Sprint)
+	23	N$1
+	24	N800
+	25	Touchpad $1
+	26	BlackBerry $1
+	27	BlackBerry Playbook
+	28	BlackBerry
+	29	$1 $2
+	30	Treo $1
+	31	Tungsten
+	32	Slate $1
+	33	TouchPad
+	34	iPAQ $1
+	35	Veer
+	36	Apple TV
+	37	iPad
+	38	iPod Touch
+	39	iPhone
+	40	iPhone 3G
+	41	iPhone 3GS
+	42	iPhone 4
+	43	iPhone 4S
+	44	iPhone 5
+	45	iPhone 5c
+	46	iPhone 5s
+	47	iPhone 6 Plus
+	48	iPhone 6
+	49	iPhone $1
+	50	Iconia A
+	51	Iconia A1
+	52	Iconia A3
+	53	Iconia B1
+	54	Acer Liquid E1
+	55	Iconia Tab A$1
+	56	One Touch $1
+	57	One Touch$1
+	58	5
+	59	Eee Pad MeMO 171
+	60	MeMO Pad FHD 10
+	61	MeMO Pad FHD 10 LTE
+	62	MeMO Pad Smart 10
+	63	Fonepad
+	64	MeMO Pad HD 7
+	65	MeMO Pad 8
+	66	MeMO Pad HD 7 Dual SIM
+	67	Fonepad 7
+	68	Fonepad 7 Dual SIM
+	69	MeMO Pad 10
+	70	Fonepad Note 6
+	71	Transformer Pad TF701T
+	72	Eee Pad Slider SL101
+	73	ZenFone 4
+	74	Transformer $1
+	75	CDM-$1
+	76	PAD
+	77	Nook $1
+	78	Vivo $1
+	79	Nova
+	80	Tab $1
+	81	ReadMan $1
+	82	DSlide $1
+	83	txt
+	84	txt pro
+	85	Xperia X10 mini
+	86	Xperia X8
+	87	Xperia arc
+	88	Xperia arc S
+	89	Xperia X10
+	90	K$1
+	91	R380
+	92	eZee'Tab$1
+	93	EZ$1
+	94	Gigaset QV$1
+	95	Glass
+	96	Galaxy Nexus
+	97	GoogleTV
+	98	G$1
+	99	Ideos$1
+	100	Vodafone $1
+	101	INNO$1
+	102	Rise
+	103	Hydro
+	104	Hydro EDGE
+	105	Hydro XTRM
+	106	Hydro ELITE
+	107	KZ $1
+	108	Iris $1
+	109	IdeaTab $1
+	110	Tablet Ultra 3 XL
+	111	TabTab
+	112	Tablet Master 3
+	113	Tablet Kids
+	114	Tablet Junior
+	115	Tablet Junior Power Touch
+	116	Tablet Junior 2
+	117	Tablet One
+	118	Tablet Master
+	119	Tablet Master 2
+	120	Tablet Ultra
+	121	Tablet Ultra 2
+	122	Power Tablet
+	123	Tablet Advanced
+	124	Tablet Advanced 2
+	125	Tablet XL
+	126	Barbie Tablet
+	127	Tablet Disney Cars HD
+	128	Furby Tablet
+	129	Tablet Disney Princesse HD
+	130	LapTab
+	131	LapTab 2
+	132	NetCast
+	133	Kin $1
+	134	Viva 5660s
+	135	Tango 830
+	136	Expose $1
+	137	Tuxedo 990
+	138	Lifetab $1
+	139	SlidePad $1
+	140	V360
+	141	Spice
+	142	Motosmart ME
+	143	Fire
+	144	Defy Mini
+	145	Motosmart
+	146	Quench
+	147	Fire XT
+	148	Defy
+	149	Defy XT
+	150	Admiral
+	151	Droid Pro
+	152	Motoluxe
+	153	Primus
+	154	IronRock
+	155	Atrix
+	156	Motoluxe Dual-SIM
+	157	Atrix TV
+	158	Milestone
+	159	Glam
+	160	Milestone 3
+	161	Electrify 2
+	162	Moto XT882
+	163	Droid RAZR V
+	164	Droid RAZR i
+	165	Droid 4
+	166	Photon Q
+	167	Electrify M
+	168	Droid RAZR M
+	169	Droid RAZR
+	170	Droid RAZR D1
+	171	Droid RAZR D3
+	172	Droid RAZR HD
+	173	Moto E
+	174	Droid Mini
+	175	Moto G
+	176	Moto X
+	177	Droid Ultra
+	178	RAZR $1
+	179	RIZR $1
+	180	DROID $1
+	181	MyPad $1
+	182	MID
+	183	SPV $1
+	184	Viera Cast
+	185	Fisio $1
+	186	GALAXY Tab
+	187	GALAXY Tab 2 7"
+	188	GALAXY Tab 2 7" WiFi
+	189	GALAXY Tab 2 10.1"
+	190	GALAXY Tab 2 10.1" WiFi
+	191	GALAXY Tab 3 10.1"
+	192	GALAXY Tab 3 10.1" WiFi
+	193	GALAXY Tab 3 10.1" LTE
+	194	GALAXY Tab 7" Plus
+	195	GALAXY Tab 7" Plus N
+	196	GALAXY Tab 7.7"
+	197	GALAXY Tab 10.1v
+	198	GALAXY Tab 10.1" P7500
+	199	GALAXY Note 3 Duos
+	200	GALAXY Note 3
+	201	GALAXY Note 10.1" 2014 Edition WiFi
+	202	GALAXY Note 10.1" 2014 Edition
+	203	GALAXY Note 10.1" 2014 Edition LTE
+	204	GALAXY NotePRO 12.2" WiFi
+	205	GALAXY NotePRO 12.2" LTE
+	206	GALAXY Tab 3 7.0" Lite WiFi
+	207	GALAXY Tab 3 7.0" Lite
+	208	GALAXY Tab 3 7.0" Kids
+	209	GALAXY Tab 3 7.0" WiFi
+	210	GALAXY Tab 3 7.0"
+	211	GALAXY Tab 4 7.0" WiFi
+	212	GALAXY Tab 3 8.0" WiFi
+	213	GALAXY Tab 3 8.0"
+	214	GALAXY Tab 3 8.0" LTE
+	215	GALAXY TabPRO 10.1" WiFi
+	216	GALAXY TabPRO 8.4" WiFi
+	217	GALAXY TabPRO 8.4" LTE
+	218	GALAXY TabPRO 10.1" LTE
+	219	GALAXY Tab 4 10.1" WiFi
+	220	GALAXY TabPRO 12.2" WiFi
+	221	GALAXY S4 zoom
+	222	GALAXY K zoom
+	223	GALAXY CORE Plus
+	224	GALAXY CORE LTE
+	225	GALAXY EXPRESS II
+	226	GALAXY S5 Dual-SIM
+	227	GALAXY S5
+	228	GALAXY S II
+	229	GALAXY S4
+	230	SCH-$1
+	231	Smart TV
+	232	GALAXY $1
+	233	Star Q
+	234	Katana Eclipse X
+	235	Incognito
+	236	Innuendo
+	237	Quechua Phone 5
+	238	Aquos Phone Zeta
+	239	Aquos Phone SH-06D
+	240	Sharp Aquos Pad
+	241	Aquos Net Plus
+	242	Xperia E
+	243	Xperia E Dual
+	244	Xperia M
+	245	Xperia M Dual
+	246	Xperia L
+	247	Xperia C
+	248	Xperia SP
+	249	Xperia ZR
+	250	Xperia ZL
+	251	Xperia Z
+	252	Xperia Z Ultra
+	253	Xperia Z1
+	254	Xperia E1
+	255	Xperia E1 Dual
+	256	Xperia E3
+	257	Xperia E3 Dual
+	258	Xperia M2 Dual
+	259	Xperia M2
+	260	Xperia T2 Ultra
+	261	Xperia T2 Ultra Dual
+	262	Xperia Z1 Compact
+	263	Xperia Z2
+	264	Xperia Tablet Z
+	265	Xperia Tablet Z2
+	266	Xperia Tablet Z3 Compact
+	267	Xperia Tablet S
+	268	Xperia $1
+	269	Kindle Fire HD
+	270	Kindle Fire HD 8.9" WiFi
+	271	Kindle Fire HD 8.9" 4G
+	272	Kindle Fire HD 7" WiFi
+	273	Kindle Fire HDX 7" WiFi
+	274	Kindle Fire HDX 7" 4G
+	275	Kindle Fire HDX 8.9" WiFi
+	276	Kindle Fire HDX 8.9" 4G
+	277	Kindle Fire
+	278	Kindle
+	279	Tolino Tab $1
+	280	Nuclear SX-SP5
+	281	ViewPad $1
+	282	Cink$1
+	283	Cink $1
+	284	Iggy$1
+	285	Iggy $1
+	286	Stairway
+	287	Highway
+	288	Rainbow
+	289	Darkside
+	290	Darkmoon
+	291	Darkfull
+	292	Darknight
+	293	Sublim
+	294	Ozzy
+	295	Barry
+	296	miSmart $1
+	297	miTab $1
+	298	N101
+	299	Flylife $1
+	300	MTS Blaze 4
+	301	Z331
+	302	StarXtrem
+	303	StarTab
+	304	iPad 2
+	305	iPad Mini
+	306	iPad 3rd generation
+	307	iPad 4th Gen
+	308	iPad Air
+	309	iPad Mini Retina
+	310	Liquid E1
+	311	Liquid S1
+	312	Liquid S2
+	313	MeMO Pad
+	314	Transformer Pad TF300T
+	315	iNote $1
+	316	Trooper X$1.$2
+	317	Coast
+	318	Find 7a
+	319	YPY S450
+	320	Imagio
+	321	Evo 3G
+	322	Evo 4G
+	323	One X
+	324	One X+
+	325	P715a
+	326	Flyer
+	327	Flyer $1
+	328	One max
+	329	N900
+	330	Slate 6 VoiceTab
+	331	Compaq $1
+	332	iPhone 5C
+	333	iPhone 5S
+	334	iPhone 6s
+	335	iPhone 6s Plus
+	336	iPhone SE
+	337	iPad 3
+	338	iPad 4
+	339	iPad Mini 2
+	340	iPad Mini 3
+	341	iPad Air 2
+	342	iPad Pro 9.7
+	343	iPad Pro 12.9
+	344	A501 Bright
+	345	DA220HQL
+	346	DA241HL
+	347	Iconia One 10
+	348	Liquid E700
+	349	Liquid E2
+	350	Liquid Z$1
+	351	Liquid Z4
+	352	One Touch Pop 3
+	353	One Touch Pop 3 Dual SIM
+	354	One Touch Pop 4
+	355	One Touch Idol 2 mini
+	356	One Touch Idol 2S
+	357	One Touch Idol 3
+	358	One Touch Pixi 7
+	359	One Touch Pixi 8
+	360	One Touch POP 8
+	361	One Touch POP 7
+	362	A862W
+	363	Numy $1
+	364	Novo $1 $2
+	365	ATAB-$1
+	366	M901
+	367	7c G2
+	368	7 G2
+	369	7 G3
+	370	7b G3
+	371	7c G3
+	372	Childpad
+	373	7d G3
+	374	7f G3
+	375	7h G3
+	376	8
+	377	8 G2
+	378	8 G3
+	379	8b G3
+	380	8c G3
+	381	9i G2
+	382	9 G2
+	383	9 G3
+	384	10 G2
+	385	10
+	386	10b G2
+	387	10b G3
+	388	10c G3
+	389	10d G3
+	390	90 G3
+	391	90 G4
+	392	97 G4
+	393	101 G4
+	394	Garminfone $1
+	395	MeMO Pad 7
+	396	MeMO Pad 10 ME103K
+	397	MeMO Pad 8.9
+	398	Transformer Pad TF103C
+	399	Transformer Pad TF103CG
+	400	Transformer Pad TF303K
+	401	Fonepad 8
+	402	ZenFone C
+	403	ZenFone 2
+	404	ZenFone 2 Laser
+	405	ZenFone 5
+	406	ZenFone 5 LTE
+	407	ZenFone 5 Lite
+	408	ZenFone 6
+	409	ZenFone Max
+	410	ZenFone Go Plus
+	411	ZenFone Go
+	412	ZenFone Selfie
+	413	CENTURION $1
+	414	GLADIATOR $1
+	415	GLORY $1
+	416	LUXURY $1
+	417	SENSUELLE $1
+	418	VICTORY $1
+	419	SURFING TAB $1
+	420	Valencia
+	421	$1Tablet
+	422	Pad $1
+	423	G'zOne Ravine
+	424	G'zOne Commando
+	425	G'zOne Commando 4G LTE
+	426	B15Q
+	427	Touch Tablet Neo2
+	428	CT$1
+	429	8190Q
+	430	8295
+	431	Talk 8
+	432	Talk 79
+	433	Talk 9X
+	434	XCD35
+	435	S4505M
+	436	AirTab $1
+	437	TA10CA3
+	438	TR10CS1
+	439	TM105A
+	440	TM105
+	441	MK$1
+	442	Xperia X10 mini pro
+	443	Xperia neo V
+	444	Xperia neo
+	445	Xperia Sola
+	446	Xperia pro
+	447	Xperia mini
+	448	Xperia active
+	449	Xperia ray
+	450	Xperia mini pro
+	451	Aspen
+	452	Xperia PLAY
+	453	Live with Walkman
+	454	Jalou
+	455	Naite
+	456	Cedar
+	457	Elm
+	458	Hazel
+	459	Aino
+	460	Yari
+	461	Satio
+	462	Vivaz
+	463	Vivaz pro
+	464	Zylo
+	465	Spiro
+	466	Yendo
+	467	W960
+	468	Mix Walkman
+	469	Xperia P
+	470	Xperia V
+	471	Xperia SL
+	472	Xperia S
+	473	Xperia arco
+	474	Xperia arco HD
+	475	Xperia arco S
+	476	Xperia ion
+	477	Xperia TX
+	478	Xperia T LTE
+	479	Xperia T
+	480	Xperia tipo dual
+	481	Xperia tipo
+	482	Xperia miro
+	483	Xperia U
+	484	Xperia J
+	485	Xperia go
+	486	Xperia E4
+	487	Xperia E4G
+	488	Xperia M2 Aqua
+	489	Xperia M4 Aqua
+	490	Xperia M5
+	491	Xperia C3 Dual
+	492	Xperia C3
+	493	Xperia T3
+	494	Xperia Z3 Compact
+	495	Xperia Z3
+	496	Xperia Z3 Dual
+	497	Xperia Z3+
+	498	Xperia Z5 Compact
+	499	Xperia Z5
+	500	Xperia Z5 Dual
+	501	Xperia Z5 Premium
+	502	Xperia XA
+	503	Xperia E5
+	504	Xperia A
+	505	Xperia GX
+	506	Xperia SX
+	507	Xperia X
+	508	Blu-ray Player
+	509	LinkBox
+	510	Everpad $1
+	511	ActiveD 7.4 3G
+	512	ActiveD 8.2 3G
+	513	CinemaTV 3G
+	514	Informer $1
+	515	Surfer $1
+	516	sQuad $1
+	517	Onliner $1
+	518	Atlant
+	519	InFocus M$1
+	520	Arrows NX F-01F
+	521	Arrows X F-02E
+	522	Arrows X LTE F-05D
+	523	Arrows NX F-06E
+	524	F-08D Disney Mobile
+	525	Raku-Raku Smartphone Premium F-09E
+	526	F-12C
+	527	Arrows Tab F-02F
+	528	Arrows Tab F-05E
+	529	GN810
+	530	GN$1
+	531	V188S
+	532	V188
+	533	Dream D1
+	534	VAP430
+	535	VTAB1008
+	536	QUANTUM $1
+	537	INSIGNIA 785 PRO
+	538	QUANTUM 700N
+	539	TAB $1
+	540	Chromecast
+	541	W$1
+	542	Sero 7
+	543	Sero 7 Pro
+	544	Sero 8
+	545	HLV-T$1
+	546	U$1
+	547	Ideos X2
+	548	Ideos X3
+	549	Fusion 2
+	550	Ideos X5
+	551	Ascend G300
+	552	Honor
+	553	Ascend P1
+	554	Ascend D1
+	555	Honor 2
+	556	Honor 4X
+	557	Honor Play 4C
+	558	G621
+	559	Honor 3C
+	560	Honor 4A
+	561	Honor 5X
+	562	Honor 4C
+	563	Honor 6
+	564	Honor Y6
+	565	Honor 7
+	566	Honor 7 Lite
+	567	Honor Tablet Note
+	568	MediaPad T1 10
+	569	Ascend Mate $1
+	570	Elektra M
+	571	Elektra L
+	572	Elektra XL
+	573	Elektra XXL
+	574	Neon $1
+	575	Sygnus
+	576	Deox
+	577	i-Call $1
+	578	V3C
+	579	V3-E
+	580	V3 Plus
+	581	V7A
+	582	i-Style $1
+	583	IQ $1
+	584	Tornado 348
+	585	Slim Tab $1
+	586	Cavion Base $1
+	587	CORE 10.1 DUAL 3G
+	588	Elegance 5.0
+	589	$2 $3
+	590	Milano
+	591	Le Pan Mini
+	592	TC970 $1
+	593	Le Pan $1
+	594	G780
+	595	IdeaTab A7-40
+	596	IdeaTab A7-50
+	597	IdeaTab A8-50
+	598	IdeaTab A10-70
+	599	Tab 2 A10-30
+	600	Yoga Tab 3
+	601	TAB3 7 Essential
+	602	Yoga Tablet 10
+	603	Yoga Tablet 8
+	604	Yoga 3 Pro
+	605	Yoga Tab 3 8
+	606	ThinkPad Tablet $1
+	607	ThinkPad Tablet$1
+	608	IdeaPad $1
+	609	TAB 2 A7-30
+	610	TAB 2 A$1
+	611	Yoga Tablet$1
+	612	Optimus L7II
+	613	Optimus LTE L-01D
+	614	PRADA phone L-02D
+	615	Optimus Bright L-07C
+	616	G Pad 8.0
+	617	G Pad 8.3
+	618	G Pad 10.1
+	619	G Pad II 10.1
+	620	WebOS TV
+	621	Tab$1
+	622	Crono $1
+	623	SmartPad 750 3G
+	624	SmartPad 970 S2 3G
+	625	SmartPad 970 S2
+	626	SmartPad 8.0 Mobile
+	627	SmartPad 9.7 Mobile
+	628	SmartPad 7.0 Go
+	629	SmartPad 8.0 S2
+	630	SmartPad 8.0 S2 3G
+	631	SmartPad $1 S2
+	632	SmartPad 875 S2 3G
+	633	SmartPad 10.1 S2
+	634	SmartPad 10.1 S2 3G
+	635	SmartPad 8.0 S4
+	636	SmartPad 8.0 S4 3G
+	637	SmartPad 9.7 S4 3G
+	638	SmartPad 10.1 S4
+	639	SmartPad 10.1 HD S4 3G
+	640	SmartPad 10.1 S4 3G
+	641	SmartPad 8.0 HD Pro 3G
+	642	SmartPad 10.1 HD Pro
+	643	SmartPad 10.1 HD Pro 3G
+	644	SmartPad 8.0 HD iPro$1 3G
+	645	SmartPad 7.0 Mobile
+	646	SmartPad 7.0 S2 3G
+	647	SmartPad Mini Mobile
+	648	PhonePad Duo G550
+	649	PhonePad Duo G530
+	650	PhonePad Duo G700
+	651	PhonePad Duo S531
+	652	PhonePad Duo S550
+	653	PhonePad Duo S650
+	654	PhonePad Duo S551U
+	655	PhonePad Duo G500
+	656	PhonePad Duo S500
+	657	PhonePad Duo X$1U
+	658	PhonePad Duo G$1
+	659	PhonePad Duo S$1
+	660	SmartPad $1
+	661	M2 Note
+	662	M$1 Note
+	663	M2
+	664	MX2
+	665	MX3
+	666	MX4 Pro
+	667	MX4
+	668	SlidePad NG$1
+	669	SlidePad 704$1
+	670	Xpress Smartlife M785
+	671	X1010
+	672	Xpress Smartlife 800P31C
+	673	Xpress Smartlife 800P32C
+	674	Xpress Smartlife 101P51C
+	675	Primo 76
+	676	Primo 91
+	677	Enjoy 7 Plus
+	678	Xino Z$1 X$2
+	679	FreeTab $1
+	680	FreeWay Tab $1
+	681	MyTab $1
+	682	MyTab 10 II
+	683	Cube LTE
+	684	Tablet$1
+	685	NeoTV Prime
+	686	Premium 8 HD
+	687	Premium 9
+	688	Premium 10 Hi
+	689	8 HD
+	690	Premium 7
+	691	Next $1
+	692	Find Way S
+	693	Find 5
+	694	Find 7
+	695	R1L
+	696	R1S
+	697	Find Guitar
+	698	R5
+	699	Find Melody
+	700	Piano
+	701	Find Clover
+	702	Find Muse
+	703	Find 5 Mini
+	704	Neo 5
+	705	Neo 3
+	706	Neo
+	707	N3
+	708	N1 Mini
+	709	N1T
+	710	R$1
+	711	Iusai $1
+	712	Livebox Play
+	713	Sego
+	714	FunTab $1
+	715	Vertis Yard
+	716	Vertis $1
+	717	Qualcore 1010
+	718	P902i
+	719	Eon Prix
+	720	Quadra 7 UltraSlim
+	721	Monster X5
+	722	Quadra $1
+	723	Android TV
+	724	Blu-ray Player (BDP$1)
+	725	NetTV Series
+	726	R1
+	727	F$1
+	728	HDMI Smart TV Dongle
+	729	Mini PC HDMI Dongle
+	730	Mobii Phone 5045
+	731	ONYX 506 Navi
+	732	ONYX 507 Navi
+	733	ONYX 527S
+	734	ONYX 547 Navi
+	735	ProTab 26 XXL IPS
+	736	ProTab 25XXL
+	737	Mobii 1015
+	738	ProTab $1
+	739	Mobii $1
+	740	PLT$1
+	741	RCT$1
+	742	Digital Video Player
+	743	Home Sync
+	744	SMT-E5015
+	745	GALAXY Note 8.0"
+	746	GALAXY Note 8.0" WiFi
+	747	GALAXY Note 8.0" LTE
+	748	GALAXY Note 10.1"
+	749	GALAXY Note 10.1" WiFi
+	750	GALAXY Note 10.1" LTE
+	751	GALAXY NotePRO 12.2"
+	752	GALAXY Tab 8.0" LTE
+	753	GALAXY Tab 4 10.1" LTE
+	754	GALAXY Tab S 8.4" WiFi
+	755	GALAXY Tab S 8.4" LTE
+	756	GALAXY Tab S 10.5" WiFi
+	757	GALAXY Tab S 10.5" LTE
+	758	GALAXY Tab S2
+	759	GALAXY Chat
+	760	GALAXY Y Pro
+	761	GALAXY Y Pro Duos
+	762	GALAXY Pro
+	763	GALAXY Spica
+	764	GALAXY Apollo
+	765	GALAXY 3
+	766	Omnia II
+	767	GALAXY W
+	768	GALAXY Ace 2
+	769	GALAXY S III mini
+	770	GALAXY S III mini Value Edition
+	771	GALAXY Core
+	772	H1
+	773	GALAXY Beam
+	774	GALAXY Win
+	775	GALAXY Core Advance
+	776	GALAXY Express
+	777	GALAXY S
+	778	GALAXY S Plus
+	779	GALAXY SL
+	780	GALAXY S Giorgio Armani
+	781	GALAXY S Advance
+	782	GALAXY S II WiMAX
+	783	GALAXY R
+	784	GALAXY S II Plus
+	785	GALAXY S4 mini
+	786	GALAXY S4 ACTIVE
+	787	GALAXY S III
+	788	GALAXY S III LTE
+	789	GALAXY S4 with LTE+
+	790	GALAXY STAR
+	791	GALAXY POCKET Plus
+	792	GALAXY POCKET Neo
+	793	GALAXY Y Hello Kitty
+	794	GALAXY Young
+	795	GALAXY Young DUOS
+	796	GALAXY FAME Lite with NFC
+	797	GALAXY FAME
+	798	GALAXY ACE 3
+	799	GALAXY Trend Lite
+	800	GALAXY ACE Plus
+	801	GALAXY Trend
+	802	GALAXY S DUOS
+	803	GALAXY Trend Plus
+	804	GALAXY DUOS 2
+	805	GALAXY Xcover 2
+	806	Wave
+	807	Wave II
+	808	Wave 3
+	809	Wave Y
+	810	Wave M
+	811	Wave 525
+	812	Wave 533
+	813	Wave 578
+	814	Wave 723
+	815	GALAXY S5 mini
+	816	GALAXY S5 Neo
+	817	GALAXY S6
+	818	GALAXY S7 edge
+	819	GALAXY Stellar
+	820	GALAXY Style Duos
+	821	GALAXY Discover
+	822	GALAXY Centura
+	823	Vollo Vi86
+	824	GALAXY Grand Neo
+	825	GALAXY Grand Neo Duos
+	826	GALAXY Grand
+	827	GALAXY Grand Neo+
+	828	GALAXY Grand Duos
+	829	GALAXY Note II
+	830	GALAXY Note II LTE
+	831	GALAXY Grand 2
+	832	GALAXY Note 3 Neo Duos
+	833	GALAXY Note 3 Neo
+	834	GALAXY Note 4
+	835	GALAXY Note 4 Edge
+	836	GALAXY Note 5
+	837	GALAXY Note 5 Duos
+	838	GALAXY Mega 5.8
+	839	GALAXY Mega 6.3
+	840	GALAXY Note 7
+	841	E2152
+	842	Element 7 V3
+	843	Element 7 V2 Basic
+	844	Element 7 V2
+	845	Element 8 V3
+	846	Element 8 V2
+	847	Element 8
+	848	Element 9.7 V3
+	849	Element 9.7 V2
+	850	Element 9.7
+	851	Element 10.1
+	852	Element P$1
+	853	Andromax Tab 7.0
+	854	Andromax V3s
+	855	Andromax T
+	856	Andromax C2
+	857	Andromax i3
+	858	Andromax i3s
+	859	Andromax G2 Hot
+	860	Andromax G2
+	861	Andromax I
+	862	New Andromax I
+	863	Andromax $1
+	864	Primo $1
+	865	QM734-2
+	866	QM734-8G
+	867	QM735-8G
+	868	QM736-8G (HD)
+	869	3G 8950
+	870	Tlink$1
+	871	Every$1
+	872	MOMO mini S
+	873	MOMO $1
+	874	Pro4611
+	875	Agate
+	876	ProV350
+	877	Pro$1
+	878	MultiPad Ranger 7.0 3G
+	879	MultiPad Ranger 8.0 3G
+	880	$1 Tab
+	881	Ice
+	882	Note 3
+	883	Fire TV
+	884	Fire TV stick
+	885	Fire HD 6
+	886	Fire HD 7
+	887	Fire HDX 8.9
+	888	Fire HDX 8.9 4G
+	889	Fire Phone
+	890	Ignis $1
+	891	Hudl $1
+	892	Op3n Dott
+	893	TAB $1 3G V8
+	894	TAB 9 3G V8
+	895	TAB 9 3G
+	896	TAB 10 3G V16
+	897	MINITAB 3G V
+	898	Phablet 4 C
+	899	Phablet 4 S
+	900	Phablet 4.5Q
+	901	Phablet 5 S
+	902	Phablet 5.3 Q
+	903	Phablet 5.5 Q REVERSE
+	904	Phablet 6 S
+	905	QOOQ
+	906	M910A
+	907	V500
+	908	ViewPhone $1
+	909	VT75C
+	910	Smart Mini
+	911	Smart 3
+	912	Smart 4 Mini
+	913	Smart 4 Turbo
+	914	Smart 4 Power
+	915	Smart Chat
+	916	Smart Tab 3G
+	917	Smart Tab 4G
+	918	Smart Tab 7
+	919	Smart Tab 10
+	920	Smart Tab II 7
+	921	Smart Tab II 10
+	922	Smart Tab III 7
+	923	Smart Tab III 10
+	924	Primo Walpad $1
+	925	ZEN 4.5
+	926	ZEN 4.7
+	927	ZEN 5
+	928	TAB 10Q
+	929	Highway $1
+	930	Highway$1
+	931	Iggy
+	932	Ridge
+	933	Ridge Fab 4G
+	934	Ridge 4G
+	935	Rainbow 4G
+	936	Birdy
+	937	Bloom
+	938	Jimmy
+	939	Getaway
+	940	Goa
+	941	Kite
+	942	Lenny
+	943	Lenny 2
+	944	Slide
+	945	Sunset
+	946	Wax
+	947	Hongmi 4G
+	948	Hongmi 1S
+	949	Hongmi 2 4G
+	950	Hongmi
+	951	MI 3
+	952	MI 4C
+	953	Redmi Note $1
+	954	Redmi $1
+	955	MI Note $1
+	956	HM Note $1
+	957	HM $1
+	958	Luna 7
+	959	Luna 7c
+	960	Luna 10
+	961	Luna 10c
+	962	Noble 9.7
+	963	Noble 10.1
+	964	Noble Mini
+	965	Xenta 7c
+	966	Xenta 7ic
+	967	Xenta 8ic
+	968	Xenta 8c
+	969	Xenta 9.7ic
+	970	Xenta 9.7ic+
+	971	Xenta 10ic
+	972	Xenta 13c
+	973	LA2-T
+	974	Regza T-01C
+	975	Regza T-01D
+	976	Regza T-02D
+	977	Regza IS04
+	978	Regza IS11T
+	979	Regza AT1S0
+	980	Regza AT300SE
+	981	Regza AT500a
+	982	Regza AT$1
+	983	Excite AT10-A
+	984	Panorama
+	985	Victory
+	986	Dynamic
+	987	Jazz
+	988	Whizz
+	989	Pride
+	990	Firebird
+	991	Marathon
+	992	Turbo
+	993	Evoke
+	994	Glory
+	995	Era Nano 1
+	996	Era Nano 5
+	997	Era Nano 3
+	998	Energy
+	999	Radiance
+	1000	Miracle
+	1001	Miracle 2
+	1002	Trend
+	1003	Diamond 2
+	1004	Genius
+	1005	Magic
+	1006	Era Life 1
+	1007	Chic
+	1008	Pronto
+	1009	Horizon
+	1010	Horizon 2
+	1011	Vista
+	1012	Ego Vision 1
+	1013	Evo Tech 1
+	1014	Era Life 2
+	1015	Energy 3
+	1016	Spark
+	1017	Era Nano 6
+	1018	Phoenix
+	1019	Energy 2
+	1020	Coral
+	1021	Evo Chic 3
+	1022	Evo Tech 3
+	1023	Era Style 3
+	1024	Era Nano 4
+	1025	Evo Energy 5
+	1026	IQ$1
+	1027	Web TV
+	1028	V5S
+	1029	V5 Max
+	1030	Imperial
+	1031	V5
+	1032	Wrap 4G
+	1033	Wrap Sync
+	1034	Boost Max
+	1035	Boost Max+
+	1036	Vital
+	1037	Nubia Z5 mini
+	1038	Nubia Z5S mini
+	1039	Nubia Z5S
+	1040	Nubia Z7
+	1041	Nubia Z7 mini
+	1042	Nubia Z7 max
+	1043	Nubia Z9
+	1044	Nubia Z9 mini
+	1045	Nubia Z9 max
+	1046	Nubia My Prague
+	1047	Nubia X6
+	1048	V5 Red Bull
+	1049	Grand Memo
+	1050	Blade S6
+	1051	Midnight
+	1052	AxonPhone $1
+	1053	One
+	1054	Two
+	1055	X
+participant_isbot	-	Bot
+	-99	Unknown
+	1	360Spider
+	2	Aboundexbot
+	3	Acoon
+	4	AddThis.com
+	5	aHrefs Bot
+	6	Alexa Crawler
+	7	Amorank Spider
+	8	Analytics SEO Crawler
+	9	archive.org bot
+	10	Ask Jeeves
+	11	Backlink-Ceck.de
+	12	BacklinkCrawler
+	13	Baidu Spider
+	14	BingBot
+	15	Blekkobot
+	16	BLEXBot Crawler
+	17	Bloglovin
+	18	Bountii Bot
+	19	Browsershots
+	20	Butterfly Robot
+	21	CareerBot
+	22	ccBot crawler
+	23	Cliqzbot
+	24	CloudFlare Always Online
+	25	CommaFeed
+	26	Dazoobot
+	27	Discobot
+	28	DotBot
+	29	Easou Spider
+	30	EMail Exractor
+	31	ExaBot
+	32	ExactSeek Crawler
+	33	Ezooms
+	34	Facebook External Hit
+	35	Feedbin
+	36	FeedBurner
+	37	Feedly
+	38	Feedspot
+	39	Fever
+	40	Genieo Web filter
+	41	Goo
+	42	Google PageSpeed Insights
+	43	Googlebot
+	44	Heritrix
+	45	HTTPMon
+	46	IIS Site Analysis
+	47	Kouio
+	48	Linkdex Bot
+	49	LinkedIn Bot
+	50	Mail.Ru Bot
+	51	Magpie-Crawler
+	52	MagpieRSS
+	53	Meanpath Bot
+	54	Mixrank Bot
+	55	MJ12 Bot
+	56	MojeekBot
+	57	NalezenCzBot
+	58	Netcraft Survey Bot
+	59	Netvibes
+	60	NewsBlur
+	61	NewsGator
+	62	NLCrawler
+	63	Omgili bot
+	64	Openindex Spider
+	65	OpenLinkProfiler
+	66	OpenWebSpider
+	67	PaperLiBot
+	68	Picsearch bot
+	69	Pingdom Bot
+	70	QuerySeekerSpider
+	71	Reddit Bot
+	72	Rogerbot
+	73	Screaming Frog SEO Spider
+	74	ScreenerBot
+	75	Semrush Bot
+	76	Sensika Bot
+	77	SEOENGBot
+	78	Seznam Bot
+	79	ShopWiki
+	80	SilverReader
+	81	SimplePie
+	82	SISTRIX Crawler
+	83	Sogou Spider
+	84	Soso Spider
+	85	Superfeedr Bot
+	86	Spinn3r
+	87	Sputnik Bot
+	88	Survey Bot
+	89	TinEye Crawler
+	90	Tiny Tiny RSS
+	91	TurnitinBot
+	92	TweetedTimes Bot
+	93	Tweetmeme Bot
+	94	Twitterbot
+	95	Uptime Robot
+	96	URLAppendBot
+	97	Visual Site Mapper Crawler
+	98	Voila Bot
+	99	W3C CSS Validator
+	100	W3C I18N Checker
+	101	W3C Link Checker
+	102	W3C Markup Validation Service
+	103	W3C MobileOK Checker
+	104	W3C Unified Validator
+	105	WeSEE:Search
+	106	WebbCrawler
+	107	Wotbox
+	108	YaCy
+	109	Yahoo! Slurp
+	110	Yandex Bot
+	111	Yeti/Naverbot
+	112	Youdao Bot
+	113	Yunyun Bot
+	114	Zookabot
+	115	ZumBot
+	116	Yottaa Site Monitor
+	117	Lycos
+	118	Inktomi Slurp
+	119	Speedy
+	120	ScoutJet
+	121	NetResearchServer
+	122	Scooter
+	123	Gigabot
+	124	Charlotte
+	125	Pompos
+	126	ichiro
+	127	PagePeeker
+	128	WebThumbnail
+	129	Willow Internet Crawler
+	130	EmailWolf
+	131	Bot
+	132	Nutch-based Bot
+	133	Generic Bot
+	134	Applebot
+	135	Castro 2
+	136	Backlink-Check.de
+	137	BazQux Reader
+	138	Blogtrottr
+	139	BUbiNG
+	140	Cốc Cốc Bot
+	141	Dataprovider
+	142	Daum
+	143	Domain Re-Animator Bot
+	144	Feed Wrangler
+	145	Gluten Free Crawler
+	146	Google Partner Monitoring
+	147	Gmail Image Proxy
+	148	ICC-Crawler
+	149	Larbin web crawler
+	150	LTX71
+	151	MetaJobBot
+	152	Orange Bot
+	153	PHP Server Monitor
+	154	Qwantify
+	155	Rainmeter
+	156	ROI Hunter
+	157	SafeDNSBot
+	158	Scrapy
+	159	Skype URI Preview
+	160	Sixy.ch
+	161	Slackbot
+	162	TelgramBot
+	163	WebSitePulse
+	164	Yahoo! Link Preview
+	165	Yahoo! Cache System
+	166	Yourls
+	167	Yahoo Gemini
+	168	Outbrain
+	169	HubPages
+	170	Pinterest
+	171	Site24x7 Website Monitoring
+	172	Monitor.Us
+	173	Catchpoint
+	174	Zao
+	175	NetLyzer FastProbe
+	176	ADMantX
+	177	Server Density
+participant_continent	-	Continent
+	-99	Unknown
+	1	Anonymous Proxy
+	2	Satellite Provider
+	3	Europe
+	4	Asia
+	5	North America
+	6	Africa
+	7	Oceania
+	8	South America
+	9	Antarctica
+participant_country	-	Country
+	-99	Unknown
+	1	Satellite Provider
+	2	Other Country
+	3	Andorra
+	4	United Arab Emirates
+	5	Afghanistan
+	6	Antigua and Barbuda
+	7	Anguilla
+	8	Albania
+	9	Armenia
+	10	Angola
+	11	Asia/Pacific Region
+	12	Antarctica
+	13	Argentina
+	14	American Samoa
+	15	Austria
+	16	Australia
+	17	Aruba
+	18	Aland Islands
+	19	Azerbaijan
+	20	Bosnia and Herzegovina
+	21	Barbados
+	22	Bangladesh
+	23	Belgium
+	24	Burkina Faso
+	25	Bulgaria
+	26	Bahrain
+	27	Burundi
+	28	Benin
+	29	Saint Barthelemy
+	30	Bermuda
+	31	Brunei
+	32	Bolivia
+	33	Bonaire, Saint Eustatius and Saba
+	34	Brazil
+	35	Bahamas
+	36	Bhutan
+	37	Bouvet Island
+	38	Botswana
+	39	Belarus
+	40	Belize
+	41	Canada
+	42	Cocos Islands
+	43	Democratic Republic of the Congo
+	44	Central African Republic
+	45	Republic of the Congo
+	46	Switzerland
+	47	Ivory Coast
+	48	Cook Islands
+	49	Chile
+	50	Cameroon
+	51	China
+	52	Colombia
+	53	Costa Rica
+	54	Cuba
+	55	Cape Verde
+	56	Curacao
+	57	Christmas Island
+	58	Cyprus
+	59	Czechia
+	60	Germany
+	61	Djibouti
+	62	Denmark
+	63	Dominica
+	64	Dominican Republic
+	65	Algeria
+	66	Ecuador
+	67	Estonia
+	68	Egypt
+	69	Western Sahara
+	70	Eritrea
+	71	Spain
+	72	Ethiopia
+	73	Europe
+	74	Finland
+	75	Fiji
+	76	Falkland Islands
+	77	Micronesia
+	78	Faroe Islands
+	79	France
+	80	Gabon
+	81	United Kingdom
+	82	Grenada
+	83	Georgia
+	84	French Guiana
+	85	Guernsey
+	86	Ghana
+	87	Gibraltar
+	88	Greenland
+	89	Gambia
+	90	Guinea
+	91	Guadeloupe
+	92	Equatorial Guinea
+	93	Greece
+	94	South Georgia and the South Sandwich Islands
+	95	Guatemala
+	96	Guam
+	97	Guinea-Bissau
+	98	Guyana
+	99	Hong Kong
+	100	Heard Island and McDonald Islands
+	101	Honduras
+	102	Croatia
+	103	Haiti
+	104	Hungary
+	105	Indonesia
+	106	Ireland
+	107	Israel
+	108	Isle of Man
+	109	India
+	110	British Indian Ocean Territory
+	111	Iraq
+	112	Iran
+	113	Iceland
+	114	Italy
+	115	Jersey
+	116	Jamaica
+	117	Jordan
+	118	Japan
+	119	Kenya
+	120	Kyrgyzstan
+	121	Cambodia
+	122	Kiribati
+	123	Comoros
+	124	Saint Kitts and Nevis
+	125	North Korea
+	126	South Korea
+	127	Kuwait
+	128	Cayman Islands
+	129	Kazakhstan
+	130	Laos
+	131	Lebanon
+	132	Saint Lucia
+	133	Liechtenstein
+	134	Sri Lanka
+	135	Liberia
+	136	Lesotho
+	137	Lithuania
+	138	Luxembourg
+	139	Latvia
+	140	Libya
+	141	Morocco
+	142	Monaco
+	143	Moldova
+	144	Montenegro
+	145	Saint Martin
+	146	Madagascar
+	147	Marshall Islands
+	148	Macedonia
+	149	Mali
+	150	Myanmar
+	151	Mongolia
+	152	Macao
+	153	Northern Mariana Islands
+	154	Martinique
+	155	Mauritania
+	156	Montserrat
+	157	Malta
+	158	Mauritius
+	159	Maldives
+	160	Malawi
+	161	Mexico
+	162	Malaysia
+	163	Mozambique
+	164	Namibia
+	165	New Caledonia
+	166	Niger
+	167	Norfolk Island
+	168	Nigeria
+	169	Nicaragua
+	170	Netherlands
+	171	Norway
+	172	Nepal
+	173	Nauru
+	174	Niue
+	175	New Zealand
+	176	Oman
+	177	Panama
+	178	Peru
+	179	French Polynesia
+	180	Papua New Guinea
+	181	Philippines
+	182	Pakistan
+	183	Poland
+	184	Saint Pierre and Miquelon
+	185	Pitcairn
+	186	Puerto Rico
+	187	Palestinian Territory
+	188	Portugal
+	189	Palau
+	190	Paraguay
+	191	Qatar
+	192	Reunion
+	193	Romania
+	194	Serbia
+	195	Russia
+	196	Rwanda
+	197	Saudi Arabia
+	198	Solomon Islands
+	199	Seychelles
+	200	Sudan
+	201	Sweden
+	202	Singapore
+	203	Saint Helena
+	204	Slovenia
+	205	Svalbard and Jan Mayen
+	206	Slovakia
+	207	Sierra Leone
+	208	San Marino
+	209	Senegal
+	210	Somalia
+	211	Suriname
+	212	South Sudan
+	213	Sao Tome and Principe
+	214	El Salvador
+	215	Sint Maarten
+	216	Syria
+	217	Swaziland
+	218	Turks and Caicos Islands
+	219	Chad
+	220	French Southern Territories
+	221	Togo
+	222	Thailand
+	223	Tajikistan
+	224	Tokelau
+	225	East Timor
+	226	Turkmenistan
+	227	Tunisia
+	228	Tonga
+	229	Turkey
+	230	Trinidad and Tobago
+	231	Tuvalu
+	232	Taiwan
+	233	Tanzania
+	234	Ukraine
+	235	Uganda
+	236	United States Minor Outlying Islands
+	237	United States
+	238	Uruguay
+	239	Uzbekistan
+	240	Vatican
+	241	Saint Vincent and the Grenadines
+	242	Venezuela
+	243	British Virgin Islands
+	244	U.S. Virgin Islands
+	245	Vietnam
+	246	Vanuatu
+	247	Wallis and Futuna
+	248	Samoa
+	249	Yemen
+	250	Mayotte
+	251	South Africa
+	252	Zambia
+	253	Zimbabwe
+	254	Kosovo
+	255	Serbia and Montenegro
+	256	Netherlands Antilles
+participant_region	-	Region
+participant_city	-	City
+

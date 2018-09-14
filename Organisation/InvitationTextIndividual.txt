@@ -1,0 +1,32 @@
+Subject: Requirements Engineering Survey 2017
+
+Dear [NAME],
+
+I would like to invite you to participate in our requirements engineering (RE) survey.
+
+This survey constitutes the 3rd replication of our bi-yearly conducted survey on Requirements Engineering (RE) to explore trends in industrial practices and problems in RE. The survey forms part of the large-scale Naming the Pain in Requirements Engineering (NaPiRE) initiative [1], started in 2012, and it is conducted by an internationally distributed alliance of software engineering researchers with the goals to 
+
+(1) help the research community getting a better understanding of general industrial trends in Requirements Engineering (RE) and problems faced therein and, thus, strengthen the practical relevance of research outcomes.
+(2) help practitioners assessing their current RE situation in context of overall trends.
+
+Most important facts in a nutshell:
+* This survey is conducted worldwide.
+* We pose a set of questions structured according to the categories:
+   -- General information about the respondent and her project context,
+   -- Status Quo on requirements elicitation, documentation, validation, and management practices
+   -- Current progblems experienced in RE and how these problems manifest themselves in the process
+* The survey is anonymous, because we are especially interested in personal experiences and critical opinions.
+* Redistribution of the survey invitation within organisations is possible and highly appreciated.
+* The overall initiative is run by the community for the community and, thus, all data will be curated and made publicly available after the data analysis.
+
+Please participate in our survey by following http://participate.re-survey.org 
+
+Provided you add your email at the end of the survey, we will gladly provide you with an overview of the results after our analysis.
+
+I would like to thank for your consideration and support!
+
+Kind regards,
+[NAME]
+
+[1] Further information on the initiative's background can be found at http://re-survey.org. There, you will also find later all published material and the (anonymised and curated) data.
+

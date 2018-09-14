@@ -1,0 +1,1088 @@
+NaPiRE 2017/18
+
+Project ID	400193
+Survey URL	https://ww2.unipark.de/uc/re-survey/
+Date	2017-09-13 09:50:32
+
+List: [1] "NFRClasses", dynamic
+
+Used in questions:
+- How do you document each type of non-functional requirements selected in the previous question?
+
+List element no.;Meta information;Assign to list, if;Wildcards
+1;Source variable (of the selected source project): v_97 (Compatibility (e.g., co-existence, interoperability));if selected always list element;[1] Compatibility (e.g., co-existence, interoperability)
+2;Source variable (of the selected source project): v_98 (Maintainability (e.g., analysability, modularity, modifiability, reusability, testability));if selected always list element;[1] Maintainability (e.g., analysability, modularity, modifiability, reusability, testability)
+3;Source variable (of the selected source project): v_99 (Performance efficiency (e.g., time behaviour, resource utilisation, capacity));if selected always list element;[1] Performance efficiency (e.g., time behaviour, resource utilisation, capacity)
+4;Source variable (of the selected source project): v_100 (Portability (e.g., adaptability, install ability, replaceability));if selected always list element;[1] Portability (e.g., adaptability, install ability, replaceability)
+5;Source variable (of the selected source project): v_101 (Reliability (e.g., availability, fault tolerance, maturity, recoverability));if selected always list element;[1] Reliability (e.g., availability, fault tolerance, maturity, recoverability)
+6;Source variable (of the selected source project): v_102 (Safety (e.g. freedom of risk for health or distaster) );if selected always list element;[1] Safety (e.g. freedom of risk for health or distaster) 
+7;Source variable (of the selected source project): v_303 (Security (e.g., accountability, authenticity, confidentiality, integrity, non-repudiation));if selected always list element;[1] Security (e.g., accountability, authenticity, confidentiality, integrity, non-repudiation)
+8;Source variable (of the selected source project): v_103 (Usability (e.g., accessibility, appropriateness recognizability, learnability, operability, user error protection, user interface aesthetics));if selected always list element;[1] Usability (e.g., accessibility, appropriateness recognizability, learnability, operability, user error protection, user interface aesthetics)
+9;Source variable (of the selected source project): v_104 (Other (please specify));if selected always list element;[1] #v_105#
+
+
+List: [2] "ProblemSelectionStatic", dynamic
+
+List element no.;Meta information;Assign to list, if;Wildcards
+1;Source variable (of the selected source project): v_174 (Communication flaws within the project team);if selected always list element;[1] Communication flaws within the project team
+2;Source variable (of the selected source project): v_175 (Communication flaws between the project and the customer );if selected always list element;[1] Communication flaws between the project and the customer 
+3;Source variable (of the selected source project): v_176 (Terminological problems);if selected always list element;[1] Terminological problems
+4;Source variable (of the selected source project): v_177 (Incomplete or hidden requirements);if selected always list element;[1] Incomplete or hidden requirements
+5;Source variable (of the selected source project): v_178 (Insufficient support by project lead);if selected always list element;[1] Insufficient support by project lead
+6;Source variable (of the selected source project): v_179 (Insufficient support by customer);if selected always list element;[1] Insufficient support by customer
+7;Source variable (of the selected source project): v_180 (Stakeholders with difficulties in separating requirements from previously known solution designs);if selected always list element;[1] Stakeholders with difficulties in separating requirements from previously known solution designs
+8;Source variable (of the selected source project): v_181 (Inconsistent requirements);if selected always list element;[1] Inconsistent requirements
+9;Source variable (of the selected source project): v_182 (Missing traceability);if selected always list element;[1] Missing traceability
+10;Source variable (of the selected source project): v_183 (Moving targets (changing goals, business processes and / or requirements));if selected always list element;[1] Moving targets (changing goals, business processes and / or requirements)
+11;Source variable (of the selected source project): v_184 (Gold plating (implementation of features without corresponding requirements));if selected always list element;[1] Gold plating (implementation of features without corresponding requirements)
+12;Source variable (of the selected source project): v_185 (Weak access to customer needs and / or (internal) business information);if selected always list element;[1] Weak access to customer needs and / or (internal) business information
+13;Source variable (of the selected source project): v_186 (Weak knowledge about customer's application domain);if selected always list element;[1] Weak knowledge about customer's application domain
+14;Source variable (of the selected source project): v_187 (Weak relationship between customer and project lead);if selected always list element;[1] Weak relationship between customer and project lead
+15;Source variable (of the selected source project): v_188 (Time boxing / Not enough time in general);if selected always list element;[1] Time boxing / Not enough time in general
+16;Source variable (of the selected source project): v_189 (Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements);if selected always list element;[1] Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements
+17;Source variable (of the selected source project): v_190 (Technically unfeasible requirements);if selected always list element;[1] Technically unfeasible requirements
+18;Source variable (of the selected source project): v_191 (Underspecified requirements that are too abstract and allow for various interpretations);if selected always list element;[1] Underspecified requirements that are too abstract and allow for various interpretations
+19;Source variable (of the selected source project): v_192 (Unclear / unmeasurable non-functional requirements);if selected always list element;[1] Unclear / unmeasurable non-functional requirements
+20;Source variable (of the selected source project): v_193 (Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements);if selected always list element;[1] Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements
+21;Source variable (of the selected source project): v_246 (Top 1 problem (most critical one)); (1=1);[1] Top 1 problem (most critical one)
+22;Source variable (of the selected source project): v_248 (Top 2 problem); (1=1);[1] Top 2 problem
+23;Source variable (of the selected source project): v_250 (Top 3 problem); (1=1);[1] Top 3 problem
+24;Source variable (of the selected source project): v_252 (Top 4 problem); (1=1);[1] Top 4 problem
+25;Source variable (of the selected source project): v_254 (Top 5 problem); (1=1);[1] Top 5 problem
+
+
+1 Page: System (PGID 2401445)
+
+
+3 Page: Language Selection (PGID 2420013)
+
+Please select the language (q_4423504 - Type 111)
+v_300	v_300	int	Language Selection
+		1	English
+		2	Español
+		3	Português
+
+
+
+4 Page: Instructions (PGID 2401449)
+
+
+5 Page: Metadata (PGID 2401450)
+
+In which country are you personally located? (q_4381600 - Type 131)
+v_23	v_23	int	Country Selection
+		6	Afghanistan
+		7	Albania
+		8	Algeria
+		9	American Samoa
+		10	Andorra
+		11	Angola
+		12	Anguilla
+		13	Antigua & Barbuda
+		14	Argentina
+		15	Armenia
+		16	Aruba
+		17	Australia
+		18	Austria
+		19	Azerbaijan
+		20	Bahamas, The
+		21	Bahrain
+		22	Bangladesh
+		23	Barbados
+		24	Belarus
+		25	Belgium
+		26	Belize
+		27	Benin
+		28	Bermuda
+		29	Bhutan
+		30	Bolivia
+		31	Bosnia & Herzegovina
+		32	Botswana
+		33	Brazil
+		34	British Virgin Is.
+		35	Brunei
+		36	Bulgaria
+		37	Burkina Faso
+		38	Burma
+		39	Burundi
+		40	Cambodia
+		41	Cameroon
+		42	Canada
+		43	Cape Verde
+		44	Cayman Islands
+		45	Central African Rep.
+		46	Chad
+		47	Chile
+		48	China
+		49	Colombia
+		50	Comoros
+		51	Congo, Dem. Rep.
+		52	Congo, Repub. of the
+		53	Cook Islands
+		54	Costa Rica
+		55	Cote d'Ivoire
+		56	Croatia
+		57	Cuba
+		58	Cyprus
+		59	Czech Republic
+		60	Denmark
+		61	Djibouti
+		62	Dominica
+		63	Dominican Republic
+		64	East Timor
+		65	Ecuador
+		66	Egypt
+		67	El Salvador
+		68	Equatorial Guinea
+		69	Eritrea
+		70	Estonia
+		71	Ethiopia
+		72	Faroe Islands
+		73	Fiji
+		74	Finland
+		75	France
+		76	French Guiana
+		77	French Polynesia
+		78	Gabon
+		79	Gambia, The
+		80	Gaza Strip
+		81	Georgia
+		82	Germany
+		83	Ghana
+		84	Gibraltar
+		85	Greece
+		86	Greenland
+		87	Grenada
+		88	Guadeloupe
+		89	Guam
+		90	Guatemala
+		91	Guernsey
+		92	Guinea
+		93	Guinea-Bissau
+		94	Guyana
+		95	Haiti
+		96	Honduras
+		97	Hong Kong
+		98	Hungary
+		99	Iceland
+		100	India
+		101	Indonesia
+		102	Iran
+		103	Iraq
+		104	Ireland
+		105	Isle of Man
+		106	Israel
+		107	Italy
+		108	Jamaica
+		109	Japan
+		110	Jersey
+		111	Jordan
+		112	Kazakhstan
+		113	Kenya
+		114	Kiribati
+		115	Korea, North
+		116	Korea, South
+		117	Kuwait
+		118	Kyrgyzstan
+		119	Laos
+		120	Latvia
+		121	Lebanon
+		122	Lesotho
+		123	Liberia
+		124	Libya
+		125	Liechtenstein
+		126	Lithuania
+		127	Luxembourg
+		128	Macau
+		129	Macedonia
+		130	Madagascar
+		131	Malawi
+		132	Malaysia
+		133	Maldives
+		134	Mali
+		135	Malta
+		136	Marshall Islands
+		137	Martinique
+		138	Mauritania
+		139	Mauritius
+		140	Mayotte
+		141	Mexico
+		142	Micronesia, Fed. St.
+		143	Moldova
+		144	Monaco
+		145	Mongolia
+		146	Montserrat
+		147	Morocco
+		148	Mozambique
+		149	Namibia
+		150	Nauru
+		151	Nepal
+		152	Netherlands
+		153	Netherlands Antilles
+		154	New Caledonia
+		155	New Zealand
+		156	Nicaragua
+		157	Niger
+		158	Nigeria
+		159	N. Mariana Islands
+		160	Norway
+		161	Oman
+		162	Pakistan
+		163	Palau
+		164	Panama
+		165	Papua New Guinea
+		166	Paraguay
+		167	Peru
+		168	Philippines
+		169	Poland
+		170	Portugal
+		171	Puerto Rico
+		172	Qatar
+		173	Reunion
+		174	Romania
+		175	Russia
+		176	Rwanda
+		177	Saint Helena
+		178	Saint Kitts & Nevis
+		179	Saint Lucia
+		180	St Pierre & Miquelon
+		181	Saint Vincent and the Grenadines
+		182	Samoa
+		183	San Marino
+		184	Sao Tome & Principe
+		185	Saudi Arabia
+		186	Senegal
+		187	Serbia
+		188	Seychelles
+		189	Sierra Leone
+		190	Singapore
+		191	Slovakia
+		192	Slovenia
+		193	Solomon Islands
+		194	Somalia
+		195	South Africa
+		196	Spain
+		197	Sri Lanka
+		198	Sudan
+		199	Suriname
+		200	Swaziland
+		201	Sweden
+		202	Switzerland
+		203	Syria
+		204	Taiwan
+		205	Tajikistan
+		206	Tanzania
+		207	Thailand
+		208	Togo
+		209	Tonga
+		210	Trinidad & Tobago
+		211	Tunisia
+		212	Turkey
+		213	Turkmenistan
+		214	Turks & Caicos Is
+		215	Tuvalu
+		216	Uganda
+		217	Ukraine
+		218	United Arab Emirates
+		219	United Kingdom
+		220	United States
+		221	Uruguay
+		222	Uzbekistan
+		223	Vanuatu
+		224	Venezuela
+		225	Vietnam
+		226	Virgin Islands
+		227	Wallis and Futuna
+		228	West Bank
+		229	Western Sahara
+		230	Yemen
+		231	Zambia
+		232	Zimbabwe
+		233	- Please select a country -
+
+
+How many people are involved in your project? (q_4381425 - Type 141)
+v_3	v_3	varchar	Team Size
+
+
+Please select the main industrial sector of your project and the application domain of the software you build. (q_4381417 - Type 111)
+v_1	v_1	int	Sector
+		1	Agriculture
+		2	Automotive
+		3	Finance
+		4	Healthcare
+		5	Security
+		6	Manufacturing
+		7	Energy
+		8	Logistics
+		9	Railway
+		10	Avionics
+		12	Insurance
+		13	Education
+		14	Public sector
+		15	Enterprise resource planning
+		16	Human resources
+		17	e-Government
+		18	Telecommunication
+		19	Games engineering
+		20	Public transportation
+		21	e-Commerce
+		22	Other (please specify)
+v_2	v_2	varchar	Other (please specify)
+
+
+Please select the class of systems or services you work on in the context of your project. (q_4381429 - Type 111)
+v_4	v_4	int	System Class
+		1	Software-intensive embedded systems
+		2	Business information systems
+		3	Hybrid of both software-intensive embedded systems and business information systems
+		6	Other (please specify)
+v_5	v_5	varchar	Other (please specify)
+
+
+Are there quality attributes which are of particularly high importance for your development project? If yes, which one(s)? (q_4381437 - Type 121)
+v_6	v_6	int	Compatibility (e.g., co-existence, interoperability)
+		0	not quoted
+		1	quoted
+v_7	v_7	int	Maintainability (e.g., analysability, modularity, modifiability, reusability, testability)
+		0	not quoted
+		1	quoted
+v_8	v_8	int	Performance efficiency (e.g., time behaviour, resource utilisation, capacity)
+		0	not quoted
+		1	quoted
+v_9	v_9	int	Portability (e.g., adaptability, installability, replaceability)
+		0	not quoted
+		1	quoted
+v_10	v_10	int	Reliability (e.g., availability, faulty tolerance, maturity, recoverability)
+		0	not quoted
+		1	quoted
+v_11	v_11	int	Security (e.g., accountability, authenticity, confidentiality, integrity, non-repudiation)
+		0	not quoted
+		1	quoted
+v_12	v_12	int	Safety (e.g., freedom of risk for health or disaster)
+		0	not quoted
+		1	quoted
+v_13	v_13	int	Usability (e.g., accessibility, appropriateness recognisability, learnability, operability, user error protection, user interface aesthetics)
+		0	not quoted
+		1	quoted
+v_14	v_14	int	Other
+		0	not quoted
+		1	quoted
+v_15	v_15	varchar	Other
+
+
+Is your project distributed? (q_4381446 - Type 111)
+v_16	v_16	int	Team Distribution
+		1	Yes
+		2	No
+		3	I don't know
+
+
+What is the main role you occopy in your project? (q_4381479 - Type 111)
+v_17	v_17	int	Main Role Respondent
+		1	Business Analyst
+		2	Customer
+		3	Developer
+		4	Project Lead / Project Manager
+		5	Product Owner
+		6	Product Manager
+		7	Scrum Master
+		8	Architect
+		9	Test Manager / Tester
+		10	Marketing
+		11	Requirements Engineer
+		12	Other (please specify)
+v_18	v_18	varchar	Other (please specify)
+
+
+How many years of industrial experience do you have in your role? (q_4381538 - Type 141)
+v_19	v_19	varchar	Experience Respondent
+
+
+Do you have a certification in this role? If yes, which one? (q_4381564 - Type 141)
+v_20	v_20	varchar	Certification Role Respondent
+
+
+Which organisational role does your project team have in your project? (q_4381566 - Type 111)
+v_21	v_21	int	Organisational Role Team
+		1	Customer
+		2	Main contractor (main responsible for the development project)
+		3	Sub-contractor (responsible for part of a larger development project)
+		4	In-house development
+		6	Other (please specify)
+v_22	v_22	varchar	Other (please specify)
+
+
+How would you personally characterise your way of working in your project? (q_4382041 - Type 111)
+v_24	v_24	int	Characterisation Way of Working
+		1	Agile
+		2	Rather agile
+		3	Hybrid
+		4	Rather plan-driven
+		5	Plan-driven
+
+
+In general, how would you rate the relationship between your project team and your customer? (q_4382042 - Type 111)
+v_25	v_25	int	Characterisation Relationship Customer
+		1	Very good
+		2	Good
+		3	neutral
+		4	Bad
+		5	Very bad
+
+
+
+6 Page: Filter Customer Relationship (PGID 2403398)
+
+
+6.1 Page: Relationship Customer (PGID 2401918)
+
+In your opinion, what is the reason for the particularly bad relationship? (q_4382069 - Type 142)
+v_26	v_26	blob	Reason Bad Relationship
+
+
+In your opinion, what is the reason for the particularly good relationship? (q_4382070 - Type 142)
+v_27	v_27	blob	Reason Good Relationship
+
+
+
+7 Page: Requirements Elicitation (PGID 2401451)
+
+How are the requirements elicited in your project? (q_4382093 - Type 121)
+v_28	v_28	int	We elicit and / or refine requirements in several iterations
+		0	not quoted
+		1	quoted
+v_29	v_29	int	We elicit and / or refine requirements in a specifically dedicated project phase
+		0	not quoted
+		1	quoted
+v_34	v_34	int	Other (please specify)
+		0	not quoted
+		1	quoted
+v_35	v_35	varchar	Other (please specify)
+
+
+Which techniques do you use for your requirements elicitations? (q_4382121 - Type 121)
+v_36	v_36	int	Interviews
+		0	not quoted
+		1	quoted
+v_37	v_37	int	Analysis of existing documents
+		0	not quoted
+		1	quoted
+v_38	v_38	int	Risk analyses
+		0	not quoted
+		1	quoted
+v_39	v_39	int	Prototyping
+		0	not quoted
+		1	quoted
+v_40	v_40	int	Workshops and focus groups
+		0	not quoted
+		1	quoted
+v_41	v_41	int	(Requirements) Reuse databases and guidelines
+		0	not quoted
+		1	quoted
+v_42	v_42	int	Design Thinking / Lean Startup
+		0	not quoted
+		1	quoted
+v_43	v_43	int	External experts
+		0	not quoted
+		1	quoted
+v_44	v_44	int	Observations
+		0	not quoted
+		1	quoted
+v_47	v_47	int	We do not elicit requirements (ourselves)
+		0	not quoted
+		1	quoted
+v_45	v_45	int	Other
+		0	not quoted
+		1	quoted
+v_46	v_46	varchar	Other
+
+
+Who has the primary responsibility for eliciting requirements? (q_4382226 - Type 111)
+v_51	v_51	int	Primary Responsibility Requirements Elicitation
+		1	Marketing
+		2	Business Analyst
+		3	Requirements Engineer
+		4	Project Lead / Project Manager
+		5	Scrum Master
+		6	Product Owner
+		7	Product Manager
+		8	Architect
+		9	Developer
+		10	Customer
+		12	Other
+		13	Nobody has the primary responsibility
+v_52	v_52	varchar	Other
+
+
+
+8 Page: Documentation Entry (PGID 2403254)
+
+At what level of granularity do you document requirements, and when? (q_4384356 - Type 111)
+v_59	v_59	int	Documentation Granularity
+		1	We document detailed requirements at the beginning of the project.
+		2	We document high-level requirements at beginning of the project and refine them to detailed requirements when needed (for instance, we document epics and refine them to user stories for the sprints).
+		3	We do not document requirements.
+		4	Other (please specify)
+v_60	v_60	varchar	Other (please specify)
+
+
+
+9 Page: Filter Documentation (PGID 2403672)
+
+
+9.1 Page: Requirements Documentation (PGID 2401452)
+
+How do you make use of the documented requirements? (q_4384361 - Type 121)
+v_61	v_61	int	They are the basis for the implementation.
+		0	not quoted
+		1	quoted
+v_62	v_62	int	They are source for tests.
+		0	not quoted
+		1	quoted
+v_63	v_63	int	They are used in customer acceptance.
+		0	not quoted
+		1	quoted
+v_64	v_64	int	They are part of the contract.
+		0	not quoted
+		1	quoted
+v_65	v_65	int	They are a reminder for further discussions with the customer, product owner, and / or other team members
+		0	not quoted
+		1	quoted
+v_66	v_66	int	Other (please specify)
+		0	not quoted
+		1	quoted
+v_67	v_67	varchar	Other (please specify)
+
+
+For which information do you make an explicit distinction when documenting your requirements? (q_4384445 - Type 121)
+v_76	v_76	int	Architectural constraints
+		0	not quoted
+		1	quoted
+v_73	v_73	int	Development process aspects
+		0	not quoted
+		1	quoted
+v_79	v_79	int	Formal properties
+		0	not quoted
+		1	quoted
+v_68	v_68	int	Functional properties of the system
+		0	not quoted
+		1	quoted
+v_70	v_70	int	Goals
+		0	not quoted
+		1	quoted
+v_71	v_71	int	Quality properties
+		0	not quoted
+		1	quoted
+v_74	v_74	int	Rules (e.g., business rules)
+		0	not quoted
+		1	quoted
+v_78	v_78	int	Stakeholders
+		0	not quoted
+		1	quoted
+v_77	v_77	int	System behaviour
+		0	not quoted
+		1	quoted
+v_75	v_75	int	Technical interfaces
+		0	not quoted
+		1	quoted
+v_69	v_69	int	Usage scenarios
+		0	not quoted
+		1	quoted
+v_72	v_72	int	User interface(s)
+		0	not quoted
+		1	quoted
+v_80	v_80	int	Other (please specify)
+		0	not quoted
+		1	quoted
+v_81	v_81	varchar	Other (please specify)
+
+
+How do you document requirements? (q_4384461 - Type 121)
+v_87	v_87	int	Activity diagrams
+		0	not quoted
+		1	quoted
+v_92	v_92	int	Business process models
+		0	not quoted
+		1	quoted
+v_88	v_88	int	Class diagrams
+		0	not quoted
+		1	quoted
+v_91	v_91	int	Goal models
+		0	not quoted
+		1	quoted
+v_83	v_83	int	Natural language / informal (plain) text
+		0	not quoted
+		1	quoted
+v_93	v_93	int	Prototypes / User screens
+		0	not quoted
+		1	quoted
+v_89	v_89	int	Sequence diagrams
+		0	not quoted
+		1	quoted
+v_94	v_94	int	Sketches
+		0	not quoted
+		1	quoted
+v_90	v_90	int	State machines
+		0	not quoted
+		1	quoted
+v_84	v_84	int	Structured lists of requirements
+		0	not quoted
+		1	quoted
+v_86	v_86	int	Use case diagrams
+		0	not quoted
+		1	quoted
+v_82	v_82	int	Use cases
+		0	not quoted
+		1	quoted
+v_85	v_85	int	User stories
+		0	not quoted
+		1	quoted
+v_95	v_95	int	Other (please specify)
+		0	not quoted
+		1	quoted
+v_96	v_96	varchar	Other (please specify)
+
+
+Which classes of non-functional requirements do you explicitly consider in your requirements documentation? (q_4384473 - Type 121)
+v_97	v_97	int	Compatibility (e.g., co-existence, interoperability)
+		0	not quoted
+		1	quoted
+v_98	v_98	int	Maintainability (e.g., analysability, modularity, modifiability, reusability, testability)
+		0	not quoted
+		1	quoted
+v_99	v_99	int	Performance efficiency (e.g., time behaviour, resource utilisation, capacity)
+		0	not quoted
+		1	quoted
+v_100	v_100	int	Portability (e.g., adaptability, install ability, replaceability)
+		0	not quoted
+		1	quoted
+v_101	v_101	int	Reliability (e.g., availability, fault tolerance, maturity, recoverability)
+		0	not quoted
+		1	quoted
+v_102	v_102	int	Safety (e.g. freedom of risk for health or distaster)
+		0	not quoted
+		1	quoted
+v_303	v_303	int	Security (e.g., accountability, authenticity, confidentiality, integrity, non-repudiation)
+		0	not quoted
+		1	quoted
+v_103	v_103	int	Usability (e.g., accessibility, appropriateness recognizability, learnability, operability, user error protection, user interface aesthetics)
+		0	not quoted
+		1	quoted
+v_104	v_104	int	Other (please specify)
+		0	not quoted
+		1	quoted
+v_105	v_105	varchar	Other (please specify)
+
+
+
+10 Page: Filter NFR (PGID 2403647)
+
+
+10.1 Page: Documentation NFR (PGID 2403284)
+
+How do you document each type of non-functional requirements selected in the previous question? (q_4384526 - Type 143)
+v_343	v_343	varchar	List element: Compatibility (e.g., co-existence, interoperability) (Source variable (of the selected source project): v_97 (Compatibility (e.g., co-existence, interoperability)))
+v_344	v_344	varchar	List element: Maintainability (e.g., analysability, modularity, modifiability, reusability, testability) (Source variable (of the selected source project): v_98 (Maintainability (e.g., analysability, modularity, modifiability, reusability, testability)))
+v_345	v_345	varchar	List element: Performance efficiency (e.g., time behaviour, resource utilisation, capacity) (Source variable (of the selected source project): v_99 (Performance efficiency (e.g., time behaviour, resource utilisation, capacity)))
+v_346	v_346	varchar	List element: Portability (e.g., adaptability, install ability, replaceability) (Source variable (of the selected source project): v_100 (Portability (e.g., adaptability, install ability, replaceability)))
+v_347	v_347	varchar	List element: Reliability (e.g., availability, fault tolerance, maturity, recoverability) (Source variable (of the selected source project): v_101 (Reliability (e.g., availability, fault tolerance, maturity, recoverability)))
+v_348	v_348	varchar	List element: Safety (e.g. freedom of risk for health or distaster)  (Source variable (of the selected source project): v_102 (Safety (e.g. freedom of risk for health or distaster) ))
+v_349	v_349	varchar	List element: Security (e.g., accountability, authenticity, confidentiality, integrity, non-repudiation) (Source variable (of the selected source project): v_303 (Security (e.g., accountability, authenticity, confidentiality, integrity, non-repudiation)))
+v_350	v_350	varchar	List element: Usability (e.g., accessibility, appropriateness recognizability, learnability, operability, user error protection, user interface aesthetics) (Source variable (of the selected source project): v_103 (Usability (e.g., accessibility, appropriateness recognizability, learnability, operability, user error protection, user interface aesthetics)))
+v_351	v_351	varchar	List element: #v_105# (Source variable (of the selected source project): v_104 (Other (please specify)))
+
+
+
+11 Page: Requirements Validation (PGID 2401453)
+
+How do you verify and / or validate your requirements? (q_4384499 - Type 121)
+v_110	v_110	int	Automatic checking
+		0	not quoted
+		1	quoted
+v_108	v_108	int	Informal peer reviews
+		0	not quoted
+		1	quoted
+v_106	v_106	int	Inspections (formal technical reviews using reading techniques or checklists)
+		0	not quoted
+		1	quoted
+v_109	v_109	int	Simulations
+		0	not quoted
+		1	quoted
+v_107	v_107	int	Walkthroughs
+		0	not quoted
+		1	quoted
+v_111	v_111	int	We do not verify and / or validate our requirements
+		0	not quoted
+		1	quoted
+v_112	v_112	int	Other (please specify)
+		0	not quoted
+		1	quoted
+v_113	v_113	varchar	Other (please specify)
+
+
+How do you align software testing with requirements? (q_4386276 - Type 121)
+v_158	v_158	int	Testers participate in requirements reviews.
+		0	not quoted
+		1	quoted
+v_159	v_159	int	We check the coverage of requirements with tests.
+		0	not quoted
+		1	quoted
+v_160	v_160	int	We define acceptance criteria and tests for requirements.
+		0	not quoted
+		1	quoted
+v_161	v_161	int	We derive tests from system models.
+		0	not quoted
+		1	quoted
+v_162	v_162	int	We do not align tests and requirements.
+		0	not quoted
+		1	quoted
+v_163	v_163	int	Other (please specify)
+		0	not quoted
+		1	quoted
+v_164	v_164	varchar	Other (please specify)
+
+
+
+12 Page: Requirements Management (PGID 2401454)
+
+How do you deal with changing requirements after the initial release of the system (or parts of it)? (q_4386278 - Type 111)
+v_165	v_165	int	Requirements Changes
+		1	We work with change requests, but do not further update our requirements specification once formally accepted.
+		2	We update our product backlog.
+		3	We work with change requests and continuously update our requirements specification accordingly also after formally accepted.
+		4	Other (please specify)
+		5	We don't update our requirements (documentation) at all.
+v_166	v_166	varchar	Other (please specify)
+
+
+
+13 Page: Satisfaction RE (PGID 2401455)
+
+Right now, how satisfied are you with how requirements engineering is done in your project? (q_4386283 - Type 111)
+v_167	v_167	int	Satisfaction RE
+		1	Very dissatisfied
+		2	Dissatisfied
+		3	Neither dissatisfied nor satisfied
+		4	Satisfied
+		5	Very satisfied
+
+
+
+14 Page: Filter Dissatisfaction (PGID 2404980)
+
+
+14.1 Page: RE Dissatisfaction (PGID 2404981)
+
+Why are you rather dissatisfied with how requirements engineering is done in your project? (q_4386342 - Type 142)
+v_168	v_168	blob	Reasons Dissatisfaction
+
+
+What are the consequences of the dissatisfying requirements engineering? (q_4386344 - Type 142)
+v_170	v_170	blob	Consequences Dissatisfying RE
+
+
+What should change in your requirements engineering in order to make it satisfying? (q_4386345 - Type 142)
+v_171	v_171	blob	Necessary Change in RE
+
+
+
+15 Page: Filter Satisfaction (PGID 2404982)
+
+
+15.1 Page: RE Satisfaction (PGID 2404996)
+
+Why are you rather satisfied with how requirements engineering is done in your project? (q_4386343 - Type 142)
+v_169	v_169	blob	Reasons Satisfaction
+
+
+What are the consequenes of the satisfying requirements engineering? (q_4386346 - Type 142)
+v_172	v_172	blob	Consequences Satisfying RE
+
+
+At some point in the past, you were likely not fully satisfied with your project's requirements engineering. If anything, what happened to make you satisfied? (q_4386347 - Type 142)
+v_173	v_173	blob	Past Changes in RE
+
+
+
+16 Page: RE Problems (PGID 2405011)
+
+Considering your personal experiences, how do the following problems in requirements engineering apply to your project? (q_4386791 - Type 341)
+v_174	v_174	int	Communication flaws within the project team
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_175	v_175	int	Communication flaws between the project and the customer
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_176	v_176	int	Terminological problems
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_177	v_177	int	Incomplete or hidden requirements
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_178	v_178	int	Insufficient support by project lead
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_179	v_179	int	Insufficient support by customer
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_180	v_180	int	Stakeholders with difficulties in separating requirements from previously known solution designs
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_181	v_181	int	Inconsistent requirements
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_182	v_182	int	Missing traceability
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_183	v_183	int	Moving targets (changing goals, business processes and / or requirements)
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_184	v_184	int	Gold plating (implementation of features without corresponding requirements)
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_185	v_185	int	Weak access to customer needs and / or (internal) business information
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_186	v_186	int	Weak knowledge about customer's application domain
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_187	v_187	int	Weak relationship between customer and project lead
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_188	v_188	int	Time boxing / Not enough time in general
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_189	v_189	int	Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_190	v_190	int	Technically unfeasible requirements
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_191	v_191	int	Underspecified requirements that are too abstract and allow for various interpretations
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_192	v_192	int	Unclear / unmeasurable non-functional requirements
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+v_193	v_193	int	Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements
+		1	Does not apply at all
+		2	Does rather not apply
+		3	Neutral
+		4	Rather applies
+		5	Strongly applies
+
+
+
+17 Page: Critical RE Problems (PGID 2405407)
+
+Considering your personally experienced problems stated in the previous question, which ones would you classify as the five most critical ones? (q_4388468 - Type 361)
+v_246	v_246	int	Top 1 problem (most critical one) (Problem experienced in your projects:) 215651
+		0	Please make a selection
+		1	Communication flaws within the project team
+		2	Communication flaws between the project and the customer
+		3	Terminological problems
+		4	Incomplete or hidden requirements
+		5	Insufficient support by project lead
+		6	Insufficient support by customer
+		7	Stakeholders with difficulties in separating requirements from previously known solution designs
+		8	Inconsistent requirements
+		9	Missing traceability
+		10	Moving targets (changing goals, business processes and / or requirements)
+		11	Gold plating (implementation of features without corresponding requirements)
+		12	Weak access to customer needs and / or (internal) business information
+		13	Weak knowledge about customer's application domain
+		14	Weak relationship between customer and project lead
+		15	Time boxing / Not enough time in general
+		16	Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements
+		17	Technically unfeasible requirements
+		18	Underspecified requirements that are too abstract and allow for various interpretations
+		19	Unclear / unmeasurable non-functional requirements
+		20	Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements
+v_248	v_248	int	Top 2 problem (Problem experienced in your projects:) 215651
+		0	Please make a selection
+		1	Communication flaws within the project team
+		2	Communication flaws between the project and the customer
+		3	Terminological problems
+		4	Incomplete or hidden requirements
+		5	Insufficient support by project lead
+		6	Insufficient support by customer
+		7	Stakeholders with difficulties in separating requirements from previously known solution designs
+		8	Inconsistent requirements
+		9	Missing traceability
+		10	Moving targets (changing goals, business processes and / or requirements)
+		11	Gold plating (implementation of features without corresponding requirements)
+		12	Weak access to customer needs and / or (internal) business information
+		13	Weak knowledge about customer's application domain
+		14	Weak relationship between customer and project lead
+		15	Time boxing / Not enough time in general
+		16	Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements
+		17	Technically unfeasible requirements
+		18	Underspecified requirements that are too abstract and allow for various interpretations
+		19	Unclear / unmeasurable non-functional requirements
+		20	Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements
+v_250	v_250	int	Top 3 problem (Problem experienced in your projects:) 215651
+		0	Please make a selection
+		1	Communication flaws within the project team
+		2	Communication flaws between the project and the customer
+		3	Terminological problems
+		4	Incomplete or hidden requirements
+		5	Insufficient support by project lead
+		6	Insufficient support by customer
+		7	Stakeholders with difficulties in separating requirements from previously known solution designs
+		8	Inconsistent requirements
+		9	Missing traceability
+		10	Moving targets (changing goals, business processes and / or requirements)
+		11	Gold plating (implementation of features without corresponding requirements)
+		12	Weak access to customer needs and / or (internal) business information
+		13	Weak knowledge about customer's application domain
+		14	Weak relationship between customer and project lead
+		15	Time boxing / Not enough time in general
+		16	Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements
+		17	Technically unfeasible requirements
+		18	Underspecified requirements that are too abstract and allow for various interpretations
+		19	Unclear / unmeasurable non-functional requirements
+		20	Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements
+v_252	v_252	int	Top 4 problem (Problem experienced in your projects:) 215651
+		0	Please make a selection
+		1	Communication flaws within the project team
+		2	Communication flaws between the project and the customer
+		3	Terminological problems
+		4	Incomplete or hidden requirements
+		5	Insufficient support by project lead
+		6	Insufficient support by customer
+		7	Stakeholders with difficulties in separating requirements from previously known solution designs
+		8	Inconsistent requirements
+		9	Missing traceability
+		10	Moving targets (changing goals, business processes and / or requirements)
+		11	Gold plating (implementation of features without corresponding requirements)
+		12	Weak access to customer needs and / or (internal) business information
+		13	Weak knowledge about customer's application domain
+		14	Weak relationship between customer and project lead
+		15	Time boxing / Not enough time in general
+		16	Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements
+		17	Technically unfeasible requirements
+		18	Underspecified requirements that are too abstract and allow for various interpretations
+		19	Unclear / unmeasurable non-functional requirements
+		20	Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements
+v_254	v_254	int	Top 5 problem (Problem experienced in your projects:) 215651
+		0	Please make a selection
+		1	Communication flaws within the project team
+		2	Communication flaws between the project and the customer
+		3	Terminological problems
+		4	Incomplete or hidden requirements
+		5	Insufficient support by project lead
+		6	Insufficient support by customer
+		7	Stakeholders with difficulties in separating requirements from previously known solution designs
+		8	Inconsistent requirements
+		9	Missing traceability
+		10	Moving targets (changing goals, business processes and / or requirements)
+		11	Gold plating (implementation of features without corresponding requirements)
+		12	Weak access to customer needs and / or (internal) business information
+		13	Weak knowledge about customer's application domain
+		14	Weak relationship between customer and project lead
+		15	Time boxing / Not enough time in general
+		16	Discrepancy between high degree of innovation and need for formal acceptance of (potentially wrong / incomplete / unknown) requirements
+		17	Technically unfeasible requirements
+		18	Underspecified requirements that are too abstract and allow for various interpretations
+		19	Unclear / unmeasurable non-functional requirements
+		20	Volatile customer's business domain regarding, e.g., changing points of contact, business processes or requirements
+
+
+
+18 Page: Problems Causes Effects (PGID 2406406)
+
+Considering your personally experienced most critical problems selected in the previous question, which causes do they have? (q_4388846 - Type 143)
+v_277	v_277	varchar	#v_246#
+v_278	v_278	varchar	#v_248#
+v_279	v_279	varchar	#v_250#
+v_280	v_280	varchar	#v_252#
+v_281	v_281	varchar	#v_254#
+
+
+Considering your personally experienced most critical problems selected in the previous question, which implications do they have? (q_4388903 - Type 143)
+v_282	v_282	varchar	#v_246#
+v_283	v_283	varchar	#v_248#
+v_284	v_284	varchar	#v_250#
+v_285	v_285	varchar	#v_252#
+v_286	v_286	varchar	#v_254#
+
+
+Besides the problems listed in the previous questions, is there another prominent problem you experienced in your project? If so, which one? (q_4386921 - Type 142)
+v_194	v_194	blob	Further Problem
+
+
+
+19 Page: Conclusion (PGID 2406658)
+
+Is there any other unaddressed aspect that you experience in your RE process and that you would like to share with us? (q_4389544 - Type 142)
+v_297	v_297	blob	Further Remarks
+
+
+In case you would like to be notified about the results, please fill in your email-address. (q_4389546 - Type 141)
+v_298	v_298	varchar (with type check: E-mail address)	Email
+
+
+In principle, would you be willing to serve as an interview partner in the future for follow-up questions? (q_4389548 - Type 111)
+v_299	v_299	int	Participation Interview
+		1	Yes
+		2	No
+
+
