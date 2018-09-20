@@ -1,81 +1,81 @@
-;lfdn;v_348;tag
-0;291; using quantified textual requirements;Quantified textual requirements
-1;1327;-;NotCodable
-2;126;Analysis;NotCodable
-3;1761;architecture digram;Architecture diagram
-4;795;Avoidance of clinical risk appears in plenty of our user stories ( so that I can be sure I'm providing the appropriate treatment  etc.);User stories
-5;420;backup plans;Backup plans
-6;952;before and after transformation;NotCodable
-7;1669;COMMUNICATION, NATURAL LANGUAGE;Textual requirements
-8;1091;Diagrams and texts;Diagrams
-9;1091;Diagrams and texts;Textual requirements
-10;355;different IT systems;NotCodable
-11;1423;DISASTER REDUCTION;NotCodable
-12;1424;DISASTER REDUCTION;NotCodable
-13;1482;DOCUMENTATION OF ERRORS;Error documentation
-14;1417;DOES NOT APPLY;NotCodable
-15;304;Error scenarios;Error scenarios
-16;1406;Explicit fields in doors with links to safety documentation;NotCodable
-17;785;following some guidelines;Following guidelines
-18;150;following specific guidelines and standards;Following guidelines
-19;150;following specific guidelines and standards;Following standards
-20;203;freedom of risk;NotCodable
-21;292;HARA;HARA
-22;230;I don't really deal with this ;NotCodable
-23;479;natural language (sentence patterns) + semi-formal or formal models (ISO 26262);Textual requirements
-24;479;natural language (sentence patterns) + semi-formal or formal models (ISO 26262);Semi-formal and formal models (ISO26262)
-25;1098;Natural language / informal (plain) text;Textual requirements
-26;663;Natural Language / Informal Text;Textual requirements
-27;1723;NO RISK TO HEALTH;Risks
-28;79;Non functional requirements chapter at the end of each concerned story;User stories
-29;446;non-quantified textual requirements;Textual requirements
-30;1239;non-quantified textual requirements;Textual requirements
-31;118;non-quantified textual requirements;Textual requirements
-32;818;non-quantified textual requirements;Textual requirements
-33;81;non-quantified textual requirements & specific standards;Textual requirements
-34;81;non-quantified textual requirements & specific standards;Following standards
-35;1066;quantified text requirements generated from Hazard Analysis and Safety Related Application Conditions of the products;Quantified textual requirements (from Hazard Analysis)
-36;1064;quantified textual requirements;Quantified textual requirements
-37;985;Quantified textual requirements;Quantified textual requirements
-38;427;Quantified textual requirements ;Quantified textual requirements
-39;570;Reference to applicable international standards, quantified textual requirements;Following standards
-40;570;Reference to applicable international standards, quantified textual requirements;Quantified textual requirements
-41;1204;Review of requirements from client and written in doc;Textual requirements
-42;221;risk;Risks
-43;984;Risk Analysis;Risks
-44;879;risk integrations;Risks
-45;119;SIL;SIL
-46;182;Specific guidelines standard or practice;Following guidelines
-47;182;Specific guidelines standard or practice;Following standards
-48;1290;Specifications;NotCodable
-49;170;spread sheet;NotCodable
-50;444;State machine and structured list of requirements;State Machine
-51;444;State machine and structured list of requirements;Structured requirements
-52;1031;structured list of requirements;Structured requirements
-53;199;Tagged Requirements get extra attention.  Mil style Safety Analysis.;Tagged requirements
-54;569;Text;Textual requirements
-55;1014;text;Textual requirements
-56;1008;Text;Textual requirements
-57;1820;Text;Textual requirements
-58;147;textual;Textual requirements
-59;332;textual;Textual requirements
-60;1402;Textual;Textual requirements
-61;58;textual (templates);Textual requirements
-62;297;Textual requirements;Textual requirements
-63;750;Textual requirements and diagrams;Textual requirements
-64;750;Textual requirements and diagrams;Diagrams
-65;183;Textual, diagrams, standard;Textual requirements
-66;183;Textual, diagrams, standard;Diagrams
-67;183;Textual, diagrams, standard;Following standards
-68;1021;The system must be able to identify a hardware self-heating thus connecting the cooling area.;NotCodable
-69;912;This usually forms part of the risk assessment and mitigation analysis at the beginning of the project, revised at stage gates;Risks
-70;1291;using non-quantified textual requirements;Textual requirements
-71;511;using non-quantified textual requirements;Textual requirements
-72;278;using non-quantified textual requirements;Textual requirements
-73;149;using non-quantified textual requirements, using quantified textual requirements;Textual requirements
-74;149;using non-quantified textual requirements, using quantified textual requirements;Quantified textual requirements
-75;120;using quantified textual requirements;Quantified textual requirements
-76;1141;using quantified textual requirements;Quantified textual requirements
-77;165;using semi-quantified textual requirements ( shall-statements ) in reference to safety rules;Semi-quantified textual requirements
-78;1620;We are currently working on refining this.;NotCodable
-79;1354;we do not document, due to the reduction of documentation;Not documented
+lfdn;v_348;tag
+291; using quantified textual requirements;Quantified textual requirements
+1327;-;NotCodable
+126;Analysis;NotCodable
+1761;architecture digram;Architecture diagram
+795;Avoidance of clinical risk appears in plenty of our user stories ( so that I can be sure I'm providing the appropriate treatment  etc.);User stories
+420;backup plans;Backup plans
+952;before and after transformation;NotCodable
+1669;COMMUNICATION, NATURAL LANGUAGE;Textual requirements
+1091;Diagrams and texts;Diagrams
+1091;Diagrams and texts;Textual requirements
+355;different IT systems;NotCodable
+1423;DISASTER REDUCTION;NotCodable
+1424;DISASTER REDUCTION;NotCodable
+1482;DOCUMENTATION OF ERRORS;Error documentation
+1417;DOES NOT APPLY;NotCodable
+304;Error scenarios;Error scenarios
+1406;Explicit fields in doors with links to safety documentation;NotCodable
+785;following some guidelines;Following guidelines
+150;following specific guidelines and standards;Following guidelines
+150;following specific guidelines and standards;Following standards
+203;freedom of risk;NotCodable
+292;HARA;HARA
+230;I don't really deal with this ;NotCodable
+479;natural language (sentence patterns) + semi-formal or formal models (ISO 26262);Textual requirements
+479;natural language (sentence patterns) + semi-formal or formal models (ISO 26262);Semi-formal and formal models (ISO26262)
+1098;Natural language / informal (plain) text;Textual requirements
+663;Natural Language / Informal Text;Textual requirements
+1723;NO RISK TO HEALTH;Risks
+79;Non functional requirements chapter at the end of each concerned story;User stories
+446;non-quantified textual requirements;Textual requirements
+1239;non-quantified textual requirements;Textual requirements
+118;non-quantified textual requirements;Textual requirements
+818;non-quantified textual requirements;Textual requirements
+81;non-quantified textual requirements & specific standards;Textual requirements
+81;non-quantified textual requirements & specific standards;Following standards
+1066;quantified text requirements generated from Hazard Analysis and Safety Related Application Conditions of the products;Quantified textual requirements (from Hazard Analysis)
+1064;quantified textual requirements;Quantified textual requirements
+985;Quantified textual requirements;Quantified textual requirements
+427;Quantified textual requirements ;Quantified textual requirements
+570;Reference to applicable international standards, quantified textual requirements;Following standards
+570;Reference to applicable international standards, quantified textual requirements;Quantified textual requirements
+1204;Review of requirements from client and written in doc;Textual requirements
+221;risk;Risks
+984;Risk Analysis;Risks
+879;risk integrations;Risks
+119;SIL;SIL
+182;Specific guidelines standard or practice;Following guidelines
+182;Specific guidelines standard or practice;Following standards
+1290;Specifications;NotCodable
+170;spread sheet;NotCodable
+444;State machine and structured list of requirements;State Machine
+444;State machine and structured list of requirements;Structured requirements
+1031;structured list of requirements;Structured requirements
+199;Tagged Requirements get extra attention.  Mil style Safety Analysis.;Tagged requirements
+569;Text;Textual requirements
+1014;text;Textual requirements
+1008;Text;Textual requirements
+1820;Text;Textual requirements
+147;textual;Textual requirements
+332;textual;Textual requirements
+1402;Textual;Textual requirements
+58;textual (templates);Textual requirements
+297;Textual requirements;Textual requirements
+750;Textual requirements and diagrams;Textual requirements
+750;Textual requirements and diagrams;Diagrams
+183;Textual, diagrams, standard;Textual requirements
+183;Textual, diagrams, standard;Diagrams
+183;Textual, diagrams, standard;Following standards
+1021;The system must be able to identify a hardware self-heating thus connecting the cooling area.;NotCodable
+912;This usually forms part of the risk assessment and mitigation analysis at the beginning of the project, revised at stage gates;Risks
+1291;using non-quantified textual requirements;Textual requirements
+511;using non-quantified textual requirements;Textual requirements
+278;using non-quantified textual requirements;Textual requirements
+149;using non-quantified textual requirements, using quantified textual requirements;Textual requirements
+149;using non-quantified textual requirements, using quantified textual requirements;Quantified textual requirements
+120;using quantified textual requirements;Quantified textual requirements
+1141;using quantified textual requirements;Quantified textual requirements
+165;using semi-quantified textual requirements ( shall-statements ) in reference to safety rules;Semi-quantified textual requirements
+1620;We are currently working on refining this.;NotCodable
+1354;we do not document, due to the reduction of documentation;Not documented
