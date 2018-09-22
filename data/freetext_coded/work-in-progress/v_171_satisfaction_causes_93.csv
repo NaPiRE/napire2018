@@ -1,0 +1,97 @@
+lfdn;v_171;tag;category
+58;Early collaboration between customer, RE, development and test;collaborationStakeholdersEarly;process
+76;Listen to BA team in selection of tool rather than impose corporate solution;corporateWelcomesSuggestions;press
+114;less stakeholder request (SR)  SR shall not cover already SW design  ;requestsStakeholderMinimal;press
+115;1. Create acceptance and knowledge of RE in the company  2. Set RE up correctly - starting with processes;corporateWelcomesRE;press
+115;1. Create acceptance and knowledge of RE in the company  2. Set RE up correctly - starting with processes;cultureREEstablished;press
+115;1. Create acceptance and knowledge of RE in the company  2. Set RE up correctly - starting with processes;processStructured;process
+118;all developers should be part of requirement engineering;cultureREEstablished;process
+119;documentation, wording requirements rather than model requirements.;documentationSufficient;process
+147;Select or design and then adopt and use a requirements engineering approach.;processStructured;process
+163;Everything.  Currently requirements engineering is controlled by IT managers who have never performed business analysis, and they tend to favor the development team rather than the opinion of a certified business analyst.  I enjoy working with my customers and delivering a product that meets their needs, but not having to fight over every single thing with a developer who doesn't like working with women.;;
+163;Everything.  Currently requirements engineering is controlled by IT managers who have never performed business analysis, and they tend to favor the development team rather than the opinion of a certified business analyst.  I enjoy working with my customers and delivering a product that meets their needs, but not having to fight over every single thing with a developer who doesn't like working with women.;;
+166;Put a requirements process in place;;
+168;The team should have some sort of formal documentation to keep track of things.;;
+180;Include fields (essential reporting data)  Anti requirements  ;;
+188;All parties involved into the development process should give priority to the RE function, in order to speed up the whole development process.;;
+197;More collaboration, across the Business Change / IT / User community to elicit requirements and develop with agility.;;
+199;Follow the methods determined by the safety-critical industries to obtain the benefit of these processes.  If these processes are inefficient work to improve them rather than ignoring them and building a facade around them.;;
+208;working more disciplined. Decide, either to be agile (and following the principles) or to not be agile (and doing RQ-Phase before Developing), but not in the middle, as we do it now.   managing the stakeholders, build clear responsibilities of each stakeholder (competence team, domain experts etc.);;
+210;manage a formal process for requirements elicitation;;
+217;Users should be involved;;
+231;More involvement, change management, formal verification;;
+258;"We should get rid of the Money Problem ;->  Seriously: We Need to get a trust that the quotes are accurate. We Need to get a common understanding of the Requirements of all the Teams the internal end user Team as well as the external development. And we Need to have enough Money to do These discussion rounds. So the external development Teams Needs an Option to  bill  These refinements. And the paying end user Team Needs to see that this is needed and helpful.  We problably Need to formalize the states of Requirements a bit more so it is clear, when something is  ready for development  and whom it is adressed to.  We also Need the development Team to do more testing and implement automatic testing. We're going do Hand them over test cases and also small Videos of how to do use the product.  Honestly we should Change to  times and materials  Projects and get regularly Meetings (using virtual Team rooms). But a fixed Budget is still needed to do planning and not simply spend more Money than we have...";;
+263;Make it more flexible by working with smaller iteration and better stakeholer involvement.  Establish an effectiv sign-off process and comunicate changes in a better way.;;
+268;Better time scheduled project plan;;
+295;Improve skills of BA, implements some norms.;;
+297;More use of formal methods, re tools, system requirements and re management tools;;
+355;more team members, which have time to check the implemented requirements . A example is, when you have Hardware requirements, it is not enough to write the requirements, We have to invite all stakeholders (HW engineer, Safety engineer, Project manager) to verify all requirements and then, the requirement engineer can write a status protocol that everything is safe and implemented and he can set the status to  Project_accepted . This is according to A-SPICE. ;;
+359;To spread use of UML to customers.;;
+378;Do not overengineer and implement only the functions that bring a Business value.;;
+393;more effort on eliciting and prioritizing business requirements;;
+446;Less is more;;
+461;Spend more time on requirements engineering to analyze, design and document correctly. Establish measurable acceptance criteria from the beginning.;;
+467;Define a responsible person, establish a process to elicit, specify, verify and validate requirements throughout the course of the project, seeking that the process meets the needs and dynamics of the project.;;
+468;"As I said in question 27, we should be more disciplined; for instance, by having a specialized phase in each iteration.";;
+489;Better requirements documentation;;
+496;Restore order  Retail Agility  Increase Common sense  Stick to fundamentals  ;;
+523;There should be a person reviewing the document before it was delivered to the team.;;
+524;Apply the most appropriate techniques in the process and apply them well. Make a better management of changes. Involve more users. Follow specification standards. Increased training of team. Improve requirements traceability.;;
+545;More involvement and better planning. ;;
+560;More customer engagement ;;
+572;Requirements need to be defined upfront and managed as the project progresses to ensure that the implemented product aligns back to the requirements for traceability and post implementation management;;
+634;Detailed requirements should be known beforehand. Or if they change, at least the completness of the functionalities can be verified.;;
+637;Better quality assurance of the requirments.;;
+661;Improve team coordination. Assign an experienced analyst;;
+719;Let it be done through a formal and standard process;;
+740;User involvement.;;
+795;Ensure we started from the right initial assumptions, revalidate these on a regular basis and when we realise that we're not necessarily building the right thing STOP and think rather than carrying on.;;
+819;Having a solid working process that is correctly followed;;
+845;Increased emphasis on wireframes as an understand of functionality, Increased use of scenarios and use cases to ensure expectations are explicit.;;
+847;More engagement throughout the process, less focus on up front analysis and more throughout the project. ;;
+887;Become more of an Agile team;;
+889;Use more UML (diagrams) to have the big picture of the project.;;
+909;Make greater immersion in the areas to better identify and analyze the causes of problems, the real needs of the projects.;;
+910;A more efficient form of documentation;;
+916;Immersion in the business to guarantee the real needs of those involved and the organization;;
+917;Mostly, start development only after an initial maturation of requirements. Currently, the requirements analysis phase is shortened to start developing as soon as possible. But this is a consequence of being a service performed for the government, where there is no planning, which ultimately impacts the work of developing systems for them;;
+928;Having more time to carry out a more robust documentation that guarantees the quality of the development and future maintenance of the products that are being developed. Using more qualified professionals to generate the requirements. Reviewing the requirement before they go into production. Developing test cases and automate them. Performing and approval that is strongly based on documentation and not in the knowledge of professionals who are running this stage, so in the future we could eliminate the stage of approval, which would be absorbed by the test phase.;;
+930;Modify the internal logging tool;;
+933;We make internal products, for controlled public, with a small development team and currently our engineering requirements meets our needs.;;
+1010;Involve testers in reviews;;
+1012;Requirement Management should be lived.;;
+1014;find a company global solution;;
+1033;It is today recognized as satisfactory;;
+1064;Requirement validation, and baselining, should have been done when starting up the project years ago. ;;
+1066;Get rid of Customer's consulting firm between us and the end customer.;;
+1080;have complete documentation of all existing information and perform change management with a focus on information growth.;;
+1105;Having a standard for the documentation of business rules;;
+1111;Implementation and use of a more formal model by company as a whole.;;
+1114;Defined processes for requirements engineering.;;
+1122;I would open larger definition processes with the client, and of the detailed approval;;
+1124;Detail the requirements that are not be met by the system / development.;;
+1141;realistic Project planning;;
+1165;APPLYING THE BASIC RULES AND REQUIREMENTS testing methods;;
+1223;Standardize;;
+1236;There is a lack of a, even partial, adoption of a consolidated development methodology instead of the current ad hoc approach.;;
+1288;better description;;
+1290;Review and change Requirements constantly;;
+1291;The requirements have to be reported in a more detailed and systematic manner and have to be deduced more user-centered.;;
+1349;Adjusting initial budget plan and search for budget approval signatures;;
+1376;Define a process and follow it;;
+1449;more documentation and communication about changes;;
+1466;We need greater focus on various aspects of product success (particularly UX), and a more proactive and broadly-reaching requirements gathering exercise.;;
+1486;Easy software tool for Lean startup prototyping;;
+1542;First of all the structure of the teams, having many features to be developed by at least 3 teams makes no sense, specially if the teams don't have one single planning and refinement session, where everybody can align, making a project plan for that is not only over-engineered, but also plans cannot be always kept, as many interferences happen during the sprint (e.g. re-prioritization, encountered problems, refactorings, production bugs and hotfixes, etc).    Also the culture to stop promising features on dates long time ago, a roadmap that serves as a signed commitment rather than a guideline for priorities and the sequence in which they will be tackled.    The understanding that Agile means also time for communication and a lot of discussions with the team, pair programming, knowledge sharing, and not 8 hours coding every day every sprint, the communication ceremonies and activities between all team members is also a productive activity. Change the mindset that Agile is achieving double in half the time, specially without communication, that is unrealistic and unproductive.;;
+1633;Stop maintaining old specifications and start throwing away the unnessecary stuff. People should talk about what users need and RE should be driven by usage related data.;;
+1690;IMPROVE REQUIREMENTS DOCUMENTATION. More formal discussion AND REQUIREMENTS techniques;;
+1718;Better coordination of requirements and the source reason for those requirements.;;
+1744;Atleast Take help from someone who knows what needs to be done;;
+1755;Start writing bettet requirements ;;
+1791;as;;
+1840;A better focus and cooperation between the different project members and take decisions on the interpretation that is done on the regulation. To make sure all see this in the same way independent on the role in the project. There are i big fear in taking decisions and doing something wrong, I want us to take a decision and if it is the wrong one after 6 month then we change but now we are all over the place;;
+1859;General a specific role for this or that test area actively participate in requierments meetings;;
+1909;Having one.;;
+1922;We should use a specific tool to manage requirements. We currently use MS Word documents.;;
+1933;To have a better architectual understanding from the techincal dependencies. ;;
+1961;If the people tasked to come up with requirements does not have the knowledge to do the job, replace them with someone that can.;;
