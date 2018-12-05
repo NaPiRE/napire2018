@@ -1,0 +1,27 @@
+-Typo: Insufficient analysis at the beginnging of the project teilweise bei diversen Antworten als tag
+
+-Typo: *Unclear / unmeasurable nonNotCodablefunctional requirements* bei den Problems Cause --> Problem Rank 1-5
+
+
+Ich denke es sollte bei all denen *Unclear / unmeasurable non-functional requirements* heißen
+
+
+Mir ist allgemein aufgefallen das das wenn ein Bindestrich in einer Zelle enthalten ist, notcodable mitten drin steht, 
+also hat anscheinend jemand suchen und ersetzen benutzt um ein minus beim Tag mir notcodable zu ersetzen
+
+-Typo: *Conflicts of personalities* und *Conflict of personalities* als unterschiedliche tags bei Rank 1-5 Causes of Problems
+
+-Tags: Lack of project management, Method Poor project management, Missing project management, Poor project management 
+VORERST geändert zu Lack of project management
+
+-Tags: Non functional requirements unclear and Non-functional requirements unclear found in tags for causes --> changed to Non-functional requirements unclear 
+
+-Tags: Documentation overhead, poor documentation --> merged to poor documentation
+
+-Typo: Unclear roles and responsonsibilities at customer side in Cause --> Problem Rank 1-5
+
+, changed to Unclear roles and responsibilities at customer side
+
+-Typo: Solution orientration
+
+ 
