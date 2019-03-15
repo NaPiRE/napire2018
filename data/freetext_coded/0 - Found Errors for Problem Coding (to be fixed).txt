@@ -2,6 +2,12 @@
 
 -Typo: *Unclear / unmeasurable nonNotCodablefunctional requirements* bei den Problems Cause --> Problem Rank 1-5
 
+-Problems:
+* "Communication flaws between team and customer" versus "Communication flaws between the project and the customer"
+* "Conflicts of personalities" und "Conflict of personalities"
+* Typo: "Unclear / unmeasurable nonNotCodablefunctional requirements" bei den Problems Cause --> Problem Rank 1-5
+* Coding Kategorie: "Project of Organization" statt "Project or Organization"
+
 
 Ich denke es sollte bei all denen *Unclear / unmeasurable non-functional requirements* heiﬂen
 
