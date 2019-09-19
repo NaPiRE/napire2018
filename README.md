@@ -9,7 +9,7 @@ Naming the Pain in Requirements Engineering ([NaPiRe](http://napire.org/#/home))
 This repository contains all the material from the 2018 Edition of the NaPiRE Survey:
 
 - [Organisation](https://github.com/NaPiRE/napire2018/tree/master/Organisation): Contains material from the data collection (e.g. invitation text messages or the project export from the survey tool).
-- [data](https://github.com/NaPiRE/napire2018/tree/master/data): Contains all the raw data as exported from the survey tool. The file napire_trugh.csv contains the cleaned data set.
+- [data](https://github.com/NaPiRE/napire2018/tree/master/data): Contains all the raw data as exported from the survey tool. The file napire_truth.csv contains the cleaned data set.
 - [documentation](https://github.com/NaPiRE/napire2018/tree/master/documentation): Contains the codebook and documentation material supporting the data analysis process (e.g. coding instructions).
 - [notebooks](https://github.com/NaPiRE/napire2018/tree/master/notebooks): Contains all Jupyter notebooks as used in the data analysis.
 - [notebooks_html](https://github.com/NaPiRE/napire2018/tree/master/notebooks_html): html exports of selected notebooks.
