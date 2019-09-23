@@ -7,7 +7,7 @@ Contains all the raw data as exported from the survey tool.
 
 The files in the directories follow the following scheme:
 
-`(1) variable number`, `(2) length of answers expected`, and `(3) number of not-evidently-null answers`.
+`(1) variable number`, `(2) length of answers and / or coding scheme expected`, and `(3) number of not-evidently-null answers`.
 
 E.g.: `(1) v_105 (2) short (3) 11` results in `v_105_short_11.csv`.
 
