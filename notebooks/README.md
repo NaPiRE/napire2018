@@ -9,7 +9,7 @@
   - **01_prepare_short_vars**: Short Free Text Variable Coding plus Documentation
   - **02_prepare_long_vars**: Long Free Text Variable Coding plus Documentation
   - **03_validation**: Validation of Variables prior to integration into truth dataset
-  - **04_integrate_freetext_variables**: Integration of coded free text answers back to 'truth' set ??? TBD
+  - **04_integrate_freetext_variables**: Integration of coded free text answers back to 'truth' set (currently on hold)
   - **05_analyse_vars**: Short Text Variable Analysis (Descriptive and in isolation from rest of data set)
 - **prelimanary**: Data exploration (descriptive statistics, e.g. completed questionnaires)
 
