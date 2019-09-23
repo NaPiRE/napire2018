@@ -4,7 +4,7 @@
 
 # napire2018
 
-Naming the Pain in Requirements Engineering ([NaPiRe](http://napire.org/#/home)) constitutes a globally distributed family of surveys on Requirements Engineering (RE) practices and problems, initiated by Daniel Méndez and Stefan Wagner in 2012. It is nowadays conducted by an internationally distributed alliance of software engineering researchers with the goal to help the research community getting a better understanding of general industrial trends in Requirements Engineering (RE) and problems faced therein. NaPiRE is an academic (non-profit and open) endeavour which aims at establishing the first holistic theory on industrial practices and problems in RE.
+Naming the Pain in Requirements Engineering ([NaPiRE](http://napire.org/#/home)) constitutes a globally distributed family of surveys on Requirements Engineering (RE) practices and problems, initiated by Daniel Méndez and Stefan Wagner in 2012. It is nowadays conducted by an internationally distributed alliance of software engineering researchers with the goal to help the research community getting a better understanding of general industrial trends in Requirements Engineering (RE) and problems faced therein. NaPiRE is an academic (non-profit and open) endeavour which aims at establishing the first holistic theory on industrial practices and problems in RE.
 
 This repository contains all the material from the 2018 Edition of the NaPiRE Survey:
 
