@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="http://napire.org/assets/napire_thumbnail.png" alt="NaPiRe Logo">
+</p>
+
 # napire2018/data
 
 Data Analysis for the 2018 Edition of the NaPiRE Survey.

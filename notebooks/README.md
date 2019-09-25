@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="http://napire.org/assets/napire_thumbnail.png" alt="NaPiRe Logo">
+</p>
+
 # napire2018/notebooks
 
 [Jupyter Notebooks](https://jupyter.org/documentation) running [IPython](https://ipython.readthedocs.io/en/stable/) (.ipynb files) for the analysis of the 2018 Edition of the NaPiRE Survey.
