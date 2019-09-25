@@ -12,6 +12,6 @@ This repository contains all the material from the 2018 Edition of the NaPiRE Su
 - [data](https://github.com/NaPiRE/napire2018/tree/master/data): Contains all the raw data as exported from the survey tool. The file napire_truth.csv contains the cleaned data set.
 - [documentation](https://github.com/NaPiRE/napire2018/tree/master/documentation): Contains the codebook and documentation material supporting the data analysis process (e.g. coding instructions).
 - [notebooks](https://github.com/NaPiRE/napire2018/tree/master/notebooks): Contains all Jupyter notebooks as used in the data analysis.
-- [notebooks_html](https://github.com/NaPiRE/napire2018/tree/master/notebooks_html): html exports of selected notebooks.
+- [notebooks_html](https://github.com/NaPiRE/napire2018/tree/master/notebooks_html): HTML exports of selected notebooks.
 
 **Note:** The repository is private as long as the data analysis as well as the further collaborations based on the NaPiRE data are ongoing and will be made public with an open data export to Zenodo.
